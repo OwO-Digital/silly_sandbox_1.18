@@ -1,0 +1,13 @@
+name = "Respiteful"
+filename = "respiteful-1.1.2.c.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Df7RucLK/versions/ckuYCn0m/respiteful-1.1.2.c.jar"
+hash-format = "sha1"
+hash = "4b9f2ab42feb99238185ad6cdda2fc53ed3bfe43"
+
+[update]
+[update.modrinth]
+mod-id = "Df7RucLK"
+version = "ckuYCn0m"

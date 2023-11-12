@@ -1,0 +1,13 @@
+name = "Just Zoom"
+filename = "justzoom_forge_1.0.2-1_MC_1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAiqcykM/versions/Yd9leUAD/justzoom_forge_1.0.2-1_MC_1.18.2.jar"
+hash-format = "sha1"
+hash = "a8fce48cedf8993aa87d9d4e2b8d502bdf7ed5e5"
+
+[update]
+[update.modrinth]
+mod-id = "iAiqcykM"
+version = "Yd9leUAD"

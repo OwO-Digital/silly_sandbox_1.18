@@ -1,0 +1,18 @@
+name = "Better Brightness Slider"
+filename = "brightnessslider-forge-1.0-1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXleiZbk/versions/ePqwfnui/brightnessslider-forge-1.0-1.18.2.jar"
+hash-format = "sha1"
+hash = "c7b20b0e12baa52e64b870ab66bfd0f4cfd3d285"
+
+[update]
+[update.modrinth]
+mod-id = "aXleiZbk"
+version = "ePqwfnui"
+
+[option]
+optional = true
+default = false
+description = "Removes limits from the brightness slider. Useful for when the sun is shining on your screen."

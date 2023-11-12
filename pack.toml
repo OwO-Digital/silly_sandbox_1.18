@@ -1,0 +1,13 @@
+name = "Silly Sandbox 1.18"
+author = "owo.digital"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7e1b7c855fb83598f9e3776becbce1b4e787a8dc9e6071843fca0001a0826677"
+
+[versions]
+forge = "40.2.14"
+minecraft = "1.18.2"

@@ -1,0 +1,13 @@
+name = "Almost Unified"
+filename = "almostunified-forge-1.18.2-0.3.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/COPYJEcR/almostunified-forge-1.18.2-0.3.10.jar"
+hash-format = "sha1"
+hash = "b2e52ea40aeed302827c686920a461ab55f2eaa4"
+
+[update]
+[update.modrinth]
+mod-id = "sdaSaQEz"
+version = "COPYJEcR"

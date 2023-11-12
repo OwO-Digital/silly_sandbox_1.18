@@ -1,0 +1,13 @@
+name = "Puzzles Lib"
+filename = "PuzzlesLib-v3.5.8-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/nEMiPLZ0/PuzzlesLib-v3.5.8-1.18.2-Forge.jar"
+hash-format = "sha1"
+hash = "9c265fcebb691a60ff80d9739786ed06666b2ccf"
+
+[update]
+[update.modrinth]
+mod-id = "QAGBst4M"
+version = "nEMiPLZ0"

@@ -1,0 +1,13 @@
+name = "Beautify!"
+filename = "beautify-1.18.2-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9BPuv4vL/versions/yNif8AVO/beautify-1.18.2-1.4.1.jar"
+hash-format = "sha1"
+hash = "27b08d922274d9df889a37351ef5a1d844b45b05"
+
+[update]
+[update.modrinth]
+mod-id = "9BPuv4vL"
+version = "yNif8AVO"

@@ -1,0 +1,13 @@
+name = "Environmental"
+filename = "environmental-1.18.2-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OqtiAZcV/versions/SgFSZH6W/environmental-1.18.2-2.0.0.jar"
+hash-format = "sha1"
+hash = "b51ac3ce84846847f1d430ae5dec7bd71caea35d"
+
+[update]
+[update.modrinth]
+mod-id = "OqtiAZcV"
+version = "SgFSZH6W"

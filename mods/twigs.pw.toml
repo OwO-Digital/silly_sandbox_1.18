@@ -1,0 +1,13 @@
+name = "Twigs"
+filename = "twigs-1.1.4-patch4+1.18.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RG50cUrX/versions/sIYrgOPN/twigs-1.1.4-patch4%2B1.18.2-forge.jar"
+hash-format = "sha1"
+hash = "d9c85737f978a7b76147a8aa23db7994923850d0"
+
+[update]
+[update.modrinth]
+mod-id = "RG50cUrX"
+version = "sIYrgOPN"

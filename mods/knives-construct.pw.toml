@@ -1,0 +1,13 @@
+name = "Knives Construct"
+filename = "knives_construct-1.18.2-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UaAydapd/versions/QAfhPYTA/knives_construct-1.18.2-1.0.jar"
+hash-format = "sha1"
+hash = "c8574d793ebc8111d5128972e89ca52a1e38a5fb"
+
+[update]
+[update.modrinth]
+mod-id = "UaAydapd"
+version = "QAfhPYTA"

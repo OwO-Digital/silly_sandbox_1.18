@@ -1,0 +1,13 @@
+name = "Engineer's Decor"
+filename = "engineersdecor-1.18.2-1.1.28.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CAf1aIa6/versions/8LB1X2tE/engineersdecor-1.18.2-1.1.28.jar"
+hash-format = "sha1"
+hash = "d599ea997588232db4e0e18406916a310bcffc90"
+
+[update]
+[update.modrinth]
+mod-id = "CAf1aIa6"
+version = "8LB1X2tE"

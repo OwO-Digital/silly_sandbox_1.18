@@ -1,0 +1,18 @@
+name = "[EMF] Entity Model Features"
+filename = "entity_model_features_forge_1.18.2-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/GZoWb3Sj/entity_model_features_forge_1.18.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "4e855a7702f57f9ee94d0c588fea5c60bc1a919c"
+
+[update]
+[update.modrinth]
+mod-id = "4I1XuqiY"
+version = "GZoWb3Sj"
+
+[option]
+optional = true
+default = false
+description = "OptiFine format custom entity models support."

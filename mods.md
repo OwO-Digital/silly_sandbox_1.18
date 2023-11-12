@@ -1,0 +1,155 @@
+# Manually added mods
+(since packwiz doesn't make this obvious)
+
+## Content
+- 'Dustrial Decor
+- Abnormals Delight
+- Another Furniture
+- Atmospheric
+- Autumnity
+- Beautify
+- Berry Good
+- Bonsai Trees 3
+- Buzzier Bees
+- Chef's Delight
+- Chipped
+- Clayworks
+- Corn Delight
+- Create
+- Create Crafts & Additions
+- Create: Diesel Generators
+- Create Enchantment Industry
+- Create: Ender Transmission
+- Create Central Kitchen
+- Create: Crystal Clear
+- Create: Dreams & Desires
+- Create: Interiors
+- Create: Steam 'n' Rails
+- Create: Misc and Things
+- Decorative Blocks
+- Delightful
+- Domestication Innovation
+- Engineer's Decor
+- Environmental
+- Ex Compressum
+- Ex Nihilo: Sequentia
+- Ex Nihilo: Sequentia - Mekanism Addon
+- Ex Nihilo: Sequentia - Thermal Addon
+- Ex Nihilo: Sequentia - Tinkers Addon
+- Extra Disks
+- Farmer's Delight
+- Farmer's Respite
+- Flux Networks
+- Immersive Engineering
+- Immersive Posts
+- Immersive Petroleum
+- Incubation
+- Iron Furnaces [FORGE]
+- Knives Construct
+- Mekanism
+- Mekanism Additions
+- Mekanism Generators
+- Mekanism Tools
+- Mystical Agradditions
+- Mystical Agriculture
+- Mystical Agriculture Tiered Crystals
+- Nature's Compass
+- Neapolitan
+- Overweight Farming
+- Overworld Quartz
+- Quark
+- Rechiseled
+- Refined Storage
+- Refined Storage: Requestify
+- Regions Unexplored
+- Respiteful
+- Sophisticated Backpacks
+- Storage Drawers
+- Framed Compacting Drawers
+- More Storage Drawers
+- Supplementaries
+- Thermal Foundation
+- Thermal Dynamics
+- Thermal Expansion
+- Thermal Innovation
+- Thermal Integration
+- Tinker's Planner
+- Tinkers' Construct
+- Tinkers' Integrations and Tweaks
+- Tinkers' Levelling Addon
+- Tinkers' Things
+- Twigs
+- Upgrade Aquatic
+- Woodworks
+
+## Optimisation & fixes
+- AI Improvements
+- Alternate Current
+- AntiGhost
+- Better chunk loading[Forge/Fabric]
+- Better Fps - Render Distance[Forge]
+- Camary
+- Clumps
+- Connectivity[Forge/Fabric]
+- Dynamic View[Forge]
+- Embeddium
+- Entity Collision FPS Fix
+- FastSuite
+- FastWorkbench
+- FastFurnace
+- Fastload
+- FerriteCore
+- FixMySpawnR
+- Get It Together, Drops!
+- It Shall Not Tick (ISNT)
+- Lazy DataFixerUpper(LazyDFU) [FORGE]
+- Let Me Despawn
+- Lightspeed
+- Memory Leak Fix
+- ModernFix
+- No Telemetry
+- Rubidium Extra
+- Saturn
+- Smarter Farmers (farmers replant)
+- Smooth Boot (Reloaded)
+- Starlight (Forge)
+- DrawerFPS
+- TexTrue's Embeddium Options
+
+# Modpack tweaks
+- Almost Unified
+- Every Compat (Wood Good)
+- Default Options
+- KubeJS
+
+# QoL
+- AppleSkin
+- Better Brightness Slider
+- Catalogue
+- Configured
+- Connectedness
+- Controlling
+- Convenient Curios Container
+- Cosmetic Armor Reworked
+- Crafting Tweaks
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- FTB Ultimine (Forge)
+- Jade
+- Jade Addons (Forge)
+- Just Zoom
+- Leaves Be Gone
+- Mouse Tweaks
+- Not Enough Animations
+- Personality
+- REI Plugin Compatibilities
+- Roughly Enough Items (REI)
+- Universal Bone Meal
+- Xaero's Minimap (Fair-Play)
+- Xaero's World Map
+- Screenshot to Clipboard
+- Oculus
+
+# Skin extensions
+- Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
+- Figura

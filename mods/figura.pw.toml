@@ -1,0 +1,18 @@
+name = "Figura"
+filename = "figura-0.1.2+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s9gIPDom/versions/H6QWSHtz/figura-0.1.2%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "162efd4b74477e50cb9371c914c836ccb09b5ebe"
+
+[update]
+[update.modrinth]
+mod-id = "s9gIPDom"
+version = "H6QWSHtz"
+
+[option]
+optional = true
+default = true
+description = "Allows for advanced player customisation. Fallback to Ears."

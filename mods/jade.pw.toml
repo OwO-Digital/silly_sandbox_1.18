@@ -1,0 +1,13 @@
+name = "Jade 🔍"
+filename = "Jade-1.18.2-forge-5.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/UEoiUewC/Jade-1.18.2-forge-5.3.1.jar"
+hash-format = "sha1"
+hash = "d8521365d4a1f16ea2eea8a0509ab35430318c34"
+
+[update]
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "UEoiUewC"

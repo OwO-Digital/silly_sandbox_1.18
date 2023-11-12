@@ -1,0 +1,13 @@
+name = "Convenient Curios Container"
+filename = "convenientcurioscontainer-1.12-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jIJyY7rq/versions/665PnbuZ/convenientcurioscontainer-1.12-1.18.2.jar"
+hash-format = "sha1"
+hash = "8ce44ce90d6af7f6feaf61eda25a213ff733f1ac"
+
+[update]
+[update.modrinth]
+mod-id = "jIJyY7rq"
+version = "665PnbuZ"

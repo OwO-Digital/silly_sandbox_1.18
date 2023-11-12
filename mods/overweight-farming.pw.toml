@@ -1,0 +1,13 @@
+name = "Overweight Farming"
+filename = "overweightfarming-1.18.2-1.6.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bCxmmxKN/versions/LuxaqEbn/overweightfarming-1.18.2-1.6.0-forge.jar"
+hash-format = "sha1"
+hash = "2d21d4ef4eca80b63b754e3377d5e034dc7c1e39"
+
+[update]
+[update.modrinth]
+mod-id = "bCxmmxKN"
+version = "LuxaqEbn"

@@ -1,0 +1,13 @@
+name = "Tinkers' Levelling Addon"
+filename = "TinkersLevellingAddon-1.18.2-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OOUmRYso/versions/egvpDD8W/TinkersLevellingAddon-1.18.2-1.3.0.jar"
+hash-format = "sha1"
+hash = "7b6d2b000eb86ac9c5de9faff3c12e61a263e813"
+
+[update]
+[update.modrinth]
+mod-id = "OOUmRYso"
+version = "egvpDD8W"

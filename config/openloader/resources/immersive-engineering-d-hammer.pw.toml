@@ -1,0 +1,13 @@
+name = "Immersive Engineering 3D Hammer"
+filename = "Immersive Engineering 3d Hammer.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec24e6340f20fb111349f3745bea98ae68042d64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3177358
+project-id = 438859

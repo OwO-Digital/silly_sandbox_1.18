@@ -1,0 +1,13 @@
+name = "Blueprint"
+filename = "blueprint-1.18.2-5.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VsM5EDoI/versions/LeFEEsj6/blueprint-1.18.2-5.5.0.jar"
+hash-format = "sha1"
+hash = "7b498dbc4938801d5d6e595b64361e5c10a814b7"
+
+[update]
+[update.modrinth]
+mod-id = "VsM5EDoI"
+version = "LeFEEsj6"
