@@ -5,6 +5,10 @@ file = "config/defaultoptions/extra/config/justzoom/config.txt"
 hash = "b3d789a8aaa275c77e4ec45a17737f1fa7cce4767c748e54c01ab1519f37e906"
 
 [[files]]
+file = "config/defaultoptions/extra/config/quark-common.toml"
+hash = "632f51b63c10520faccfcddd3a2f714337c62b95478f67d5af3776e2e7443d89"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "bd2a54469bba3b48ece6ad99e4c1f77a05b921734a78c63bbf5d60ee6c170e62"
 
@@ -765,6 +769,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "a5ef5701971928a59f5ac7d701e0d9b484f28a4053276acb6e0b79e62071ce49"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "7d55d3ce406bae0b380718c5b68167c9cc4eb454c1e78c7b754d6c50d04e2b04"
 metafile = true
 
 [[files]]
