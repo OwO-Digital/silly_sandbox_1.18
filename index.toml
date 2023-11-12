@@ -32,6 +32,16 @@ hash = "96e224d20455cc3a6a812c343b3cb2ddc3c19ee7565a14c1ab6fd2ae9502c879"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "16f4e87791c6d8aa4dfdd6972cadb1f6464624ca942a7f32e0898a5ce4e61268"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "7ae52db86e4458cffafd8a134f8227df4c0d73293bcbcaff151d8af7ff554eb9"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
 metafile = true
@@ -59,6 +69,16 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6d782ea5149607907b103d5752a0f4f1ca49382495ea26c4090a40a5221bf9ad"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "daf2c753af5c0e870e5387d3b3ac6bd0e5014dd9b1dfc57f9c661a13e1552891"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "9481e28c61c24ea4e928181f575334622a4b19abbbb211467d1cb3a8dedb25e7"
 metafile = true
 
 [[files]]
@@ -382,11 +402,6 @@ hash = "c1dbee87ecea8d45d65741b70f48ef7702e07534e0fd30c418692f0f1153e3bc"
 metafile = true
 
 [[files]]
-file = "mods/extra-disks.pw.toml"
-hash = "8fab1e360f0baffc19200e894006dbe635d5cf55e9be88a0c6ea4b14f7ebbf42"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "379d6716ffb05e693aac86723e30bd6db53b98fea48d07eddb8238a260ec6d4e"
 metafile = true
@@ -537,6 +552,11 @@ hash = "0e82bb571251b2274b6fa354d7416e46a52936fae1a36a13558fa3c555bcd266"
 metafile = true
 
 [[files]]
+file = "mods/lazierae2.pw.toml"
+hash = "15ab30e8e115cad509dd22858572bb588340bfa8cd4f4c2660771e33c7e9bbca"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
@@ -564,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "3cf8b32aacef32f066de71330c7c2fbba058115dd2d6bd181e468508fa56499c"
+metafile = true
+
+[[files]]
+file = "mods/mega.pw.toml"
+hash = "c5a6a440d71aad1eb926ffc94553a342ec36c4c6075aa2b9ff78ca19537d6c01"
 metafile = true
 
 [[files]]
@@ -692,11 +717,6 @@ hash = "76710ea3ed07cdd0ea0e4bb772e31207f2292fa51e1f4364fb5fa638c457d74d"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "e000c9ef575b94224294fc79ad61ef92103f9410b53b905902a72c040efd724a"
-metafile = true
-
-[[files]]
 file = "mods/reforgium.pw.toml"
 hash = "f1bcbc345d9d7fe0014918a1a044b2d2a13d3f050750d9fc0854ff0864096112"
 metafile = true
@@ -724,11 +744,6 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
 hash = "7cd05584b69fc6741b505fe775dc8634021743f5a318e83162248c67b95129fe"
-metafile = true
-
-[[files]]
-file = "mods/rs-requestify.pw.toml"
-hash = "42d92d1d660145285d25d9f4fc12e69046bd8c6dc62cfa5fbdcbefc2785419c9"
 metafile = true
 
 [[files]]

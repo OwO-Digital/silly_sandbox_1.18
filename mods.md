@@ -36,7 +36,6 @@
 - Ex Nihilo: Sequentia - Mekanism Addon
 - Ex Nihilo: Sequentia - Thermal Addon
 - Ex Nihilo: Sequentia - Tinkers Addon
-- Extra Disks
 - Farmer's Delight
 - Farmer's Respite
 - Flux Networks
@@ -59,8 +58,6 @@
 - Overworld Quartz
 - Quark
 - Rechiseled
-- Refined Storage
-- Refined Storage: Requestify
 - Regions Unexplored
 - Respiteful
 - Sophisticated Backpacks
@@ -81,6 +78,12 @@
 - Twigs
 - Upgrade Aquatic
 - Woodworks
+- Applied Energistics 2
+- Applied Energistics 2 Wireless Terminals
+- MEGA Cells
+- Applied Mekanistics
+- AEInfinityBooster
+- Lazier AE2
 
 ## Optimisation & fixes
 - AI Improvements
