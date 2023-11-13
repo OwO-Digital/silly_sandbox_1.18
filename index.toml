@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "321ced79fba59c697a13d77f3d9409691bb226af1433ee20716ec9fadae8275e"
+hash = "36b876f410648c16b3aed60ddc69d20590c44ad3004b93302008dae2bcd35247"
 
 [[files]]
 file = "config/defaultoptions/extra/config/justzoom/config.txt"
