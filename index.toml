@@ -181,6 +181,11 @@ hash = "898cbfbb07b41b5321827a19ef745fab3c80974d1a793cb8f49ac011a36cfb2f"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "53af8ab7630e42f31459dabb60a0669d884119a3972cba60592d634079c17a02"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "315f0f4547b784419a5d68a23583a64e16cee45834747859be6e662e324eb7bb"
 metafile = true
