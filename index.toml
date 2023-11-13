@@ -406,6 +406,11 @@ hash = "2637ee79835280cd80b0f9e25afc97a7969b7536ac36b4a96e776b5e9b17705c"
 metafile = true
 
 [[files]]
+file = "mods/ex-nihilo-sequentia-ae2-addon.pw.toml"
+hash = "d249d21550f24c797267d944fe071b5c2d81e344c5629cc45f53fdcec3481533"
+metafile = true
+
+[[files]]
 file = "mods/ex-nihilo-sequentia-mekanism-addon.pw.toml"
 hash = "2d8e575a386f6fc43e66bfeac162461ba0900c9f5d8ce7bc03bbfdba6cf86319"
 metafile = true
