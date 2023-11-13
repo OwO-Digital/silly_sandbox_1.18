@@ -1,0 +1,13 @@
+name = "Blood Smeltery"
+filename = "Blood-Smeltery-1.18.2-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4835dd0765f1cef5522b82e035183491f4e2c92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4579120
+project-id = 476863

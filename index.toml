@@ -136,6 +136,16 @@ hash = "870463293308fb73af014c9adf6b5631edb9e745af8de337726f0b0c0eef74d7"
 metafile = true
 
 [[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "f44398d928de03d73d2170690c4e326b7c3c9d9af511e304c1099cac0067dba8"
+metafile = true
+
+[[files]]
+file = "mods/blood-smeltery.pw.toml"
+hash = "b92561f6edd6d263f6daf365a3deec00b8d89d07492774ddbf1692ca41d3267b"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "364fb92ef7351aabc622bc586db759639fdcee626ef790b3c49a6fc424365739"
 metafile = true
@@ -693,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/overworld-quartz.pw.toml"
 hash = "af7d763cb77fe020d219928d2076419f24f8e8d50d9b9669f6ae6f0758e6fe03"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "a15753ef45bd45e4c1125473588e568d6949a9a0068bb50c6f26c5003781c450"
 metafile = true
 
 [[files]]
