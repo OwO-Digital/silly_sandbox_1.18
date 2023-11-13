@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "321ced79fba59c697a13d77f3d9409691bb226af1433ee20716ec9fadae8275e"
+
+[[files]]
 file = "config/defaultoptions/extra/config/justzoom/config.txt"
 hash = "b3d789a8aaa275c77e4ec45a17737f1fa7cce4767c748e54c01ab1519f37e906"
 
 [[files]]
 file = "config/defaultoptions/extra/config/quark-common.toml"
-hash = "632f51b63c10520faccfcddd3a2f714337c62b95478f67d5af3776e2e7443d89"
+hash = "7ada4492dde9763e2401f1bb35f2425f7501bae84c35152ed7e215e885e2e587"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -343,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "f7e4200a6d297716d7e561680c4d8d813376b8ad69857b7e9065a0e2228eaa49"
+hash = "e7b8dc9236d742f52b02e9f59f26fb058839dab04c5e19a7801a0baeb2f9a29f"
 metafile = true
 
 [[files]]
@@ -623,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4a4a753670ffc8ff358e45a040eb7f1917b8d137c9df34c834d258874ceb458b"
+hash = "030581a535a3f57bb5a5b1e49861a9f2e8fe87f304bb3a4127bf9d3bfe83071d"
 metafile = true
 
 [[files]]
