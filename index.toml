@@ -22,6 +22,11 @@ hash = "a682a04b41f9b520f5253d59da3f63542ebef83ff17de2d997fbc24794a051e2"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/translations-for-sodium.pw.toml"
+hash = "7d54ccfbdb26d4f8aab22f3c2bedf1ed9e96a1f31e9faf6f470817ac52534afa"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/updated-engineering.pw.toml"
 hash = "5cfcf0df944c1aa8f45a5d0ffb372a5e54de306285a6c46ddfdbe8cce5a6b6ba"
 metafile = true
