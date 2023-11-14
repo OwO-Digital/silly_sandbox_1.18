@@ -161,6 +161,11 @@ hash = "f7e254d44fd0bf1f5a249496c4ce598c8d9bc5650c1c6fee6d6fbb92cc5d9c8f"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "baaa058042da35900f65da51a9bfa98f741b30072104e9d08f89611ae722946e"
+metafile = true
+
+[[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "200425f6fcf008e27313440f11b74ef174ba5c2ae52dcff15777df1f5826ec62"
 metafile = true
