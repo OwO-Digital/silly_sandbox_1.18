@@ -1,0 +1,13 @@
+name = "More Buckets"
+filename = "MoreBuckets-1.18.2-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WFpYC7WJ/versions/Z06sjcfP/MoreBuckets-1.18.2-2.0.1.jar"
+hash-format = "sha1"
+hash = "d5e01d26a6d1bfdaac50e4023ca0d360c06c317c"
+
+[update]
+[update.modrinth]
+mod-id = "WFpYC7WJ"
+version = "Z06sjcfP"

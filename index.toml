@@ -661,6 +661,11 @@ hash = "030581a535a3f57bb5a5b1e49861a9f2e8fe87f304bb3a4127bf9d3bfe83071d"
 metafile = true
 
 [[files]]
+file = "mods/more-buckets.pw.toml"
+hash = "ed98ba366145b90d1c9c76c7a7b117b915d072a7e67cd294d5bcc1310887fa8d"
+metafile = true
+
+[[files]]
 file = "mods/more-storage-drawers.pw.toml"
 hash = "22ce13d18ed05951fcbc99a68601432f86e6ed19ef3ce545b0b93f737fbc4f27"
 metafile = true
