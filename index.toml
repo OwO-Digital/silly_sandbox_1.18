@@ -541,6 +541,11 @@ hash = "eda374a4b08b44a4eaa6899977566bd1c88dbb1978190a6001df055faba5f7c2"
 metafile = true
 
 [[files]]
+file = "mods/iron-jetpacks.pw.toml"
+hash = "8b88432a899d0c888bbcf7ae8f0a56408ba7236abb2ede3603fbee66ffba1d6b"
+metafile = true
+
+[[files]]
 file = "mods/it-shall-not-tick-(isnt).pw.toml"
 hash = "e8085863c3eef68de62627eb1d19b59d1218d3662ee3abfeb5e49935dac7aa25"
 metafile = true
