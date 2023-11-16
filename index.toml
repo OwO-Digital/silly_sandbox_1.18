@@ -32,6 +32,10 @@ hash = "5cfcf0df944c1aa8f45a5d0ffb372a5e54de306285a6c46ddfdbe8cce5a6b6ba"
 metafile = true
 
 [[files]]
+file = "config/wands.json"
+hash = "03fe0fe10c89a9d24e877fe0c3c8be1eae51b3a6180033fbaf9d9953dbdbf92a"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "e88bc5877d8680de1389849d4ce2d0387b281d48c625379ba729e31fd6587993"
 
