@@ -36,8 +36,20 @@ file = "config/wands.json"
 hash = "03fe0fe10c89a9d24e877fe0c3c8be1eae51b3a6180033fbaf9d9953dbdbf92a"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/wet_sawdust.png"
+hash = "e30f23e1a125565bfbd931c050bf5262e205ef61ef58d026f4fe832b40b468d7"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "e88bc5877d8680de1389849d4ce2d0387b281d48c625379ba729e31fd6587993"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "28502cc74a7dacf4b9b534efc33acd959e20d72431cbef6e5f4260034b7ecd59"
+
+[[files]]
+file = "kubejs/startup_scripts/items_blocks.js"
+hash = "9f4c40245e367f60030f3f28f22409ac18be0f774bdd195d39c583bcbbf7703e"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -92,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/applied-mekanistics.pw.toml"
 hash = "9481e28c61c24ea4e928181f575334622a4b19abbbb211467d1cb3a8dedb25e7"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "fa907377a77cfabd9b70b6e61bdcdd19d124bd86d7d3fb234c884ae03cd72683"
 metafile = true
 
 [[files]]
@@ -281,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
-hash = "c82c4a0930007991f93014698ec16c8d527d284cb11e465290a5e4c8eff5b5c5"
+hash = "c147510a6546352f6b6a3f8b00f05d35e1461e4692b782017efdccd0cd497e2a"
 metafile = true
 
 [[files]]
@@ -541,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "a13b245beac299b155b1a3faa06fefa0d7d29c12c16fa102243ec3cb8e516883"
+hash = "e6f7821217f3856311ec2f59eaa2effff6273483854d6a2293cb62ca6f104f46"
 metafile = true
 
 [[files]]
@@ -592,6 +609,26 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "fa0ac28adaba1a26ee447f2fda6ab0211c3e980352a9d6d9b9ace9d7225a17bf"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "6ba38b772ff6217503bbba600deef53ae2b57b481fc7bcb304642e24e0f79136"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-immersive-engineering.pw.toml"
+hash = "9d6778c83a53f59596ff991629915cd288c12a8d027757494207525dcbab42b2"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism.pw.toml"
+hash = "3be10aca1353ea4c9a6a76380ef56ff96982d8542f7db9dbf91288ea83359785"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-thermal.pw.toml"
+hash = "9451b4e570967d07f358f651ba77e6dea088681467068d1687e01dd3e2afa28c"
 metafile = true
 
 [[files]]

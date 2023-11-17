@@ -1,0 +1,13 @@
+name = "KubeJS Immersive Engineering"
+filename = "kubejs-immersive-engineering-1802.2.1-build.35.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MXpukMRu/versions/TNDXu8rF/kubejs-immersive-engineering-1802.2.1-build.35.jar"
+hash-format = "sha1"
+hash = "a8050aa3d6af28ae1035286730c2bfad1440fe35"
+
+[update]
+[update.modrinth]
+mod-id = "MXpukMRu"
+version = "TNDXu8rF"

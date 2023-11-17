@@ -1,0 +1,13 @@
+name = "KubeJS Thermal"
+filename = "kubejs-thermal-1802.1.6-build.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/taN3HInZ/versions/FNW8oSY2/kubejs-thermal-1802.1.6-build.7.jar"
+hash-format = "sha1"
+hash = "1d6ab80c419d23f595974960c100f57b207ad991"
+
+[update]
+[update.modrinth]
+mod-id = "taN3HInZ"
+version = "FNW8oSY2"
