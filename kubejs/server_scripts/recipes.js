@@ -19,6 +19,7 @@ let AUT = (id, x) => MOD("autumnity", id, x)
 let QRK = (id, x) => MOD("quark", id, x)
 let IE = (id, x) => MOD("immersiveengineering", id, x)
 let TH = (id, x) => MOD("thermal", id, x)
+let IF = (id, x) => MOD("industrialforegoing", id, x)
 
 
 
@@ -90,32 +91,42 @@ function betterSawdust(event) {
 
 function rubberAndPlastic(event) {
     //event.replaceInput({}, 'industrialforegoing:plastic', 'pneumaticcraft:plastic')
-    //event.remove({ output: 'industrialforegoing:plastic' })
+    event.remove({ output: 'industrialforegoing:plastic' })
+    event.remove({ output: TH('rubber') })
+    //event.remove({ output: IF('dryrubber') })
+    event.remove({ output: 'create_dd:raw_rubber' })
     //event.remove({ output: 'pneumaticcraft:plastic' })
 
-    //event.remove({ type: 'industrialforegoing:fluid_extractor' })
+    event.remove({ type: 'industrialforegoing:fluid_extractor' })
 
-    //for (const [type, blocks] of Object.entries(global.wood_types)) {
-    //    if ("log" in blocks &&
-    //        "stripped_log" in blocks) {
-    //        event.custom({
-    //            type: 'industrialforegoing:fluid_extractor',
-    //            input: Item.of(blocks.log).toJson(),
-    //            result: blocks.stripped_log,
-    //            breakChange: 0.010,
-    //            output: "{FluidName:\"industrialforegoing:latex\",Amount:33}",
-    //            defaultRecipe: false
-    //        })
-    //    }
+    for (const [type, blocks] of Object.entries(global.wood_types)) {
+        if ("log" in blocks &&
+            "stripped_log" in blocks) {
+            event.custom({
+                type: 'industrialforegoing:fluid_extractor',
+                input: Item.of(blocks.log).toJson(),
+                result: blocks.stripped_log,
+                breakChange: 0.010,
+                output: "{FluidName:\"industrialforegoing:latex\",Amount:33}",
+                defaultRecipe: false
+            })
+        }
+    }
 
-    //}
+    event.recipes.createCompacting('industrialforegoing:tinydryrubber', Fluid.of('industrialforegoing:latex', 200))
 
-    //event.recipes.createCompacting('industrialforegoing:tinydryrubber', Fluid.of('industrialforegoing:latex', 200))
+    event.replaceInput({}, TH('rubber'), 'create_dd:raw_rubber')
+    event.replaceInput({}, TH('cured_rubber'), 'create_dd:rubber')
+    event.replaceInput({}, IF('dryrubber'), 'create_dd:raw_rubber')
+    event.replaceOutput({}, TH('rubber'), 'create_dd:raw_rubber')
+    event.replaceOutput({}, TH('cured_rubber'), 'create_dd:rubber')
+    event.replaceOutput({}, IF('dryrubber'), 'create_dd:raw_rubber')
 
     //event.smelting(KJ('cured_rubber'), 'industrialforegoing:dryrubber')
-    //event.recipes.createPressing('pneumaticcraft:plastic', KJ('cured_rubber'))
 
     let rubber = 'create_dd:rubber'
+
+    event.recipes.createPressing(IF('plastic'), rubber)
 
     event.remove({ mod: 'create', output: CR('belt_connector') })
 
@@ -126,10 +137,6 @@ function rubberAndPlastic(event) {
     event.replaceInput({ mod: 'createdieselgenerators' }, MC('dried_kelp'), rubber)
     event.replaceInput({ mod: 'create_dd' }, MC('dried_kelp'), rubber)
 
-    event.replaceInput({}, TH('rubber'), 'create_dd:raw_rubber')
-    event.replaceInput({}, TH('cured_rubber'), 'create_dd:rubber')
-    event.replaceOutput({}, TH('rubber'), 'create_dd:raw_rubber')
-    event.replaceOutput({}, TH('cured_rubber'), 'create_dd:rubber')
 
     //event.remove({ id: /create_dd:sap_from_.*_log/ })
     //event.remove({ id: /create_dd:sap_from_.*_wood/ })

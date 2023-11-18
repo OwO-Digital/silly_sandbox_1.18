@@ -53,7 +53,11 @@ hash = "225830cfae9ec5ddb984a95ab4ca3dd2acfaef901de212f036b99bf8993a2cca"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "28502cc74a7dacf4b9b534efc33acd959e20d72431cbef6e5f4260034b7ecd59"
+hash = "8c23cfa20758afaf2b1fbd4cf28fa1021669574957313acf31a18745ab03806d"
+
+[[files]]
+file = "kubejs/startup_scripts/0_globals.js"
+hash = "7a58b4a46faed4df9a18958372934cb6a9df5d434018bc6cbf80e27fdefbb11d"
 
 [[files]]
 file = "kubejs/startup_scripts/items_blocks.js"
