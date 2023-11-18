@@ -680,6 +680,51 @@ hash = "9116ead38df9119fa9d8103c214482aedab1505554865cac1b3bd385019076bd"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "09169f60564677485f8679750af2b1431cd590b6954f471df57ad931f2df75e7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "ab4c2398adb0e3dc21d455b030829c9a63b049c321fb4e2e30aeb15ae371fbfd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "d5df32b81d9ddd8863e66c8f02952355428f793cf6b0d5386b7ef1038f9ae333"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "2e1512e8e582f95ba9ec2e1efef2facd1faaf99a10f081e8a5e42fcb5833ea4b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "6f0cb24635cc0acbf3d003d597d749408b4b9438e2ad61a1a7c66414db3331e0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "f9d9506b51f18d872abecc54230589cd565226cee438436a01e25c2d7fa5176d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "1f37237502fcd551b13222fb32db83c65ec61cfc25c48542b612cbd38b38425f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "23888fb84bcff4800bc4c073245800d29bd30356786ef03cd1d6149371b35c8a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "cfcc68b57e7466352b66f93617f7824b371b8048c35e38045d31a2902a9d306f"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "3cf8b32aacef32f066de71330c7c2fbba058115dd2d6bd181e468508fa56499c"
 metafile = true
