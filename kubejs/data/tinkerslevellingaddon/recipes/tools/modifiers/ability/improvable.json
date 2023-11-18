@@ -1,0 +1,32 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    }
+  ],
+  "tools": {
+    "tag": "tconstruct:modifiable"
+  },
+  "slots": {
+    "abilities": 1
+  },
+  "allow_crystal": true,
+  "result": {
+    "name": "tinkerslevellingaddon:improvable",
+    "level": 1
+  },
+  "max_level": 1
+}

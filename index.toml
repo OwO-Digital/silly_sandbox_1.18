@@ -36,12 +36,20 @@ file = "config/wands.json"
 hash = "03fe0fe10c89a9d24e877fe0c3c8be1eae51b3a6180033fbaf9d9953dbdbf92a"
 
 [[files]]
+file = "defaultconfigs/tinkerslevellingaddon-server.toml"
+hash = "0d5712eff9718c5ab589a593f7b87a8c7b048f997fdbe04da145cfe76f7729c5"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/wet_sawdust.png"
 hash = "e30f23e1a125565bfbd931c050bf5262e205ef61ef58d026f4fe832b40b468d7"
 
 [[files]]
 file = "kubejs/config/client.properties"
 hash = "e88bc5877d8680de1389849d4ce2d0387b281d48c625379ba729e31fd6587993"
+
+[[files]]
+file = "kubejs/data/tinkerslevellingaddon/recipes/tools/modifiers/ability/improvable.json"
+hash = "225830cfae9ec5ddb984a95ab4ca3dd2acfaef901de212f036b99bf8993a2cca"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
