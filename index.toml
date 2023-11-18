@@ -565,6 +565,11 @@ hash = "081a76860b002e89dde21bb0160ecc71bdb41e0fd16087a27fd4fc1ffd3c6f42"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "f107d7ad5a96ecba2c8a80d766587e1c835fc4df7d9f68b18f8da6402b409e8c"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "e6f7821217f3856311ec2f59eaa2effff6273483854d6a2293cb62ca6f104f46"
 metafile = true
@@ -982,6 +987,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-things.pw.toml"
 hash = "95c33b73d42ad5e07413ba35bd122c5fa1fcb23af25691e7198a092be97cfd75"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "6d73ae04d1566299bcbc07fba992943a2841d4cb41fda631418b824926dadda6"
 metafile = true
 
 [[files]]

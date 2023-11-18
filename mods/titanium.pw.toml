@@ -1,0 +1,13 @@
+name = "Titanium"
+filename = "titanium-1.18.2-3.5.9-43.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Ro7m06l/versions/f8zZ2kK5/titanium-1.18.2-3.5.9-43.jar"
+hash-format = "sha1"
+hash = "0c527c49251777245bbcb8483c592b77cc0e5483"
+
+[update]
+[update.modrinth]
+mod-id = "1Ro7m06l"
+version = "f8zZ2kK5"
