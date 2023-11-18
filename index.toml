@@ -57,7 +57,7 @@ hash = "8c23cfa20758afaf2b1fbd4cf28fa1021669574957313acf31a18745ab03806d"
 
 [[files]]
 file = "kubejs/startup_scripts/0_globals.js"
-hash = "7a58b4a46faed4df9a18958372934cb6a9df5d434018bc6cbf80e27fdefbb11d"
+hash = "29d95e63c414dafa4e6b688806383d402c22fa1a6cfe1a7892950ea24ded1f96"
 
 [[files]]
 file = "kubejs/startup_scripts/items_blocks.js"
