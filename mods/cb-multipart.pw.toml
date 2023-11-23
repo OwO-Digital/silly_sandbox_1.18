@@ -1,0 +1,13 @@
+name = "CB Multipart"
+filename = "CBMultipart-1.18.2-3.1.0.137-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e427532b97e7581d19fd03ec52980a3f2915ef98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4607606
+project-id = 258426

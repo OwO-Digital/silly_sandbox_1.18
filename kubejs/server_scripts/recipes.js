@@ -51,6 +51,7 @@ onEvent('recipes', event => {
     rubberAndPlastic(event)
     milk(event)
     slimeFix(event)
+    craftingIngredientsUnify(event)
     andesiteMachine(event)
     misc(event)
 })
@@ -184,6 +185,20 @@ function slimeFix(event) {
     event.recipes.createFilling(CRTAM('spout_gun_slime'), [CRTAM('spout_gun'), Fluid.of(slime, 1000)])
     event.recipes.createFilling(CR('super_glue'), [CRTAM('glue_packaging'), Fluid.of(slime, 100)])
     event.recipes.createFilling(CRTAM('slime_cake'), [CR('blaze_cake_base'), Fluid.of(slime, 250)])
+}
+
+function craftingIngredientsUnify(event) {
+    event.replaceInput({}, 'projectred_core:red_ingot', MEK('alloy_infused'))
+    event.remove({ output: 'projectred_core:red_ingot' })
+    event.remove({ output: 'projectred_core:red_iron_comp' })
+    event.replaceInput({}, 'thermal:redstone_servo', MEK('alloy_infused'))
+    event.remove({ output: 'thermal:redstone_servo' })
+
+    event.replaceInput({}, 'thermal:rf_coil', MEK('basic_control_circuit'))
+    event.remove({ output: 'thermal:rf_coil' })
+
+    event.replaceInput({}, IE('sawblade'), 'thermal:saw_blade')
+    event.remove({ output: IE('sawblade') })
 }
 
 function andesiteMachine(event) {

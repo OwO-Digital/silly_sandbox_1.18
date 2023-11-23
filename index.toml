@@ -3897,7 +3897,7 @@ hash = "225830cfae9ec5ddb984a95ab4ca3dd2acfaef901de212f036b99bf8993a2cca"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "8c23cfa20758afaf2b1fbd4cf28fa1021669574957313acf31a18745ab03806d"
+hash = "f25c1d646f0772dc440dd3876c47be0b6e544ada86c3aa9c99d8e50ca1c3e3c9"
 
 [[files]]
 file = "kubejs/startup_scripts/0_globals.js"
@@ -3910,6 +3910,11 @@ hash = "9f4c40245e367f60030f3f28f22409ac18be0f774bdd195d39c583bcbbf7703e"
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "96e224d20455cc3a6a812c343b3cb2ddc3c19ee7565a14c1ab6fd2ae9502c879"
+metafile = true
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "9705d01084c1d4dc4d4f5c95abf01bac8c1bc7cc5f484f96114866c211a29b43"
 metafile = true
 
 [[files]]
@@ -4058,6 +4063,21 @@ hash = "f2003c537074264ef7f1c67dc72e72a79dd5efb39e7d4ee3eec60b0ebad8e938"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "caf5e99683ec2717b4e1feeb120f96db119a6eea1d5f1d7aca9ea04079f8e447"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "97ace81938796fa3c952d0abb47e14e66c0a49e7b5b25b4b2a71c2a40ffac719"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "909959f17c8ffe8e3726e2618420ace7b43da5a7affa6adabd119c8b35f161c2"
+metafile = true
+
+[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "898cbfbb07b41b5321827a19ef745fab3c80974d1a793cb8f49ac011a36cfb2f"
 metafile = true
@@ -4090,6 +4110,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "4d5cfa79f9675b5bd2a8711d48977ad63b7d198eb46c5cc7bb165a8f909101ac"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "a976020b14b54af93fce4c3a6ee46dd63847d43c0b94ea458d04fabe1c1b8534"
 metafile = true
 
 [[files]]
@@ -4705,6 +4730,31 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "f79379e83a892d01872ebb46815ce9710ecbc075f917656b1d879669f8e65bb1"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "87df4e4a49a92cb2622ef33fae22f381340b2e6969b5a87a26a8b909fefa00e5"
+metafile = true
+
+[[files]]
+file = "mods/project-red-exploration.pw.toml"
+hash = "55ef65fe4c0efefac3f6a040f9a0bb4e37c208168219f5a35cb10fe140399c37"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "6918d1432e974a7b53102fedad27fcca439af64833d3ab241769cf3437230c69"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "c5b7dfc109422611d3ddc640fa76f2966ebbfa2cd081459a632b6beaedc0b3d6"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "0258d7fd2cca346edd7a6652b8db0925cb13c9b6fc65726dbecfcacf4cdb32c6"
 metafile = true
 
 [[files]]
