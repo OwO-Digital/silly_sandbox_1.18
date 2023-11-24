@@ -242,7 +242,7 @@ function andesiteMachine(event) {
         'S',
         'C'
     ], {
-        S: F("#sawblades"),
+        S: 'thermal:saw_blade',
         C: CR("andesite_casing")
     })
 
