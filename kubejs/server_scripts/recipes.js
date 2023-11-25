@@ -52,6 +52,7 @@ onEvent('recipes', event => {
     milk(event)
     slimeFix(event)
     craftingIngredientsUnify(event)
+    jetpacks(event)
     andesiteMachine(event)
     misc(event)
 })
@@ -199,6 +200,54 @@ function craftingIngredientsUnify(event) {
 
     event.replaceInput({}, IE('sawblade'), 'thermal:saw_blade')
     event.remove({ output: IE('sawblade') })
+}
+
+function jetpacks(event) {
+    event.remove({ mod: 'ironjetpacks' })
+    event.remove({ id: /ironjetpacks:.*/ })
+    event.remove({ mod: 'mekanism', output: /mekanism:.*jetpack.*/ })
+    event.remove({ output: MEK('module_jetopack_unit') })
+
+    function capacitor(tier) {
+        event.shaped(Item.of('ironjetpacks:capacitor', `{Id:"ironjetpacks:${tier}"}`), [
+            'MMM',
+            'EEE',
+            'MMM'
+        ], {
+            M: F(`#ingots/${tier}`)
+        })
+    }
+
+    capacitor('iron')
+    event.shaped(Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:iron",Throttle:1.0d}'), [
+        'SCS',
+        'MBM',
+        ' M '
+    ], {
+        S: 'create_dd:steel_ingot',
+        C: MEK('basic_control_circuit'),
+        M: MC('iron_ingot'),
+        B: Item.of('ironjetpacks:cell', '{Id:"ironjetpacks:iron"}')
+    })
+
+    function tier(previous_tier, tier, control_circuit) {
+        capacitor(tier)
+
+        event.shaped(Item.of('ironjetpacks:jetpack', `{Id:"ironjetpacks:${tier}",Throttle:1.0d}`), [
+            'MCM',
+            'MJM',
+            'MBM'
+        ], {
+            M: F(`#ingots/${tier}`),
+            C: control_circuit,
+            J: Item.of('ironjetpacks:jetpack', `{Id:"ironjetpacks:${previous_tier}",Throttle:1.0d}`),
+            B: Item.of('ironjetpacks:capacitor', `{Id:"ironjetpacks:${tier}"}`)
+        })
+    }
+
+    tier('iron', 'steel', MEK('advanced_control_circuit'))
+    tier('steel', 'diamond', MEK('elite_control_circuit'))
+    tier('diamond', 'emerald', MEK('ultimate_control_circuit'))
 }
 
 function andesiteMachine(event) {
