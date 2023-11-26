@@ -3917,7 +3917,7 @@ hash = "172360cba7fb147ba8e61251540e4e8a531a4a95a86c917e0be3c484db2ce8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "e267098f41f230a9d509f44ad643a0ec4e63671eb8b821d2535171c10c35dbe9"
+hash = "0a2afd14ed01da7129a4b7bd58218755ef10110e33b36db146f571ec3c93aebb"
 
 [[files]]
 file = "kubejs/startup_scripts/0_globals.js"
@@ -4303,6 +4303,16 @@ hash = "d4f2036168647a6525410ec4afcd0ac323de926bc39260b81dc6e9b0eae6e423"
 metafile = true
 
 [[files]]
+file = "mods/enderchests.pw.toml"
+hash = "24e795e605d918e3a4621c20a46ee3b9989944a873a65752640e0ee8a10af4f3"
+metafile = true
+
+[[files]]
+file = "mods/endertanks.pw.toml"
+hash = "c4ac7afdec0ff3013d65aaacc40e047a32993c3cf37d485f3326db9df165bafb"
+metafile = true
+
+[[files]]
 file = "mods/engineersdecor.pw.toml"
 hash = "7648961a7b5d649a4cc14d950d5ada53a818f596247ef763a6de2941cea00f38"
 metafile = true
@@ -4365,6 +4375,11 @@ metafile = true
 [[files]]
 file = "mods/ex-nihilo-sequentia.pw.toml"
 hash = "c1dbee87ecea8d45d65741b70f48ef7702e07534e0fd30c418692f0f1153e3bc"
+metafile = true
+
+[[files]]
+file = "mods/extended-crafting.pw.toml"
+hash = "4aa99ab1cfa5a1f28b98d7cd5d5b1bcc0f6856e109570fad9a26c5ae44f46bc7"
 metafile = true
 
 [[files]]
@@ -4870,6 +4885,11 @@ metafile = true
 [[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "52f15ab08d2c34a1580506865063a3da66f012b4b95b88573efd41240cb68be4"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "35fb5e85b0510dd506ce3897dcec95fd710deadc3595e7d4a3b9bc9b97c5cde2"
 metafile = true
 
 [[files]]

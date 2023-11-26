@@ -1,0 +1,13 @@
+name = "EnderTanks"
+filename = "endertanks-forge-1.18.2-1.11.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zZwEA08D/versions/rJGWgNUw/endertanks-forge-1.18.2-1.11.14.jar"
+hash-format = "sha1"
+hash = "36361a83a40767d3db3ca7a1d2fc3ea89a3ec58c"
+
+[update]
+[update.modrinth]
+mod-id = "zZwEA08D"
+version = "rJGWgNUw"

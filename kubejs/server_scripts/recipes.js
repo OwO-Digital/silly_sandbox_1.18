@@ -20,7 +20,23 @@ let QRK = (id, x) => MOD("quark", id, x)
 let IE = (id, x) => MOD("immersiveengineering", id, x)
 let TH = (id, x) => MOD("thermal", id, x)
 let IF = (id, x) => MOD("industrialforegoing", id, x)
+let EC = (id, x) => MOD("extendedcrafting", id, x)
 
+
+//function get_ec_helpers(event) {
+//    function ec_shaped(result, pattern, key) {
+//        let parsed_key
+//        for (const [key, value] of Object.entries(key)) {
+//            parsed_key[key] = value.toJson()
+//        }
+//
+//        return event.custom({
+//            type: EC('shaped_table'),
+//            pattern: pattern,
+//            key: 
+//        })
+//    }
+//}
 
 
 let planks
@@ -44,8 +60,10 @@ onEvent('recipes', event => {
     milk(event)
     slimeFix(event)
     craftingIngredientsUnify(event)
+    extendedCraftingSetup(event)
     jetpacks(event)
     andesiteMachine(event)
+    wireless(event)
     misc(event)
 })
 
@@ -194,6 +212,104 @@ function craftingIngredientsUnify(event) {
     event.remove({ output: IE('sawblade') })
 }
 
+function extendedCraftingSetup(event) {
+    //event.remove({
+    //    mod: 'extendedcrafting', not: {
+    //        id: [
+    //            EC('ultimate_singularity'),
+    //            EC('handheld_table'),
+    //            /extendedcrafting:.*_uncraft/,
+    //            /extendedcrafting:.*_recraft/,
+    //            /extendedcrafting:.*_block/
+    //        ]
+    //    }
+    //})
+    [
+        /extendedcrafting:.*_component/,
+        /extendedcrafting:.*_catalyst/,
+        /extendedcrafting:.*_table/,
+        EC('ender_star'),
+        EC('black_iron_slate'),
+        EC('black_iron_ingot'),
+        EC('luminessence'),
+        EC('cyrstaltine_ingot'),
+        EC('enhanced_ender_ingot'),
+        EC('ender_ingot'),
+        EC('ender_star'),
+        EC('redstone_ingot'),
+        EC('ender_crafter'),
+        EC('ender_alternator'),
+        EC('compressor'),
+        EC('crafting_core'),
+        EC('pedestal'),
+        EC('frame'),
+    ].forEach(value => {
+        event.remove({ id: value })
+    })
+
+    event.shaped(EC('handheld_table'), [
+        ' T',
+        'S '
+    ], {
+        T: MC('crafting_table'),
+        S: F('#rods/wooden')
+    })
+
+    const crafting_components = [
+        ['basic', F('#ingots/iron'), true],
+        ['advanced', F('#ingots/gold'), true],
+        ['elite', F('#gems/diamond'), true],
+        ['ultimate', F('#gems/emerald'), true],
+        ['redstone', F('#dusts/redstone'), false],
+        ['ender', F('#ingots/enderium'), false],
+        ['enhanced_ender', null, false],
+        ['crystaltine', null, false],
+        ['the_ultimate', null, false],
+    ]
+
+    for (let i = 0; i < crafting_components.length; i++) {
+        let current = crafting_components[i]
+        let previous = i > 0 ? crafting_components[i - 1] : null
+
+        if (current[1] != null) {
+            event.shapeless(EC(`${current[0]}_component`), [
+                current[1],
+                F('#plates/steel')
+            ])
+
+            event.shaped(EC(`${current[0]}_catalyst`), [
+                'CC',
+                'CC'
+            ], {
+                C: EC(`${current[0]}_component`)
+            })
+
+            if (current[2] == true) {
+                event.shaped(EC(`${current[0]}_table`), [
+                    'OAO',
+                    'ATA',
+                    'OAO'
+                ], {
+                    O: EC(`${current[0]}_component`),
+                    A: EC(`${current[0]}_catalyst`),
+                    T: previous != null ? EC(`${previous[0]}_table`) : MC('crafting_table')
+                })
+
+                event.shaped(EC(`${current[0]}_auto_table`), [
+                    ' P ',
+                    'RTR',
+                    ' E '
+                ], {
+                    P: 'ae2:logic_processor',
+                    R: EC('redstone_catalyst'),
+                    E: EC('ender_catalyst'),
+                    T: EC(`${current[0]}_table`)
+                })
+            }
+        }
+    }
+}
+
 function jetpacks(event) {
     event.remove({ mod: 'ironjetpacks' })
     event.remove({ id: /ironjetpacks:.*/ })
@@ -298,6 +414,203 @@ function andesiteMachine(event) {
     //    C: CR("andesite_casing"),
     //    B: CR("brass_hand")
     //})
+}
+
+function wireless(event) {
+    event.remove({ mod: 'fluxnetworks' })
+    event.remove({ mod: 'createendertransmission' })
+    event.remove({ mod: 'enderchests' })
+    event.remove({ mod: 'endertanks' })
+
+    event.recipes.extendedcrafting.shaped_table('fluxnetworks:flux_block', [
+        '  D  ',
+        ' DOD ',
+        'DODOD',
+        ' DOD ',
+        '  D  ',
+    ], {
+        D: 'fluxnetworks:flux_dust',
+        O: MC('obsidian')
+    })
+
+    event.remove({ output: 'ironfurnaces:item_heater' })
+    event.shaped('ironfurnaces:item_heater', [
+        'SDS',
+        'DPD',
+        'SDS'
+    ], {
+        S: F('#stone'),
+        D: 'fluxnetworks:flux_dust',
+        P: 'ae2:fluix_pearl'
+    })
+
+    event.recipes.extendedcrafting.shaped_table('createendertransmission:energy_transmitter', [
+        'DDSDD',
+        'DEMED',
+        'DEFED',
+        'DEMED',
+        'DDSDD',
+    ], {
+        D: 'fluxnetworks:flux_dust',
+        S: 'create:shaft',
+        E: MC('ender_pearl'),
+        F: 'ae2:fluix_pearl',
+        M: 'create_things_and_misc:vibration_mechanism'
+    })
+    event.recipes.extendedcrafting.shaped_table('createendertransmission:chunk_loader', [
+        '  D  ',
+        ' DOD ',
+        'DOBOD',
+        ' DOD ',
+        '  D  ',
+    ], {
+        D: 'fluxnetworks:flux_dust',
+        O: MC('obsidian'),
+        B: MC('beacon')
+    })
+
+    event.recipes.extendedcrafting.shaped_table('fluxnetworks:flux_plug', [
+        ' DSD ',
+        'CCFS ',
+        ' DSD ',
+    ], {
+        D: 'fluxnetworks:flux_dust',
+        C: MEK('ultimate_universal_cable'),
+        F: 'ae2:fluix_pearl',
+        S: F('#plates/steel')
+    })
+    event.recipes.extendedcrafting.shaped_table('fluxnetworks:flux_point', [
+        ' DSD ',
+        ' SFCC',
+        ' DSD ',
+    ], {
+        D: 'fluxnetworks:flux_dust',
+        C: MEK('ultimate_universal_cable'),
+        F: 'ae2:fluix_pearl',
+        S: F('#plates/steel')
+    })
+
+    event.recipes.extendedcrafting.shaped_table('fluxnetworks:flux_controller', [
+        'BSSSB',
+        'SDFDS',
+        'SFCFS',
+        'SDFDS',
+        'BSSSB',
+    ], {
+        D: 'fluxnetworks:flux_dust',
+        C: MEK('ultimate_control_circuit'),
+        F: 'ae2:fluix_pearl',
+        S: F('#plates/steel'),
+        B: 'fluxnetworks:flux_block'
+    })
+
+    event.recipes.extendedcrafting.shaped_table('fluxnetworks:basic_flux_storage', [
+        ' SSS ',
+        'GDDDG',
+        'GDEDG',
+        'GDDDG',
+        ' SSS ',
+    ], {
+        D: 'fluxnetworks:flux_dust',
+        E: MEK('basic_energy_cube'),
+        S: F('#plates/steel'),
+        G: F('#glass/colorless')
+    })
+    event.recipes.extendedcrafting.shaped_table('fluxnetworks:herculean_flux_storage', [
+        ' SSS ',
+        'GEEEG',
+        'GDFDG',
+        'GEEEG',
+        ' SSS ',
+    ], {
+        D: 'fluxnetworks:flux_dust',
+        E: 'fluxnetworks:basic_flux_storage',
+        S: F('#plates/steel'),
+        G: F('#glass/colorless'),
+        F: 'ae2:fluix_pearl'
+    })
+    event.recipes.extendedcrafting.shaped_table('fluxnetworks:gargantuan_flux_storage', [
+        ' SBS ',
+        'GEEEG',
+        'GFFFG',
+        'GEEEG',
+        ' SBS ',
+    ], {
+        D: 'fluxnetworks:flux_dust',
+        E: 'fluxnetworks:herculean_flux_storage',
+        S: F('#plates/steel'),
+        G: F('#glass/colorless'),
+        F: 'ae2:fluix_pearl',
+        B: 'fluxnetworks:flux_block'
+    })
+
+    event.shaped('fluxnetworks:flux_configurator', [
+        ' DF',
+        ' BD',
+        'B  '
+    ], {
+        D: 'fluxnetworks:flux_dust',
+        F: 'ae2:fluix_pearl',
+        B: 'fluxnetworks:flux_block'
+    })
+
+    event.shaped('endertanks:ender_bucket', [
+        ' S ',
+        'RBR',
+        ' R '
+    ], {
+        S: F('#string'),
+        R: MC('rabbit_hide'),
+        B: 'endertanks:ender_tank'
+    })
+    event.shaped('enderchests:ender_bag', [
+        ' S ',
+        'RBR',
+        ' R '
+    ], {
+        S: F('#string'),
+        R: MC('rabbit_hide'),
+        B: 'enderchests:ender_chest'
+    })
+    event.shaped('enderchests:ender_bag', [
+        ' S ',
+        'RBR',
+        ' R '
+    ], {
+        S: F('#string'),
+        R: MC('rabbit_hide'),
+        B: 'enderchests:ender_chest'
+    })
+    event.shaped('enderchests:ender_pouch', [
+        ' S ',
+        'RBR',
+        ' R '
+    ], {
+        S: F('#string'),
+        R: MC('rabbit_hide'),
+        B: MC('ender_chest')
+    })
+
+    event.shaped('endertanks:ender_tank', [
+        'PUP',
+        'BOB',
+        'PBP'
+    ], {
+        P: MC('ender_pearl'),
+        B: 'fluxnetworks:flux_block',
+        O: 'enderchests:ender_pouch',
+        U: F('#buckets/empty')
+    })
+    event.shaped('enderchests:ender_chest', [
+        'PCP',
+        'BOB',
+        'PBP'
+    ], {
+        P: MC('ender_pearl'),
+        B: 'fluxnetworks:flux_block',
+        O: 'enderchests:ender_pouch',
+        C: F('#chests/wooden')
+    })
 }
 
 function misc(event) {
