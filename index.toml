@@ -40,6 +40,18 @@ file = "defaultconfigs/tinkerslevellingaddon-server.toml"
 hash = "0d5712eff9718c5ab589a593f7b87a8c7b048f997fdbe04da145cfe76f7729c5"
 
 [[files]]
+file = "kubejs/assets/kubejs/ponder/conduit_structure.nbt"
+hash = "74c0a544ee0d1ff9f2d5af5b1893f012f8166446075d4bb9b954f78732ad82a9"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/nether_portal.nbt"
+hash = "f457e75a51f2bc7b33ae264a63cb1d83716ea21af491a0d4c66884560ba18769"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/ruined_portal.nbt"
+hash = "fe295a02c26595ce70025333ae90ee6de1b3e5b5f51e0caabb4ad383dd7641ef"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/wet_sawdust.png"
 hash = "e30f23e1a125565bfbd931c050bf5262e205ef61ef58d026f4fe832b40b468d7"
 
@@ -3888,6 +3900,10 @@ file = "kubejs/assets/mekanismgenerators/textures/item/turbine_blade.png"
 hash = "7f8ef1a56b9f453c8e55e49682686d2693259ab69384e8934add4f34be812882"
 
 [[files]]
+file = "kubejs/client_scripts/ponder.js"
+hash = "ad28900e7ad90f51204450b0c0eba8c378a7d9c7de9d6829177789d91a68cf18"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "e88bc5877d8680de1389849d4ce2d0387b281d48c625379ba729e31fd6587993"
 
@@ -4750,6 +4766,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "f79379e83a892d01872ebb46815ce9710ecbc075f917656b1d879669f8e65bb1"
+metafile = true
+
+[[files]]
+file = "mods/ponder.pw.toml"
+hash = "b2177ee1f915ce56915f353857dfd6f5c69c7634d7c485f163df9d1e9a5a2af5"
 metafile = true
 
 [[files]]
