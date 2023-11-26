@@ -29,21 +29,13 @@ onEvent('item.tags', event => {
 })
 
 //let slimeList
-//onEvent('fluid.tags', event => {
+//onEvent('tags.fluids', event => {
 //    slimeList = event.get(TIC('slime')).getObjectIds()
 //})
 //console.log("Slime list:")
 //console.log(slimeList)
 
 
-onEvent('item.tags', event => {
-    event.remove(F("rods/wooden"), IE("stick_treated"))
-    event.remove("balm:wooden_rods", IE("stick_treated"))
-
-    event.add(KJ('basic_furnace'), MC('furnace'))
-    event.add(KJ('basic_furnace'), QRK('deepslate_furnace'))
-    event.add(KJ('basic_furnace'), QRK('blackstone_furnace'))
-})
 
 onEvent('recipes', event => {
     //immersiveNerf(event)
