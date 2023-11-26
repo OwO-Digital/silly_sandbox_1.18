@@ -4708,6 +4708,11 @@ hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
 metafile = true
 
 [[files]]
+file = "mods/multibeds.pw.toml"
+hash = "5f88c209254bfe8a7fd6ef0e8659931e590f421fe3c1cc6b21247e9da6be59c7"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agradditions.pw.toml"
 hash = "c1946016d7a781ffbc34a7d942921dab3e61a04984c2e2589d67be3807c64ee0"
 metafile = true
