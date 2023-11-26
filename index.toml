@@ -4295,7 +4295,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e7b8dc9236d742f52b02e9f59f26fb058839dab04c5e19a7801a0baeb2f9a29f"
+hash = "d4f2036168647a6525410ec4afcd0ac323de926bc39260b81dc6e9b0eae6e423"
 metafile = true
 
 [[files]]
@@ -4880,12 +4880,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "79f2b80c08c0b28e6cc0ef4268b383b715594ecfcf5d72b435f191edc5a1a80f"
+hash = "dddf53af2c157e72076942c507100b499ec5766fe0d44d168cad1169aab68b5e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a5ef5701971928a59f5ac7d701e0d9b484f28a4053276acb6e0b79e62071ce49"
+hash = "57a2381da3f80ebe6696bc1e2121677235c531dd42700c96e2dec9ef3c207271"
 metafile = true
 
 [[files]]
