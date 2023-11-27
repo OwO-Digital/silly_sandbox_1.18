@@ -4255,7 +4255,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "e324decd0751dc4a01fe6abf367d4ab53711b384811fe56cb365247a03851271"
+hash = "4ba0dd9323028bd46dd45e4a085c6d07a499f75f137c88e3b76b559d7298e115"
 metafile = true
 
 [[files]]
@@ -4850,27 +4850,27 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "87df4e4a49a92cb2622ef33fae22f381340b2e6969b5a87a26a8b909fefa00e5"
+hash = "fbd54147d3f7d089665cf77fa25fbe7f9fc8b20199aa8a474eb485ffc7a4afad"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "55ef65fe4c0efefac3f6a040f9a0bb4e37c208168219f5a35cb10fe140399c37"
+hash = "36b4827c057714f9b24b0604f0da15588e559d0a1fd904c5a558018e45afe254"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "6918d1432e974a7b53102fedad27fcca439af64833d3ab241769cf3437230c69"
+hash = "c5ca3b1023a90b57ab7a0726476e33394df05d144fb64071c604bfe15fc47475"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "c5b7dfc109422611d3ddc640fa76f2966ebbfa2cd081459a632b6beaedc0b3d6"
+hash = "56f41f3a09cae6cd9566148fd665430121ba3b36d8a97abbd1d97a2a9e58991d"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "0258d7fd2cca346edd7a6652b8db0925cb13c9b6fc65726dbecfcacf4cdb32c6"
+hash = "0a9491eccaaf742b7625f7dcca83dde9cb34d879c0c7ee29e3dcb5f09db6fbcc"
 metafile = true
 
 [[files]]
@@ -5090,5 +5090,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6797789b5617877fad5559a95df77bc569b349aba6b812274732852ce87fe4fe"
+hash = "2519bd8ff8ca10ed6a94f9c3e4dec79daa9ab43f0cf31a74c93ad517a616d428"
 metafile = true
