@@ -17,6 +17,62 @@ file = "config/defaultoptions/options.txt"
 hash = "bd2a54469bba3b48ece6ad99e4c1f77a05b921734a78c63bbf5d60ee6c170e62"
 
 [[files]]
+file = "config/ironjetpacks/jetpacks/bronze.json"
+hash = "1aaec0fdf4814b9c140d6a0504b1c645b56fcd7714f54bb3ace93a57c86b290f"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/copper.json"
+hash = "0f9cea99209bd8858b705eff927659de1d636aa9e40a14af00e2b37d22682c9c"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/creative.json"
+hash = "e94d00d800399f8872223eb9ddd069af29cb0df9e723643716a97171f171aff2"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/diamond.json"
+hash = "f50ace5067a7cd636e229dd0c23270bfbc27397fc63657565ddfe80d819f7464"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/electrum.json"
+hash = "b2803835faf6a596cb6b39fe38e1aaa8bb7dc947c3a1541828340a9bf787dab3"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/emerald.json"
+hash = "d0698cf3a044b854d25bbea3aeb7a98133599704d94579d6e03e2f5249f0ded2"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/gold.json"
+hash = "d26f29284bbe3ccba6a4a109d71c25455b413bdb75021fcb98211540f34fe4f7"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/invar.json"
+hash = "0cf7b6b0e2e173049613244498c427f6c6d3c65182a5d22007af76c95fd0227b"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/iron.json"
+hash = "ddb35620061fa5470efab67f6a882ad683d39d4274e3710204da999ccc187da2"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/platinum.json"
+hash = "87bb94a83a167c22f9917d0d8481c9651d4963ac3ed42ec53ff5afff347f9087"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/silver.json"
+hash = "3fa607217f26da17c5d97530e1eb2332df82e0146439c1627dd2d11741ec4666"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/steel.json"
+hash = "bf45a215e02eb5d716ce2583f2156d9aa058c1f030efd37cb56103d4295a8223"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/stone.json"
+hash = "80136b8f719a38913a6141952948aa4b19f1e5511adfb9fe145f6675825af795"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/wood.json"
+hash = "b068e8d5879dbf88f5f51fd1bf720ec8866f87c74daecfd8a2742527f654c85d"
+
+[[files]]
 file = "config/openloader/resources/immersive-engineering-d-hammer.pw.toml"
 hash = "a682a04b41f9b520f5253d59da3f63542ebef83ff17de2d997fbc24794a051e2"
 metafile = true
@@ -3917,7 +3973,7 @@ hash = "172360cba7fb147ba8e61251540e4e8a531a4a95a86c917e0be3c484db2ce8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "0a2afd14ed01da7129a4b7bd58218755ef10110e33b36db146f571ec3c93aebb"
+hash = "d952636995993ae59ace50c76e204ee2117c0d25a6011739166dd15c60917942"
 
 [[files]]
 file = "kubejs/startup_scripts/0_globals.js"
@@ -4705,11 +4761,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
-metafile = true
-
-[[files]]
-file = "mods/multibeds.pw.toml"
-hash = "5f88c209254bfe8a7fd6ef0e8659931e590f421fe3c1cc6b21247e9da6be59c7"
 metafile = true
 
 [[files]]

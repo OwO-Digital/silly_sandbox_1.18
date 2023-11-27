@@ -312,50 +312,55 @@ function extendedCraftingSetup(event) {
 
 function jetpacks(event) {
     event.remove({ mod: 'ironjetpacks' })
-    event.remove({ id: /ironjetpacks:.*/ })
+    //event.remove({ id: /ironjetpacks:.*/ })
     event.remove({ mod: 'mekanism', output: /mekanism:.*jetpack.*/ })
     event.remove({ output: MEK('module_jetopack_unit') })
 
-    function capacitor(tier) {
-        event.shaped(Item.of('ironjetpacks:capacitor', `{Id:"ironjetpacks:${tier}"}`), [
+    const crafting_components = [
+        ['iron', F('#ingots/iron'), MEK('basic_control_circuit')],
+        ['steel', F('#ingots/steel'), MEK('advanced_control_circuit')],
+        ['diamond', F('#gems/diamond'), MEK('elite_control_circuit')],
+        ['emerald', F('#gems/emerald'), MEK('ultimate_control_circuit')],
+    ]
+
+    for (let i = 0; i < crafting_components.length; i++) {
+        let current = crafting_components[i]
+        let previous = i > 0 ? crafting_components[i - 1] : null
+
+        event.shaped(Item.of('ironjetpacks:capacitor', `{Id:"ironjetpacks:${current[0]}"}`), [
             'MMM',
             'EEE',
             'MMM'
         ], {
-            M: F(`#ingots/${tier}`)
+            M: current[1],
+            E: MEK('energy_tablet')
         })
+
+        if (previous != null) {  // higher tier jetpacks
+            event.shaped(Item.of('ironjetpacks:jetpack', `{Id:"ironjetpacks:${current[0]}",Throttle:1.0d}`), [
+                'MCM',
+                'MJM',
+                'MBM'
+            ], {
+                M: current[1],
+                C: current[2],
+                J: Item.of('ironjetpacks:jetpack', `{Id:"ironjetpacks:${previous[0]}",Throttle:1.0d}`),
+                B: Item.of('ironjetpacks:capacitor', `{Id:"ironjetpacks:${current[0]}"}`)
+            })
+
+        } else {  // first tier jetpack
+            event.shaped(Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:iron",Throttle:1.0d}'), [
+                'SCS',
+                'MBM',
+                ' M '
+            ], {
+                S: 'create_dd:steel_ingot',
+                C: current[2],
+                M: current[1],
+                B: Item.of('ironjetpacks:capacitor', `{Id:"ironjetpacks:${current[0]}"}`)
+            })
+        }
     }
-
-    capacitor('iron')
-    event.shaped(Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:iron",Throttle:1.0d}'), [
-        'SCS',
-        'MBM',
-        ' M '
-    ], {
-        S: 'create_dd:steel_ingot',
-        C: MEK('basic_control_circuit'),
-        M: MC('iron_ingot'),
-        B: Item.of('ironjetpacks:cell', '{Id:"ironjetpacks:iron"}')
-    })
-
-    function tier(previous_tier, tier, control_circuit) {
-        capacitor(tier)
-
-        event.shaped(Item.of('ironjetpacks:jetpack', `{Id:"ironjetpacks:${tier}",Throttle:1.0d}`), [
-            'MCM',
-            'MJM',
-            'MBM'
-        ], {
-            M: F(`#ingots/${tier}`),
-            C: control_circuit,
-            J: Item.of('ironjetpacks:jetpack', `{Id:"ironjetpacks:${previous_tier}",Throttle:1.0d}`),
-            B: Item.of('ironjetpacks:capacitor', `{Id:"ironjetpacks:${tier}"}`)
-        })
-    }
-
-    tier('iron', 'steel', MEK('advanced_control_circuit'))
-    tier('steel', 'diamond', MEK('elite_control_circuit'))
-    tier('diamond', 'emerald', MEK('ultimate_control_circuit'))
 }
 
 function andesiteMachine(event) {
