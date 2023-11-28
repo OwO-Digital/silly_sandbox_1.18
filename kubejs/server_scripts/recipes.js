@@ -73,11 +73,17 @@ onEvent('item.modification', event => {
     })
 })
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function immersiveNerf(event) {
     event.remove({ id: /immersiveengineering:crafting\/plate_.*_hammering/ })
     event.remove({ id: /immersiveengineering:crafting\/.*hammercrushing.*/ })
 }
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function betterSawdust(event) {
     //event.remove({ output: F('#sawdust') })
 
@@ -101,6 +107,9 @@ function betterSawdust(event) {
     ]).transitionalItem(KJ('wet_sawdust')).loops(1)
 }
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function rubberAndPlastic(event) {
     //event.replaceInput({}, 'industrialforegoing:plastic', 'pneumaticcraft:plastic')
     event.remove({ output: 'industrialforegoing:plastic' })
@@ -162,6 +171,9 @@ function rubberAndPlastic(event) {
     //})
 }
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function milk(event) {
     event.replaceInput({}, 'neapolitan:milk_bottle', 'farmersdelight:milk_bottle')
     event.remove({ output: 'neapolitan:milk_bottle' })
@@ -178,6 +190,9 @@ function milk(event) {
     ]).replaceIngredient({ item: Item.of('farmersdelight:milk_bottle') }, MC('glass_bottle'))
 }
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function slimeFix(event) {
     event.remove({ id: 'create_things_and_misc:slimefluidcraft' })
     event.remove({ id: 'create_things_and_misc:slime_emptying' })
@@ -198,6 +213,9 @@ function slimeFix(event) {
     event.recipes.createFilling(CRTAM('slime_cake'), [CR('blaze_cake_base'), Fluid.of(slime, 250)])
 }
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function craftingIngredientsUnify(event) {
     event.replaceInput({}, 'projectred_core:red_ingot', MEK('alloy_infused'))
     event.remove({ output: 'projectred_core:red_ingot' })
@@ -212,6 +230,9 @@ function craftingIngredientsUnify(event) {
     event.remove({ output: IE('sawblade') })
 }
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function extendedCraftingSetup(event) {
     //event.remove({
     //    mod: 'extendedcrafting', not: {
@@ -310,6 +331,9 @@ function extendedCraftingSetup(event) {
     }
 }
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function jetpacks(event) {
     event.remove({ mod: 'ironjetpacks' })
     //event.remove({ id: /ironjetpacks:.*/ })
@@ -363,6 +387,9 @@ function jetpacks(event) {
     }
 }
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function andesiteMachine(event) {
 
     //let transitional = KJ('incomplete_kinetic_mechanism')
@@ -421,6 +448,9 @@ function andesiteMachine(event) {
     //})
 }
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function wireless(event) {
     event.remove({ mod: 'fluxnetworks' })
     event.remove({ mod: 'createendertransmission' })
@@ -618,6 +648,9 @@ function wireless(event) {
     })
 }
 
+/**
+ * @param {Internal.RecipeEventJS} event 
+ */
 function misc(event) {
     event.replaceInput({ output: 'create_enchantment_industry:disenchanter' }, CR('#sandpaper'), "farmersdelight:canvas")
     event.replaceInput({}, MC('furnace'), KJ('basic_furnace'))
