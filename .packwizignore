@@ -7,3 +7,10 @@
 # Exclude Git/Hub stuff
 .github
 .gitattributes
+
+# VSCode
+.vscode
+
+# ProbeJS
+kubejs/probe
+kubejs/jsconfig.json

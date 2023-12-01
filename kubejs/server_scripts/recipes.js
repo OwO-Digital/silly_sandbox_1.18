@@ -65,6 +65,7 @@ onEvent('recipes', event => {
     andesiteMachine(event)
     wireless(event)
     misc(event)
+    extendedMechanicalCrafting(event)
 })
 
 onEvent('item.modification', event => {
@@ -253,7 +254,7 @@ function extendedCraftingSetup(event) {
         EC('black_iron_slate'),
         EC('black_iron_ingot'),
         EC('luminessence'),
-        EC('cyrstaltine_ingot'),
+        EC('crystaltine_ingot'),
         EC('enhanced_ender_ingot'),
         EC('ender_ingot'),
         EC('ender_star'),
@@ -571,7 +572,6 @@ function wireless(event) {
         'GEEEG',
         ' SBS ',
     ], {
-        D: 'fluxnetworks:flux_dust',
         E: 'fluxnetworks:herculean_flux_storage',
         S: F('#plates/steel'),
         G: F('#glass/colorless'),
@@ -660,5 +660,28 @@ function misc(event) {
         'L'
     ], {
         L: MC('#logs')
+    })
+}
+
+function extendedMechanicalCrafting(event) {
+    event.forEachRecipe({ type: CR('mechanical_crafting') }, raw_recipe => {
+        const recipe = Utils.mapOf(raw_recipe.json)
+        console.log(recipe)
+
+        console.log('preparing recipe key')
+        let key = {}
+        for (const [kkey, kvalue] of Object.entries(recipe.key)) {
+            key[kkey + ''] = Ingredient.of(kvalue)
+        }
+
+        console.log('adding recipe')
+        const new_r_id = 'kubejs:mechanical_to_extended/' + `${raw_recipe.getOrCreateId()}`.replace(':', '/')
+        event.recipes.extendedcrafting.shaped_table(Ingredient.of(recipe.result),
+            recipe.pattern.map(row => {
+                return row + ''
+            }),
+            key
+        ).id(new_r_id)
+        console.log(new_r_id)
     })
 }
