@@ -3968,12 +3968,16 @@ file = "kubejs/data/tinkerslevellingaddon/recipes/tools/modifiers/ability/improv
 hash = "225830cfae9ec5ddb984a95ab4ca3dd2acfaef901de212f036b99bf8993a2cca"
 
 [[files]]
+file = "kubejs/server_scripts/0_generate_data.js"
+hash = "9b90641dbaaaab223b32ffe7489a9f6cd359b4f3bc821513d8a45db415959134"
+
+[[files]]
 file = "kubejs/server_scripts/0_tags.js"
 hash = "172360cba7fb147ba8e61251540e4e8a531a4a95a86c917e0be3c484db2ce8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "d952636995993ae59ace50c76e204ee2117c0d25a6011739166dd15c60917942"
+hash = "58ce8a66a6c2cbe06f66adfec03da9dac39a08427684e261221cade3c5582dc2"
 
 [[files]]
 file = "kubejs/startup_scripts/0_globals.js"
