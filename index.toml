@@ -4850,27 +4850,27 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "fbd54147d3f7d089665cf77fa25fbe7f9fc8b20199aa8a474eb485ffc7a4afad"
+hash = "6e4195ff96f69d80bb92b04f558c413ff56dd3304386143e112e920b979b8c60"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "36b4827c057714f9b24b0604f0da15588e559d0a1fd904c5a558018e45afe254"
+hash = "bcfbc0616d2f18c25bba3be9d2374ee9239aab6e7a98ef61381c4708d9607ec2"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "c5ca3b1023a90b57ab7a0726476e33394df05d144fb64071c604bfe15fc47475"
+hash = "be44f626c9521c59a33b26d1c6166da790159749dd02eca7442f1d5bc1beac94"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "56f41f3a09cae6cd9566148fd665430121ba3b36d8a97abbd1d97a2a9e58991d"
+hash = "8ddb4de9d147bef769f80d41345fbd054cdc6bb1e58067421d3e3c94d1662278"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "0a9491eccaaf742b7625f7dcca83dde9cb34d879c0c7ee29e3dcb5f09db6fbcc"
+hash = "decb7360914fd9bddc088c4fb126657fcba0f8ebc4f7886f898ac0ec6baa2ce3"
 metafile = true
 
 [[files]]
@@ -4960,12 +4960,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "79f2b80c08c0b28e6cc0ef4268b383b715594ecfcf5d72b435f191edc5a1a80f"
+hash = "8ab812c7cb74ed2ebb54b760f5e66068e873569ad3651ba713fc45ca4b1ecc2e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "57a2381da3f80ebe6696bc1e2121677235c531dd42700c96e2dec9ef3c207271"
+hash = "5e0bff4cc3a02adb072c3101ccfda136f2d873921f5dab0d1f8fb2d1d1322fe9"
 metafile = true
 
 [[files]]
@@ -5090,5 +5090,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2519bd8ff8ca10ed6a94f9c3e4dec79daa9ab43f0cf31a74c93ad517a616d428"
+hash = "f3afd01d4431c8f38a671e71bdf984ff2eb63810c07731efffeb2c62504b8f3c"
 metafile = true
