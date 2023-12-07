@@ -4159,6 +4159,11 @@ hash = "898cbfbb07b41b5321827a19ef745fab3c80974d1a793cb8f49ac011a36cfb2f"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "81379aa20e485b715a65add4f9bdf4ac32cd6d1bc4c302ac99af6b58de1c9bf0"
+metafile = true
+
+[[files]]
 file = "mods/chimes.pw.toml"
 hash = "53af8ab7630e42f31459dabb60a0669d884119a3972cba60592d634079c17a02"
 metafile = true
@@ -4394,6 +4399,11 @@ hash = "b690e9212a8645fdf19844a2a6231d57fa18558c3b8a3ab61b6d2460797a0c1b"
 metafile = true
 
 [[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "356b5e31fe354abe4b737bfced8303099b35442b1e4757953d3eccc8d745d50a"
+metafile = true
+
+[[files]]
 file = "mods/etched.pw.toml"
 hash = "25c38e89ea1dd160b55fa2cea69ea79499f8836a358fe8b5b48e181c465d053c"
 metafile = true
@@ -4516,6 +4526,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "edf611fc10f5bc529b59065a6374ed225beb3b26d0164f5eaa11d598f97c4b3e"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "71814550cff2335af0c7af741cdbef3e98a2968e004d118ee7f3875864323e02"
 metafile = true
 
 [[files]]
@@ -4649,6 +4664,11 @@ hash = "c3d8e3617934cc5f245a8fa16b0697a829c6efb8b636176b9f2034fb030e458a"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "f635e2b957def9ae6f6495167111b15e272cbc0564d2aab56a6979c0e36328a0"
+metafile = true
+
+[[files]]
 file = "mods/libnonymous.pw.toml"
 hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
 metafile = true
@@ -4746,6 +4766,11 @@ metafile = true
 [[files]]
 file = "mods/mmlib.pw.toml"
 hash = "a83188a484425ed4d2bfd13cb7f130dd8a84e7d8c311b835685e0ce33d9e0366"
+metafile = true
+
+[[files]]
+file = "mods/modern-world-creation.pw.toml"
+hash = "23485a3197e6ba6d07f895d7819b3eb2ef2084c4e60e72bc6fcdb0bb88f16609"
 metafile = true
 
 [[files]]
@@ -4851,6 +4876,11 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "b2177ee1f915ce56915f353857dfd6f5c69c7634d7c485f163df9d1e9a5a2af5"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "2c9b1c20c534603183445552777b79f3e60ef818c93c9cd5f5af1428ead936e2"
 metafile = true
 
 [[files]]
