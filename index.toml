@@ -4260,7 +4260,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
-hash = "c147510a6546352f6b6a3f8b00f05d35e1461e4692b782017efdccd0cd497e2a"
+hash = "c9d8cacabac37c4abdf3dea991145607f750cbae42d01b926c7b11de5942e021"
 metafile = true
 
 [[files]]
@@ -4355,7 +4355,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "d4f2036168647a6525410ec4afcd0ac323de926bc39260b81dc6e9b0eae6e423"
+hash = "e14facf054e5139fab9ce0b851eae430f30ad1756f6b0dc8e9937bcd682938f7"
 metafile = true
 
 [[files]]
@@ -4745,12 +4745,12 @@ metafile = true
 
 [[files]]
 file = "mods/mmlib.pw.toml"
-hash = "578838f6c5ae0d70b08ce603b7c1e20340a961634a07309e456b4d7e8c266354"
+hash = "a83188a484425ed4d2bfd13cb7f130dd8a84e7d8c311b835685e0ce33d9e0366"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "030581a535a3f57bb5a5b1e49861a9f2e8fe87f304bb3a4127bf9d3bfe83071d"
+hash = "219023e1cfcbeaf0a05e615217f80115845954e3e232636fef213f841389b282"
 metafile = true
 
 [[files]]
@@ -4995,7 +4995,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "f268abf92ded6c83b606781d620d11ea1522bed12c982ecb4b38d832d312379f"
+hash = "0b0588c945bc9678cc99a359cb08f02edbc0a5dc55a527a9b75a8d38dd5aa406"
 metafile = true
 
 [[files]]
@@ -5095,5 +5095,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f3afd01d4431c8f38a671e71bdf984ff2eb63810c07731efffeb2c62504b8f3c"
+hash = "ae1d55ad148f9d93e359fdd7d0d859a7852cd6cbe8d65db99a6bae16877e3043"
 metafile = true

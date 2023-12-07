@@ -1,13 +1,13 @@
 name = "Mysterious Mountain Lib"
-filename = "mmlib-1.2.2-1.18.2.jar"
+filename = "mmlib-1.4.2-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ntMyNH8c/versions/QkDvf41g/mmlib-1.2.2-1.18.2.jar"
+url = "https://cdn.modrinth.com/data/ntMyNH8c/versions/WyEdmWOH/mmlib-1.4.2-1.18.2.jar"
 hash-format = "sha1"
-hash = "4e0bb6d79aeff265e4984e7ab1f2e8bb7304f4ff"
+hash = "0241ac2c2f12262f0639b19f9f9ac6a921fce22a"
 
 [update]
 [update.modrinth]
 mod-id = "ntMyNH8c"
-version = "QkDvf41g"
+version = "WyEdmWOH"
