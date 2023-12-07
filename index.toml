@@ -4494,6 +4494,11 @@ hash = "16e390584c446fdfea4b64dd1249e39dc46f6b7d7c5aea6aa2ab991d91c4c2fc"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "948378f3fa909dc8f55181a4fc5e2b98f5e05df29b2a929b20a9a2956b35abe9"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "d407624e38c852ade10d8bf4de6949bc935d6d7a23079f5602986296c21ac1c6"
 metafile = true

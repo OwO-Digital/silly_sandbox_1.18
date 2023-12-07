@@ -1,0 +1,18 @@
+name = "Freecam (Modrinth Edition)"
+filename = "freecam-forge-modrinth-1.2.1+1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/PnAiLUHV/freecam-forge-modrinth-1.2.1%2B1.18.jar"
+hash-format = "sha1"
+hash = "094ee5fe1136bd727ded4c75a2b2b072677d38dd"
+
+[update]
+[update.modrinth]
+mod-id = "XeEZ3fK2"
+version = "PnAiLUHV"
+
+[option]
+optional = true
+default = false
+description = "Adds a freecam primarily intended for taking screenshots."
