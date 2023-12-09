@@ -4245,7 +4245,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "62d8d1b2299242ba5f40c4d76d84a7cda4b39960f37366c08a75113b0e45a6e9"
+hash = "c6191c33ab41cc21d36bca2467c6eff9a9725610f318fbed87dfdc45f1ad50eb"
 metafile = true
 
 [[files]]
@@ -4970,7 +4970,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "f4f673bcc8d545a3d6ea5f7acaab42dd8fae6be0ec1b6b9a97d2f070e27d38eb"
+hash = "ed4cc8ea07556ec2c2fcd8189b2ce56cda7fbcc06f286c962642392ba3bd61ce"
 metafile = true
 
 [[files]]
