@@ -4259,6 +4259,11 @@ hash = "1b9667cdf26f514d9a9326d3dcc74c3bd0dfcbbc910fc68420f9380ec2a47142"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "a870f4e08855ee1eb1845baa93c0f941f8b39842e20f6d43e78fa8b212508a87"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "4ba0dd9323028bd46dd45e4a085c6d07a499f75f137c88e3b76b559d7298e115"
 metafile = true
