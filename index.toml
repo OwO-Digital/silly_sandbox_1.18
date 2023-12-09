@@ -4629,6 +4629,11 @@ hash = "fa0ac28adaba1a26ee447f2fda6ab0211c3e980352a9d6d9b9ace9d7225a17bf"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "6ba38b772ff6217503bbba600deef53ae2b57b481fc7bcb304642e24e0f79136"
 metafile = true
@@ -4986,6 +4991,11 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "35fb5e85b0510dd506ce3897dcec95fd710deadc3595e7d4a3b9bc9b97c5cde2"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "aa9dd1faf202e0d01b36bce26d51321fde896d71b271edb3cb39646fb760bec1"
 metafile = true
 
 [[files]]
