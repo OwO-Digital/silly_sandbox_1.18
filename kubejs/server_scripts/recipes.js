@@ -484,7 +484,7 @@ function wireless(event) {
         C: MEK('ultimate_universal_cable'),
         F: 'ae2:fluix_pearl',
         S: F('#plates/steel')
-    })
+    }).noMirror().noShrink()
     event.recipes.extendedcrafting.shaped_table('fluxnetworks:flux_point', [
         ' DSD ',
         ' SFCC',
@@ -494,7 +494,7 @@ function wireless(event) {
         C: MEK('ultimate_universal_cable'),
         F: 'ae2:fluix_pearl',
         S: F('#plates/steel')
-    })
+    }).noMirror().noShrink()
 
     event.recipes.extendedcrafting.shaped_table('fluxnetworks:flux_controller', [
         'BSSSB',
