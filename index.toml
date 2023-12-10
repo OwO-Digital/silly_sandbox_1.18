@@ -92,8 +92,276 @@ file = "config/wands.json"
 hash = "03fe0fe10c89a9d24e877fe0c3c8be1eae51b3a6180033fbaf9d9953dbdbf92a"
 
 [[files]]
+file = "defaultconfigs/solcarrot-server.toml"
+hash = "a081c3218fb75f33edeb51fc16170f0a1cee3a12bd529cf573f98c983744dcc1"
+
+[[files]]
 file = "defaultconfigs/tinkerslevellingaddon-server.toml"
 hash = "0d5712eff9718c5ab589a593f7b87a8c7b048f997fdbe04da145cfe76f7729c5"
+
+[[files]]
+file = "kubejs/assets/bhc/lang/en_us.json"
+hash = "a4f052cc7ccdcab2c72aa20e66a59c130e4e3eab5f7101af47cef07186622cea"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/blade_of_vitality.json"
+hash = "cfa33f0b65059d58d466f595a3fe0953bec43d168d18b4771d6aba335f7f8132"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/blue_heart.json"
+hash = "e241f8f301ecd76cb921b8b861c416ba5a263e0bd5436ad96e84006d8f5e133d"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/blue_heart_canister.json"
+hash = "01da1db32704e808dcb2bf39bb4ee8f0e9890dab06341ec812ea7e9baa2919ee"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/blue_heart_melted.json"
+hash = "335531cdea6f40df4ad84c3428d8d0697da347e552c98225c08efdbb6e975214"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/blue_heart_patch.json"
+hash = "1404e8638513f2fa89973238f7cc0a3980670e8b3bc66982c4c9bc6051f030f7"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/canister.json"
+hash = "5e1314b4849ff711fc278ceb01eab75575f4674cb55546b0676e9494d692faea"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/easter_egg.json"
+hash = "f8dbaa93266177a2cb5d2710af05aa7088c59872ba56bef25ea3e2fa7685dbde"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/green_heart.json"
+hash = "1c817134adfe4e0f1e75c951ff9c2aa978a5dba2948f11b8151fb927a597dc4e"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/green_heart_canister.json"
+hash = "bd489039b70a2ad48ae71f2424e225a842d67127718fcc66a488158df5c6b50d"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/green_heart_melted.json"
+hash = "2decbfbb51d68127c8da964fa9cc03931f11d245af4ba26f16c29d8d68da35e7"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/green_heart_patch.json"
+hash = "091726c513239ed8554c0dfdc5fe245b98a7cb674a5ba63fb86a5c29b40226e6"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/heart_amulet.json"
+hash = "d69570b07fefce5973af381296b3cfee405faa5ac2550fa538948a0d92124439"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/jamiscus_blade.json"
+hash = "67e91efceb3521bf3d4427c49c54d7c454d6873c53ef706d13d21e05fd5875a5"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/lash_blade.json"
+hash = "794746ef240adcd98fa55ff88bf53c69f286c660e147abada0d53b962951bd92"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/red_heart.json"
+hash = "0fd946fe788a0f69ca1b4d7f38531c3bcd72411554a73f889f186fd9dd3a1e1b"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/red_heart_canister.json"
+hash = "4903d52a54a456e4833b75143fd89b7fa607a5fe08ff27959e4a3b807a88634a"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/red_heart_melted.json"
+hash = "931bd84668a58c53ce0ebe3029c046c47cc6054c233cdb97e62fc1c7541c50ba"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/red_heart_patch.json"
+hash = "eb60d77c55267023088bc4a1f6642b6c967f842fed1e52ffba769157fd4dd14b"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/relic_apple.json"
+hash = "694f309b4ac3388f095b0710f79a54e82a9bc1999889460acef8430678473d07"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/soul_heart_amulet.json"
+hash = "a6aa0a9990411028211c371a0b7f55ce5da765c8a91f14aeb9f94b00dccbfe5c"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/soul_heart_canister.json"
+hash = "c3291958823bbca2516a039f4813262754043cb19169fa775348946c9666e40e"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/soul_heart_crystal.json"
+hash = "503d479b4a4a3057380cc8ea3fb54eb6431c5230819078c961cc3558253c8410"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/traverse_blade.json"
+hash = "4514741d223c4874a0ae6b5f9f05f05b8c49cf71a9c45934de7310b1d5bf3c59"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/wither_bone.json"
+hash = "cb2545f8d5b9da3607d242f3a4b494c2ac73df19e04ab6ad89b20f53882802dd"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/yellow_heart.json"
+hash = "8311697f460b2995732ffede8e9f5852ffa963c65e5d1da7ca6e2928a452b99e"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/yellow_heart_canister.json"
+hash = "0b69d47005482617cb8a223c11473409bcf57e8ba0800022b4571ac1a9467758"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/yellow_heart_melted.json"
+hash = "693b1ed4543410744aa3489647b2f798bd763397436e853cee2552ce800d528f"
+
+[[files]]
+file = "kubejs/assets/bhc/models/item/yellow_heart_patch.json"
+hash = "24602ff8d14e9ed89358157b1d782ed6185fd68e8a868e4261043ab5edd53dbb"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/gui/blade_of_vitality.png"
+hash = "c2f88202ab677d3e8c1d467b5280413e044f9020d6c0a27a5d25d80959a1de43"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/gui/heart_amulet.png"
+hash = "4ae7170830aabae2769012c978640f07978bc68b307a878e6036af264cd081d3"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/gui/soul_heart_amulet.png"
+hash = "8d3a43b282ed01d982ef310261b4192a1488ec40f0342b53efb4085505dc70e4"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/blade_of_vitality.png"
+hash = "454550709b8e70be7ff7c0227cc6716202e74208d53fc959a6a31074bc440e83"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/blade_of_vitality.png.mcmeta"
+hash = "8a4243779d9e54d8f8efa60513629c2eeeda200096cb74292f8aa66db8fa6000"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/blue_heart.png"
+hash = "f81f905d158045acb6e90685f1679ec227f4bed088fe3ee57d00498efec89e87"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/blue_heart_canister.png"
+hash = "5b8d7a4176b0aea2a6985fbbf1e33763f56e42ef7b26ee5bf94f37290efc3fcb"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/blue_heart_melted.png"
+hash = "a023f9f0833faa2dcb9c9129b66df9339ffd5fc8b9fa183df8ac86de5b153b7c"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/blue_heart_patch.png"
+hash = "3abfe4a0bd7ff264b90fa5dfcd07ebb6a4b6e6563502fcf327d343c16b5c41a5"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/canister.png"
+hash = "682588ead42ded9c9569c695d2b5dc8379d718bb5551eb383fe6e647fb9d3524"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/easter_egg.png"
+hash = "53327768e3d021ade8bf073d6f0ede333073902686dee14bb6ef48908d015f8c"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/easter_egg.png.mcmeta"
+hash = "8a4243779d9e54d8f8efa60513629c2eeeda200096cb74292f8aa66db8fa6000"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/green_heart.png"
+hash = "60da5c81cef196aa13b0a5818e0324f1856f9314dbaa4a420e28338b3fdf454d"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/green_heart_canister.png"
+hash = "31f160c279cee8b99696c50e8a1f5ccd4f8db535748f7316b708b2526fb64629"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/green_heart_melted.png"
+hash = "2afcf9043c7c6d409396d058b5a2903546f16d1fce31852e7e49ce7b49164203"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/green_heart_patch.png"
+hash = "fb0db49370afc1988a7e6324bc7bc72c08e9c2156c4777dfaa30cee17128156d"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/heart_amulet.png"
+hash = "85c996fe4e0dbcea5bd48616cf7e743de46a3513b0644f694d0f50ce736ba724"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/heart_amulet.png.mcmeta"
+hash = "8a4243779d9e54d8f8efa60513629c2eeeda200096cb74292f8aa66db8fa6000"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/jamiscus_blade.png"
+hash = "9a5a601a3f7adae732aab6c38ee7b4a32b176f8392bfabfa4340d874eace14cb"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/lash_blade.png"
+hash = "18b554f4ea8c929fb745dbd18ae6fd8fa8c0a8dd7c07a435d3db6bbc6bfd8843"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/lash_blade.png.mcmeta"
+hash = "8a4243779d9e54d8f8efa60513629c2eeeda200096cb74292f8aa66db8fa6000"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/red_heart.png"
+hash = "bcd753212db89f6d3e07fb10b7de6f0ba76fdf4c421481712c3f5cf330c2b929"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/red_heart_canister.png"
+hash = "118b32079306eef6b45dc83c15713e8b683b3da6d6eaceac0da7a57c42c30404"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/red_heart_melted.png"
+hash = "07e7082bd739f5c06513daf7217b3ad928a89e132e846d9f46284b4f8c6178ad"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/red_heart_patch.png"
+hash = "41d1be3e6d5b35941da01f3915dbd57876ac7b84a98428b74431d5426750cf74"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/relic_apple.png"
+hash = "76ccbfdb473dc19efee5f7c0b11995b57ce84e6c332631506685b8a93941cf09"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/soul_heart_amulet.png"
+hash = "e43f1ccb7e8382af1636ddcaa1caa8b747096743e1f8d88bbd7a74eff68d3bc8"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/soul_heart_amulet.png.mcmeta"
+hash = "8a4243779d9e54d8f8efa60513629c2eeeda200096cb74292f8aa66db8fa6000"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/soul_heart_canister.png"
+hash = "ac8c282e5b6e82ba07cc1dd5b80c030a2d6ba88f3bc2fb1517c36849c49447cc"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/soul_heart_crystal.png"
+hash = "ce69c06ac7399feb972ad2315d39bd1e1b9cb9407b4f10593e88f86a8b4b57c4"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/traverse_blade.png"
+hash = "211226b1adc5eae04eded9971e06690e9bdbeb1f4896fbaf824bac507a5fe1c9"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/wither_bone.png"
+hash = "7e31a76477686e507c5e9d505bd80051b5e5e51adf61c97d8ab8cd1a0149c06d"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/yellow_heart.png"
+hash = "d5ab7b3754ee8c874026b7a28e2b0195533b0fb49a59b47a50196b69cbc2281e"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/yellow_heart_canister.png"
+hash = "1a11b798527181deec27dcafba14d63eb869ffb301f8028805eedd63bd49b8ea"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/yellow_heart_melted.png"
+hash = "f0debc1f72d126b03c28aa9ebbb77a230782e15cd16cbe19c85fc1f136bd51bd"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/items/yellow_heart_patch.png"
+hash = "dbb1c2671f5c3b3b08726d51f230415d9130f5f3aa0cf0c44306ef650cbf5f22"
+
+[[files]]
+file = "kubejs/assets/bhc/textures/slots/empty_heartamulet.png"
+hash = "43cca49fad748bb637df31d40435d145a4a27c1fc48c7432afaf580a6415a37d"
 
 [[files]]
 file = "kubejs/assets/kubejs/ponder/conduit_structure.nbt"
@@ -3960,6 +4228,10 @@ file = "kubejs/client_scripts/ponder.js"
 hash = "ad28900e7ad90f51204450b0c0eba8c378a7d9c7de9d6829177789d91a68cf18"
 
 [[files]]
+file = "kubejs/client_scripts/tooltips.js"
+hash = "e13d89281fb75ab5139fd60f1bb629663749a720d9e88c84949b906048aac900"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "e88bc5877d8680de1389849d4ce2d0387b281d48c625379ba729e31fd6587993"
 
@@ -4006,6 +4278,11 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
+metafile = true
+
+[[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "a1da6eba0b36c247e005f446439ecf0647b492fc8e81a37423c37bf1345707ef"
 metafile = true
 
 [[files]]
@@ -4081,6 +4358,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "6d6c323e050a88e30615d1cc6b61152f4221d42f8f1084be790538a5af37b27f"
+metafile = true
+
+[[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "ca0f803024d815f4981a16e147f67b3d969692a016e017126950c8ea23a74b60"
 metafile = true
 
 [[files]]
@@ -5066,6 +5348,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "7d55d3ce406bae0b380718c5b68167c9cc4eb454c1e78c7b754d6c50d04e2b04"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "24cf95c3d275e37fc044713468c2a81918a72b8d91a8d6eee1538dff97f8139c"
 metafile = true
 
 [[files]]
