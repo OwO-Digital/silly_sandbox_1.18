@@ -4054,6 +4054,16 @@ hash = "4864451af376b26104b421900f69a0bea7c462edc2e47e359a341dbc457f3508"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau-tweak.pw.toml"
+hash = "582e119393e8edf96af9e98c961f9b21a5abb9a04997d722a8496ba025a31e27"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "e4e35734019bdd50533950d27b7923ebd433cf9851d8bb9ad89f77165067c1d7"
+metafile = true
+
+[[files]]
 file = "mods/atmospheric.pw.toml"
 hash = "b7bd02b8d89a475e1818a700c7e40f075d3e86498839d15add24d29437070185"
 metafile = true
@@ -4534,8 +4544,18 @@ hash = "237943d8bc91464f51cd8e2af91a0b5415622e87d2315d467b50b2e1b5af6391"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "345c513e6f9a7fe31fa382c5ad34ba9447ffeac4e261c4dd9bb0a49d1cc23dd7"
+metafile = true
+
+[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "edf611fc10f5bc529b59065a6374ed225beb3b26d0164f5eaa11d598f97c4b3e"
+metafile = true
+
+[[files]]
+file = "mods/hexerei.pw.toml"
+hash = "fcb294ed1867ab61af110c5ff455f4b5ec8feefc41bc94b4ddad2211277479e8"
 metafile = true
 
 [[files]]
@@ -4794,6 +4814,11 @@ hash = "219023e1cfcbeaf0a05e615217f80115845954e3e232636fef213f841389b282"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "9ddaf1b7ec2be68a6713bf9f312926d9d9291b3d54fabbc3c6b063647e5e98f4"
+metafile = true
+
+[[files]]
 file = "mods/more-buckets.pw.toml"
 hash = "ed98ba366145b90d1c9c76c7a7b117b915d072a7e67cd294d5bcc1310887fa8d"
 metafile = true
@@ -4841,6 +4866,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "805dded546acbf94889d96bceacb5496f7e84054dfd7a00b1970968522287ad1"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "a601f8df666a01ed2f6b95fa99655bd6a269376afb047e4e8bbcf8f794776d2e"
 metafile = true
 
 [[files]]
@@ -4964,6 +4994,11 @@ hash = "614a7bd300f1eac1aa5693b2b331d3dab75bd2f1e5989ab14f8d463c3b58d19c"
 metafile = true
 
 [[files]]
+file = "mods/roots-classic.pw.toml"
+hash = "f39fdb1d734b3a2807c8cdd4b545924fcfa7cf3e1d57eb1729a04c6a1b3b62cb"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
 hash = "7cd05584b69fc6741b505fe775dc8634021743f5a318e83162248c67b95129fe"
 metafile = true
@@ -4996,6 +5031,11 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "35fb5e85b0510dd506ce3897dcec95fd710deadc3595e7d4a3b9bc9b97c5cde2"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "5b441eb41c2f8f43d8895229e1785a790444485a53e42096ec3d94fda8bb064d"
 metafile = true
 
 [[files]]

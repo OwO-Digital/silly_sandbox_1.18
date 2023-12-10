@@ -1,0 +1,13 @@
+name = "Ars Nouveau Tweak"
+filename = "ars_nouveau_tweak-me.blackfur.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a17980aebb1af26cec5efe82ae4cc003d7e05a22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4798182
+project-id = 923028
