@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "cefac7e90e0919075706cec0157c69f70b95c31b1f69bbd5905e3f6bb473b576"
+hash = "25627440d4046445ffd918f62a920bcc6e2f7103314e3e859b9787b969b3fe50"
 
 [[files]]
 file = "config/defaultoptions/extra/config/justzoom/config.txt"
@@ -384,2468 +384,12 @@ file = "kubejs/assets/kubejs/textures/item/wet_sawdust.png"
 hash = "e30f23e1a125565bfbd931c050bf5262e205ef61ef58d026f4fe832b40b468d7"
 
 [[files]]
-file = "kubejs/assets/mekanism/textures/block/advanced_induction_cell.png"
-hash = "1d7b227e2ea9ca14cfda5ffbed02db15588abedc7e0d5d5b6f7d58f7ae36252b"
+file = "kubejs/assets/mekanism/convert_uv.py"
+hash = "96344d2a16105e256876b724846357f112e753d32107bd8982c0ed09f53358cf"
 
 [[files]]
-file = "kubejs/assets/mekanism/textures/block/advanced_induction_cell.png.mcmeta"
-hash = "eadc51f005c7f68f20587b36591ecb002c5d26bae05296e40a00bdede2ef6faf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/advanced_induction_provider.png"
-hash = "b81aff5a9741b34c2ddbf3953d2c89d0c5434a5baa3bbc3e8d513164e24068d1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/advanced_induction_provider.png.mcmeta"
-hash = "413d3c5a6900236be40a6a6af000909518d77bd9ca240f061deb26f0a8035e02"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/advanced_induction_provider_led.png"
-hash = "ddae55e0daf6f5dc3f99d0ce032f35ef45255465ad69d1310493907daac17249"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/base/base_bottom.png"
-hash = "96e46b04b321e253bea29a606ab7d7c9ba45bcd3803bd5574bc0d28c55a9a711"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/basic_induction_cell.png"
-hash = "6e90a9de084221765bf0ef09fe7a8da9a565487b04fb1c79c3e5c5f9dd0580cf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/basic_induction_cell.png.mcmeta"
-hash = "a6ef2afc8e2f70e8517dd2652f153e06dff460eb0314d0f999da9ae20135e483"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/basic_induction_provider.png"
-hash = "23a10c15c71a8e1a11cecf0435385ff47a3f5330c1f829b70e9500db53b81935"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/basic_induction_provider.png.mcmeta"
-hash = "114d9829d5f8ec3a0859bd8d9ea918aa80ce8f592652af5c16e39df19601f307"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/basic_induction_provider_led.png"
-hash = "8b77ef28dd76b9ac256932159d26d43db93bc47fc3244f78a875bf340cd9d98a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/advanced_back.png"
-hash = "06069f7365fb0ae8560b5bb4df2e62338d27fa771578f00917b0a8a890698286"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/advanced_front.png"
-hash = "99bd5e8303f973ac6cb7f3d8e0472721a41332099a6abafd2c3b0bd6d9e28eb7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/advanced_led.png"
-hash = "a29cca9486d63ce67b137008b60dd8de54fc0fdeb28840286b62bc26b5e054a8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/advanced_side.png"
-hash = "06069f7365fb0ae8560b5bb4df2e62338d27fa771578f00917b0a8a890698286"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/advanced_top.png"
-hash = "2b070228b141e20baaadc5f0ad703b2a6fe19563366fd48cb51cc568758be0b1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/advanced_top_active.png"
-hash = "94db674216e56c22c560efe19a58ef63dac312aadc00171a971278c8e0c243c7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/back.png"
-hash = "14d465c39fcfdf69b87e8faaa94cdf1565a0c873e8e78cfd58381f7f3e4a2faa"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/basic_led.png"
-hash = "d9847f16387f91f2deaaddbe014d8c256910924a210ef8f33679bfa8d1e6bf7c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/bottom.png"
-hash = "67c99c5bd31d424590055ca21d175e01c231882b8383ad1d9e7cb992f719eac6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/bottom_active.png"
-hash = "2aa2b4cb8295c6dbedc83f181fc3dbc16109d370cb9660b94bf53829c97a1fd6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/creative_back.png"
-hash = "ae0103bf80279cfa493c2c522dfb597680ad4acc2e0b2ab852038a7c6513c8ef"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/creative_front.png"
-hash = "99bd5e8303f973ac6cb7f3d8e0472721a41332099a6abafd2c3b0bd6d9e28eb7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/creative_led.png"
-hash = "850df03a2d74749eec44d07cd7286a90b7147e15427e0c35d6e9bad32a6434e4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/creative_side.png"
-hash = "ae0103bf80279cfa493c2c522dfb597680ad4acc2e0b2ab852038a7c6513c8ef"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/creative_top.png"
-hash = "7c1badde11b694e32901f81584fdd39d6132e874e6e3b19e57139b876b296a2f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/creative_top_active.png"
-hash = "455d01ff1435c9b0b9c8f110ef0fce42e3b8b28d809a630ea9859a44629c0ba9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/elite_back.png"
-hash = "2f8af20716c09b20aa8225add09715e194a54ffa55e9912ac5b4d3905b481d17"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/elite_front.png"
-hash = "99bd5e8303f973ac6cb7f3d8e0472721a41332099a6abafd2c3b0bd6d9e28eb7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/elite_led.png"
-hash = "cbb489400fa9626331d0422631112dcd6816162f9b27d65387852670d42f3a69"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/elite_side.png"
-hash = "2f8af20716c09b20aa8225add09715e194a54ffa55e9912ac5b4d3905b481d17"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/elite_top.png"
-hash = "9e8aa66fc003c6ab144fe99d6b15178baf899ff762a739b37a632251eefc248f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/elite_top_active.png"
-hash = "f9cfb075678c3e8afb229cb9965bd2c6c0bb59f73213e6f1ed55d52b2ff72cfd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/front.png"
-hash = "99bd5e8303f973ac6cb7f3d8e0472721a41332099a6abafd2c3b0bd6d9e28eb7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/side.png"
-hash = "14d465c39fcfdf69b87e8faaa94cdf1565a0c873e8e78cfd58381f7f3e4a2faa"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/top.png"
-hash = "562444862cbf6ce900201086475079e07a163d5ee42ac94f23fa7296c1f2d0b1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/top_active.png"
-hash = "90acaafbf210678d6e1e70a16f84e641a4117b9b265b52fcd7c60f3a0f579a27"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/ultimate_back.png"
-hash = "98ad95836e6e443e19d6d0dd2e2ac7b7213544b2b3b0a050670befdfd623bdb7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/ultimate_front.png"
-hash = "99bd5e8303f973ac6cb7f3d8e0472721a41332099a6abafd2c3b0bd6d9e28eb7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/ultimate_led.png"
-hash = "c5846f21fcb22f0a579ba1dfd5db6bef1d40d7869d1e2e28e5b6b91181c4fc97"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/ultimate_side.png"
-hash = "98ad95836e6e443e19d6d0dd2e2ac7b7213544b2b3b0a050670befdfd623bdb7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/ultimate_top.png"
-hash = "cfbf8db25e620f08e8b03904e0c4b435c1f71d48c4c7754890e82dc73038b212"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bin/ultimate_top_active.png"
-hash = "a199ddea73e1e639e64d11b44e33536a345585c060e38a51cea19eebd1273fe6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_bronze.png"
-hash = "e02b57cfe613d8b52ae51268d7b9078084bb667d0bdce346e583af247ab04444"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_charcoal.png"
-hash = "730ceebac30a71870ab6690c5bf803c3c20b65e2247dee1ea9379ee7072b5296"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_fluorite.png"
-hash = "65e7a0b79bf42371b3b319a6028ac2fcc0fcff1d9d57d7f59ab5967fc9ffb8d8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_lead.png"
-hash = "d5652cbaf28e4c6782ff8a72b6ccd413f5fe5bc7c0c505c1da7d36915c474fe6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_osmium.png"
-hash = "a54b93071ad500693b5513de9cba81f5c860e528516809485badf985bc8cf701"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_raw_lead.png"
-hash = "d1d3869018f56a55f8bab399fc6eac18b00e8ad2b31734ac454871ade73fc92b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_raw_osmium.png"
-hash = "a6c674ed9288b9c15ba55c0967e724382b7ffa011e9d21c97c4060de98394086"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_raw_tin.png"
-hash = "630221795615c9f7148e600e86224c6b8fff86bbb728c15d80e8d5ee1663830b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_raw_uranium.png"
-hash = "88c7c395cbf0324e7e38b81cab03399075bfd8d246c2d444d85d82951a8f205d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_refined_glowstone.png"
-hash = "d919693116a28ceeb8efe343c60a76b283f000c421b305f2a76e70010816fa9c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_refined_obsidian.png"
-hash = "516d07383149589822afb8ec99e1dd1f977a6141fa6b6628aabea4a13a281dad"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_salt.png"
-hash = "2420940358608bf6d1e0947ec4f8141f9879f024c265b9fa6323d91e001962b9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_steel.png"
-hash = "63ca68064c8d71d58dd54d980f6244c9260f08fd8d8517f48b309fc357130aaa"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_tin.png"
-hash = "021f5cad0daa9394849b1c2f61202e6e246b99a55b464ff99615d2f08f478bbd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/block_uranium.png"
-hash = "48a3f3f0ff6ce99bff5b807a6ca6e1adc97494f7a6f528a572ce2deae6e028df"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_casing.png"
-hash = "edc14ae9facda1ac1ea2ac22d67d1c49050365212c48554c4b1f6a24e3916830"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_casing.png.mcmeta"
-hash = "ba4665c9df89050fa733cc6493a3e4c0fd45330f41f4957523fee584c9cfa13e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_valve_input.png"
-hash = "8f9d11ee2d612a0d0c436c342fbf4a15dc81c82069f4942a04beb2498d05019a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_valve_input.png.mcmeta"
-hash = "87f839333c35db3e2b04d041a4b4731ea2c25adb44febef9a4e7205a056e112d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_valve_input_led.png"
-hash = "ecada4fdb4f829a42f67f2ca343223c2005d7236bb518c064369c83e2e6f9e28"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_valve_output_coolant.png"
-hash = "ca3d77bc8e76b60aa4036dbc82787925b25cb2d8f43aa5c7feb975c289e34cd1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_valve_output_coolant.png.mcmeta"
-hash = "0df423968e81b8aaad383e1d6e993409388b91765eb479c304c078ad06d007b8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_valve_output_coolant_led.png"
-hash = "dc84c749972ac5fc34fdebb4dd05264ed2329e6a71ec85e42e0ca67c774ed373"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_valve_output_steam.png"
-hash = "f3ad6485dd0bf194631b4af44f905f21a589db904ac1c9ad8bb8dd0a660dff61"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_valve_output_steam.png.mcmeta"
-hash = "4ceed7ea7d8f6f1a6f647b39d747984859e81d6da7324213fd107bb156c59ba0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/boiler_valve_output_steam_led.png"
-hash = "757d2c5fa1ab617d0d27adc296079ad41f19759fe906aa04a8f76c282fec85d5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/bottom.png"
-hash = "d4722b4327a35e99d5d35db2f8297ca82b704cce15db61090b0e2c09c41bde09"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/cardboard_box_bottom.png"
-hash = "676632f8afb02875a22ce2ca339b959a638d3b0655d7f389f1f98adb2d2c3e03"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/cardboard_box_inside.png"
-hash = "48c7158edfb4b097c1e48fc86ff2d49693ceaaf08d5b21e8e7771c77751fac9e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/cardboard_box_side.png"
-hash = "e96d673ebafc651b06e36f4db2c378c8ed0e840e2fda27a5538bdaadff6a9bd0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/cardboard_box_side_plain.png"
-hash = "8a9a12f0e199420d09e28176bc7030e305d9b0242626ba03744d34d776225693"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/cardboard_box_side_storage.png"
-hash = "bd89d36aa05fcd98a2dba3d1ef0165b3bbed1e8df870d5fe7a49bcc612c05680"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/cardboard_box_top.png"
-hash = "e003f061aa7dbb9cbdaa62986eec38d1b31cf9afeba6c6d37d6ad4e0fc800a59"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/back.png"
-hash = "9a671b3b5f03bcd1285c7b4121aac83ccbefaad5f29ee1fadcd3ac25a040dd66"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/back_active.png"
-hash = "2f6236836afc035bc0da6eca6b17d628bfb38b3f8dee28cea57002fcd1689083"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/bottom.png"
-hash = "4ad2e1312a5c9a2570398ff3fe9bbb1ff0a8775831d0a4ec4f41deba1d54c010"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/front.png"
-hash = "6da1fc5cbc94bc0a01e7fd7da5caf66b1fc87d7480a33be6f6809f818eda514b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/front_active.png"
-hash = "dde909fb46ca7506439693b30963c9035dc6284dc44fc3fb51bf3e8bd25d7de7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/front_active.png.mcmeta"
-hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/left.png"
-hash = "98fcc1bfb4b1eb6f4c2f0c8cb768a84d6a947bac34f5e626d2ec37ec05be5fae"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/left_active.png"
-hash = "9c8a16610adf0269f270cc703e0706d4a1f040d3777894dec73759e324b38443"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/right.png"
-hash = "765b8fd171ea0cf58e81a4568019d13a634341d740c422ce65ec89a5c3ca1555"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/right_active.png"
-hash = "0e118dbbb6e865d6dfc717dc25bc756a05b0d5f68037ca05c67ccd3e6d21c6a1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/top.png"
-hash = "97c602d805eab7ae84d921a52738e7c1a15c9379ec717ffea01957eee0be1dee"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/chemical_injection_chamber/top_active.png"
-hash = "ae2bab328fa2715e6073c21091be85eeb0140f21c328590fe6dad365a4626dbd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/combiner/back.png"
-hash = "e551086dbaf289d9b135c6555a14c46671568fb4fbf42afe36811c260174b2e1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/combiner/bottom.png"
-hash = "4ad2e1312a5c9a2570398ff3fe9bbb1ff0a8775831d0a4ec4f41deba1d54c010"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/combiner/front.png"
-hash = "0c114839a7b35fe7cf1ea651e74efcec42b98f2a1dce3f3467e9624d0fb4dd47"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/combiner/front_active.png"
-hash = "6ab7687f58117a4b0d3faa466dcf9b126be2c4d8c6dedb0820e4e654abbe0aaa"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/combiner/front_active.png.mcmeta"
-hash = "09c002d7414707ed731b10b44135fc63622912619bec0fcb6dfdbad737bc75e0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/combiner/left.png"
-hash = "f21dc6184a6d84466aa3f77960170967c14b1b4a3d0df7bbf7ced7e9566de826"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/combiner/right.png"
-hash = "f21dc6184a6d84466aa3f77960170967c14b1b4a3d0df7bbf7ced7e9566de826"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/combiner/top.png"
-hash = "63d26e1cbaf65cf838fbb08b7ad4dd3db3929a2011b26aafdcd4e637d3318d55"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/crusher/back.png"
-hash = "c280b9ce976284853ee1e6b170b4f6bcbb05df3fd2d07fe4d93cbe6bd823bdb6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/crusher/bottom.png"
-hash = "4ad2e1312a5c9a2570398ff3fe9bbb1ff0a8775831d0a4ec4f41deba1d54c010"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/crusher/front.png"
-hash = "a1cdc6052763f820eabece8b798c077b640b77940d9f27a12306f52982aa2fa9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/crusher/front_active.png"
-hash = "69224d32064ab42461204419a390edf006c003ffcd6095fadad4202bc34dc4f8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/crusher/front_active.png.mcmeta"
-hash = "33b1ffb77050802372dd70d485e8663c1439d0d545030a1623ec9f643b4b153f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/crusher/side.png"
-hash = "309732f3d753c5403eff2a13760a1935b46d26403f339e632023852b026aa018"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/crusher/side_active.png"
-hash = "c1ce58e8c250026c52dbd3eee567ae4186db8a1d478ccdc1395e3da4e1834ac8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/crusher/side_active.png.mcmeta"
-hash = "33b1ffb77050802372dd70d485e8663c1439d0d545030a1623ec9f643b4b153f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/crusher/top.png"
-hash = "90620ba7cd039a611bf16f3310dc8e09dfe7fe9e4df7a41c49df348675cbe716"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/deepslate_fluorite_ore.png"
-hash = "f7159d775f0eaa14f1c1cc65bbe3df91ce30a5f00dd0173d33fd919c793dbfb9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/deepslate_lead_ore.png"
-hash = "a3e8ab3efa5358c671e18f8c5a1120956388c4be01fbb9f26008f48ab002118e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/deepslate_osmium_ore.png"
-hash = "0bacee5e18751ed2c841812b897af6cce3a7b41c9bba09cdab6f15b3e3e445f9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/deepslate_tin_ore.png"
-hash = "e6111536e87c44ee36529d4607397bbc8ae8cb7c64f157bd2f13ffadd558d97d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/deepslate_uranium_ore.png"
-hash = "cb60205a47a3e2e8abfd63b56992d0dcc1cfa4703fd30c2deb030ee990e968a0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/dimensional_stabilizer/bottom.png"
-hash = "112f9b9517b9c816350362e342b146fe8e2794ad52c35db8e12709306a3fcf6a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/dimensional_stabilizer/side.png"
-hash = "47a0247bbdff9c3d83fa560e454ba914ada4914816c43ca9526e95ef3797b48e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/dimensional_stabilizer/side_active.png"
-hash = "9541de5e56900113e069f93e12b7098ee8868ef7bc9d401370f4c3506d0eaa32"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/dimensional_stabilizer/top.png"
-hash = "6e52af098da0dc8539c9a345800e13d635526e30469e31ea2bc638e71dfbfc69"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/dimensional_stabilizer/top_active.png"
-hash = "bc3255f74e4acc96d53b6df3dc3873cee5942ef074d062cd50f10daa935ee2ba"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/dimensional_stabilizer/top_active.png.mcmeta"
-hash = "25164b6629bf305a0136d5a70be7cb4b1e53def0b65cddd6a2f1b5a3ec4b3020"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/dynamic_tank.png"
-hash = "938214e8e57c96cf408296dd1b8fd96367407368376c0bc3477ed82281427a0b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/dynamic_tank.png.mcmeta"
-hash = "c49724f9b85bab22b3d07bede085372507cfcc139f6fdd78a7f55b86313b8d9d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/dynamic_valve.png"
-hash = "6087f1b265c0947cee4bcfc8a99aa7450041e9eaaca626de79a23895117fdfa8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/dynamic_valve.png.mcmeta"
-hash = "410dd7a0c6cb35f2a543a5da6e4b54d7229332ae8eaf55b96cb6e0c3983d3405"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/elite_induction_cell.png"
-hash = "708c2a99adf591bb59edaac3c3da17ec4ea8c3899ce1b701440287468e1ab9cb"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/elite_induction_cell.png.mcmeta"
-hash = "5c54e889cf0b459e9bad5713d0830a5185f35c38ce2f68d5e1ed9cc2498b2c69"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/elite_induction_provider.png"
-hash = "e38d2ad22039ebb265a47eff443aed7ba115fb35481bf950c3238d6f47685f09"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/elite_induction_provider.png.mcmeta"
-hash = "e0bcb23305da051204d6eae30b0dd548d14c5adf1e512229a77cd1bc6e58e08c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/elite_induction_provider_led.png"
-hash = "9c000fc984dca0face8eda392c8e8fe9da531f9e3fdf40598b11a2f42c5f4c3d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/energized_smelter/back.png"
-hash = "48e2a61dc51dd7d2e46e3d7d274910ff34fe04f062574f8228e438c71f945513"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/energized_smelter/bottom.png"
-hash = "8e9af9500ecb47d391352a8a365a264cc2359d4cf74ed8a535bf52124bc8d51f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/energized_smelter/bottom_active.png"
-hash = "67255464a804d38068896570a99875b753a6f23901b77ed60bd9cec9c2348d4b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/energized_smelter/front.png"
-hash = "f0a91ec84e7b2f2db991861e32b701f3f23aa52746930723b1b2b1403ae31b30"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/energized_smelter/front_active.png"
-hash = "d9a21312fb294f580f8945b7124020f1696dd2f011fbab87080907779be397f4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/energized_smelter/front_active.png.mcmeta"
-hash = "09118e407184edc78dd742a71b31d51ebc603ffb432baa4997944d696b6a7d9f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/energized_smelter/side.png"
-hash = "a49b63bc4dd751bcaa53159b0d03e680fb5aeea1c95d61debd7067e701fdce59"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/energized_smelter/top.png"
-hash = "c29a2bbd467ef9c0d56be4ae23d534674ccaefd0a78a33b33ef43dade7121e9e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/energy_cube_particle.png"
-hash = "88c0a81a7a1c759a41029352771b9f831c7af7a9df958a88514d1100a952e674"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/enrichment_chamber/back.png"
-hash = "289532efd19b02dd67e6c339656d71e6bfb2e47aae5c6d045e471173bf7ccea2"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/enrichment_chamber/bottom.png"
-hash = "4ad2e1312a5c9a2570398ff3fe9bbb1ff0a8775831d0a4ec4f41deba1d54c010"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/enrichment_chamber/front.png"
-hash = "f4d989b47a7bd3c58379cdf0acc5456fd4b0c6ddd8c0980f9d2b7ab39b3f3abd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/enrichment_chamber/front_active.png"
-hash = "89da70f2586be682635d41bdcbadc4df62401a472046f87b206c0ad56dbf6f40"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/enrichment_chamber/front_active.png.mcmeta"
-hash = "e7974909c8375f13434f61a5a28b91ee9b00d83d6887dd051638a195a33921f0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/enrichment_chamber/left.png"
-hash = "65b5ccfdee9e2565365660f62c4dfeade2fc2335bc648d0a505c4a68a7d5e7f9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/enrichment_chamber/right.png"
-hash = "56af10a7801ec991a75a9d0a6d6c8519d1cef8b843fc9075150924e34de6be64"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/enrichment_chamber/top.png"
-hash = "88101e8f410c360fa1dc2a06860a83a502416da3db5d8589858e09b3ae99f95f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/combining/combining_factory_back.png"
-hash = "ab7fcc4e5a6eedb0d37b19ec6c0ff66ea96fec5ea7ee3cd5a7db87d44e602726"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/combining/combining_factory_bottom.png"
-hash = "234fabf56d158e88586c2c7ded0450be026224634ac44891cb1dea32f27018c5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/combining/combining_factory_front.png"
-hash = "bf0de95c644432563291b1f0ce8c8e6c5cec0608a11ac5e3562d86175385a051"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/combining/combining_factory_front_active.png"
-hash = "bf0de95c644432563291b1f0ce8c8e6c5cec0608a11ac5e3562d86175385a051"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/combining/combining_factory_side.png"
-hash = "adb1232aea2682a26d61e4f65de7fedcc94e0e7f9f435fc0f95a28c1a8097659"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/combining/combining_factory_top.png"
-hash = "210e91de7d02cc68102d6e9fd8e103ec50775d52d225229c3e18e8874ed834d7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/compressing/compressing_factory_back.png"
-hash = "e95b623c1aed04a330fa86e65fd575dea04f254943a1d2573007478b7ab5b513"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/compressing/compressing_factory_bottom.png"
-hash = "543bfc93bf0e0919f86dbb166cb3f154d5ba4be69f5f59866c412682d8883696"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/compressing/compressing_factory_front.png"
-hash = "88bb94b327258533e394e54fd8946090ee6457876bf506ad49210fe62ebf8d00"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/compressing/compressing_factory_front_active.png"
-hash = "88bb94b327258533e394e54fd8946090ee6457876bf506ad49210fe62ebf8d00"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/compressing/compressing_factory_side.png"
-hash = "4c4de4327de5afdd7ccf20c471c2d8a7c7fac66c7b3fe98fa09c968919407692"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/compressing/compressing_factory_top.png"
-hash = "58bb135915823336d57e4250f2eed5050974321890c68307c472dfdf26f63061"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/crushing/crushing_factory_back.png"
-hash = "8765363deefc545eec4d2581b3a3faf61564d58c0e51370bfbd7e5c89cff894d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/crushing/crushing_factory_bottom.png"
-hash = "03035acec2a9797755a596b9eeb7d2c74d3f5d835c841bbf4d77d259d91f95f3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/crushing/crushing_factory_front.png"
-hash = "11522244faf7be1968a273a01b449e641453fabfb3316651db20eb91886174bf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/crushing/crushing_factory_front_active.png"
-hash = "11522244faf7be1968a273a01b449e641453fabfb3316651db20eb91886174bf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/crushing/crushing_factory_side.png"
-hash = "1502f5f95ff96d90b3a58d145ddf3807a7002ae70ef97c26e7a2221438392376"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/crushing/crushing_factory_top.png"
-hash = "e49a080d02b32762096bb8d617cc9a3393d10b2f12a9a2b47cdae0d56af88409"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/enriching/enriching_factory_back.png"
-hash = "1fe511f32cc6a22902eb3f202357c8e909950d8491bed76e164c4fb95b415b5e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/enriching/enriching_factory_bottom.png"
-hash = "173104d9e5325719c4ecb0220ebef9268f9d3d52bfae606a8bc48f3e206cf884"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/enriching/enriching_factory_elements.png"
-hash = "c26339bec9c44915fd0bba876c3719995320412ea8d92c138c1a78c28efb2e7a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/enriching/enriching_factory_front.png"
-hash = "64837c40c6405faddb6419380235e9b427e55467aa3c3c9e4e4dd6f5df76b3ad"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/enriching/enriching_factory_front_active.png"
-hash = "64837c40c6405faddb6419380235e9b427e55467aa3c3c9e4e4dd6f5df76b3ad"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/enriching/enriching_factory_side.png"
-hash = "5c70355c92ce19afc80c152589e86f1ca9eeb756b00eb78c0d1d04bb4c7ba9b6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/enriching/enriching_factory_top.png"
-hash = "7351c46e6cd7384dbda34d925ade65e89ffdc1c8a4b3b171be95d4b62fa0b656"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/factory_front_back.png"
-hash = "fe78f5f22450ad636889745b08e989811ecc3df4ec5be9815aef9eed7813bdc8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/infusing/infusing_factory_back.png"
-hash = "75dc4a68b8f3698d642e3d471a7d71f639ba816d88ca4e2c9863b006327f71d3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/infusing/infusing_factory_bottom.png"
-hash = "2d74e0c7c857a4533be223fc99c956d3cc2e5d78fda48f06f6ab55ce882008b8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/infusing/infusing_factory_front.png"
-hash = "b1fb4aaa00ce3d5576918a28b2a5aa62921077adf60e94824b7825a3b7e8e59e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/infusing/infusing_factory_front_active.png"
-hash = "b1fb4aaa00ce3d5576918a28b2a5aa62921077adf60e94824b7825a3b7e8e59e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/infusing/infusing_factory_side.png"
-hash = "426afaec8eb99c5eff276e59b7f6a0c2e7c6c4e47d710e4c3a1eb9e839e692bc"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/infusing/infusing_factory_top.png"
-hash = "d504bd948b6b92d60f06678cfb799cc27f1812194a33965ea6a1fb5dd44f08b0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/injecting/injecting_factory_back.png"
-hash = "c82203052c0f71233482f16b626b9086a0f46ffa0cdb19fbbd469f64db88c514"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/injecting/injecting_factory_bottom.png"
-hash = "f154f4f00f76e316b2c70af219485545a9c424e1f93966c07643574d2e695a4d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/injecting/injecting_factory_front.png"
-hash = "ed244112f5f30f7640c66e2b7835a62eb8fd99dd26b99584b80dfe15ec5929fe"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/injecting/injecting_factory_front_active.png"
-hash = "ed244112f5f30f7640c66e2b7835a62eb8fd99dd26b99584b80dfe15ec5929fe"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/injecting/injecting_factory_side.png"
-hash = "f439198472b6b7472b502166118da1e5728b2623f323faa16ac37d0d2dcaf17f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/injecting/injecting_factory_top.png"
-hash = "184da08a6eca5e9834dc4fde77518c0f1c5d6ff8d9750dc2912e4eae3a391806"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/led.png"
-hash = "1d858b3280b2ffd3061b74ef98120a9f87b6abf0bb5eee492055be3d402c0178"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/purifying/purifying_factory_back.png"
-hash = "4b8acdc14ecb2bbe65f0e3f69d28512eb4cc4e96fce726c0c0bf45d77d4191fb"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/purifying/purifying_factory_bottom.png"
-hash = "39c9c473cb701b35bfa58c9dfce58d72125c18b6afdee2099fbaf64e0b6b95c7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/purifying/purifying_factory_front.png"
-hash = "0327cf608069cbfc9d0c8b992e337d0b52a2b919f22310d4f1fb066a9d961af7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/purifying/purifying_factory_front_active.png"
-hash = "0327cf608069cbfc9d0c8b992e337d0b52a2b919f22310d4f1fb066a9d961af7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/purifying/purifying_factory_side.png"
-hash = "aebf8014d27adbaad39a248e8647d1dae722c96f83b08c0dbad81957c7f0b3c6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/purifying/purifying_factory_top.png"
-hash = "2f44e60f537463558b90f63f11f33fffc0dfccd7f0550cb1c20e4c3283798d21"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/sawing/sawing_factory_back.png"
-hash = "c3a98430503781dc64f6d9b3aa426632ebac89cb82a203a61f0d9123aa12325e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/sawing/sawing_factory_bottom.png"
-hash = "08ba32e433857625047b1349149ed4e5bbb2b30dbdded17a331769ec4d5f47ab"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/sawing/sawing_factory_front.png"
-hash = "34cdd092d0f475cb4077285a01d42ce6636002cf0d2167107c0279f61563f2fe"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/sawing/sawing_factory_front_active.png"
-hash = "34cdd092d0f475cb4077285a01d42ce6636002cf0d2167107c0279f61563f2fe"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/sawing/sawing_factory_side.png"
-hash = "db524cd083d210a5a282e48046dbfc8c9063afe5ad2a24ce29ff5597dda898b8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/sawing/sawing_factory_top.png"
-hash = "edbf5aa92816e975f9c43492de1187caf7fd01a540ef9b231539e0755153c573"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/smelting/smelting_factory_bottom.png"
-hash = "44e89a94a2479cea654722b67c80bb0e36685c5c5ff3a7b3f77a869a685e9958"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/smelting/smelting_factory_front.png"
-hash = "51760241edf66a6d78a13061ad0623bd266a45622a4eebe8a2f04c05e2a136cc"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/smelting/smelting_factory_front_active.png"
-hash = "51760241edf66a6d78a13061ad0623bd266a45622a4eebe8a2f04c05e2a136cc"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/smelting/smelting_factory_side.png"
-hash = "2eb7e619ac6702edd04edfccdfa393cc6651a99aa699d244fa12bf1ffe72d58e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/smelting/smelting_factory_top.png"
-hash = "6ba1df2be00e4f0b721eb99ed46ad775d0ae80f776fbf80c51750c18fa72ebb1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/factory/smelting/smelting_factory_top_plain.png"
-hash = "9c9492326cdc17c2b2b4e2a5306c1ace13f9e3c99fe5dc43accfe5615cb49d52"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fluorite_ore.png"
-hash = "abf2d4607cee1e73081f0e5316bb69b9b98240d1d14dc395e2003c9857c9f93e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/formulaic_assemblicator/back.png"
-hash = "052d7ed7dd8226b9ad9bd4dcb5184dcd86719c4f70b49ee6dfb8612088143793"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/formulaic_assemblicator/bottom.png"
-hash = "4ad2e1312a5c9a2570398ff3fe9bbb1ff0a8775831d0a4ec4f41deba1d54c010"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/formulaic_assemblicator/front.png"
-hash = "d0b832f35b0e2f00cff05d4a7475d49146cbb5e53ea8aea3dd73e3d99ebad67c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/formulaic_assemblicator/left.png"
-hash = "959d0dcd589d832493601b81267a2ea4ea1d67a660adacce5f657c48fd3c9da0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/formulaic_assemblicator/right.png"
-hash = "b1300e5216dae1eedb9eec571eb4f4518d2447963fee5c0ffd6f00cb244d1ed0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/formulaic_assemblicator/top.png"
-hash = "9d99dfa40deca0995c4b81960965bf5b11e4e5fd7f632398977c271d6d3edcfe"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/back.png"
-hash = "54292c5ba00e64162328a83c1bf3505206eda17d4625366ad9f5d7d6da0973ca"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/back_active.png"
-hash = "34a4af230d2863e7ec955886de350edf7236221a5740cc7547f389059de637d5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/bottom.png"
-hash = "6b665dcf2fa5a36851ccf0cd9868af8e54a9482f41adebc9c2ee53eed1037f7f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/bottom_active.png"
-hash = "ab623d5300a54c3b3c995369bf600a4a85f67770f3c47ced34b28bbbf9b392fe"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/front.png"
-hash = "519f04aa7dec0b6430615f2fff14341e140c47c306744f6c9741f6517ef83b96"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/front_active.png"
-hash = "183d7882af986decd31fd987da8fb7b8e64742d25d91773a9731dc23666d6cd5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/left.png"
-hash = "c522a52d1e8a73ce44ed68de36274f7e022c8447e4bbed733db86a9f4e66971c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/left_active.png"
-hash = "85c17ec41222f47bc931ece75be6bfa1239ca9c5338cb9803149c92b95888aa6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/right.png"
-hash = "c522a52d1e8a73ce44ed68de36274f7e022c8447e4bbed733db86a9f4e66971c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/right_active.png"
-hash = "85c17ec41222f47bc931ece75be6bfa1239ca9c5338cb9803149c92b95888aa6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/top.png"
-hash = "6301473131eef505695b72e8c1e04049f76a04b13009df0f75b996b86e1e1f98"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/fuelwood_heater/top_active.png"
-hash = "eaf60fe1b5436c6294114da40767a33f3a68935c057d11e6d82e5a7b6bffe64b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/glass.png"
-hash = "5da6c7abb6e8b572822cf123604f0af35ba63efeb3d5dd41781af1b9c9e4613e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_casing.png"
-hash = "48988e8651012594cd45e8d3d9c9c80ea847b77cb2f2242646210e2e9d889413"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_casing.png.mcmeta"
-hash = "c63c7814322c973823d11605edc46631925c91937095a986fe321177b549673a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_cell_glow.png"
-hash = "6a183ed132bd421cb0a8937714db49006737e2c65fff05adaafce8af6bc3fa8a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_cell_led.png"
-hash = "3cfa57cf8e27229830283453c211b8fdaa33d01b45a6b2cd356c58aab2558889"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_port.png"
-hash = "280106a0b3b9115be0c4d74e73b1f20d873fa3213b1ec15c918922fafe9a09b3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_port.png.mcmeta"
-hash = "4e05cce63ebe34d68c3b55887267b81c8e820db5c509e840039bbf1b14801a32"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_port_led.png"
-hash = "71a838b0d862eb96cdb0abe48f5ae3a38ee211cb43e4d9e6d5c4ffc23e4381d5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_port_output.png"
-hash = "2d678277b18eea954e2809d9a081e4c6c9751a1f33241bed7dc64f0741f2b83f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_port_output.png.mcmeta"
-hash = "02f8712b8971cbeddb29c4015d984edaa485c71207dc9b83f47287b18faa2a8c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_port_output_led.png"
-hash = "fe46fbaf09a8bd46793e1b6ce9f0065c82314f66b4a902c7c1f8d4875fce9043"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/induction_provider_glow.png"
-hash = "f79c98e01c634aa639ddad5fa03bf8ebbe7a39cfaf04254e34e6a69697da226d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/laser.png"
-hash = "33bc4f9f9e31f962a036fa0ec415d40aef05609504fd79c65b795ce56441b6d9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/lead_ore.png"
-hash = "408d7de829889752469f5d19e4909f62f806180ce1017e1182ee9fc0646c349b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/lit_redstone_torch.png"
-hash = "e2ac412da5e6186addfc1754cdb51ec89eb846018ae0d57a1018eb27dc408a22"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/antiprotonic_nucleosynthesizer_back.png"
-hash = "51595eff4a056abd4232b2fef7a8a6bb70f2ab2c2609257c11aa6b9f65c93ac7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/antiprotonic_nucleosynthesizer_bottom.png"
-hash = "7d01938c3ca19381e95775e38ef4f62bded68ef3b26db2ee67f970073a96a416"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/antiprotonic_nucleosynthesizer_elements.png"
-hash = "dec22639fbbb338f22abcdd955aeebf0b7fe93798d9317b2260bb499cacd4174"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/antiprotonic_nucleosynthesizer_front.png"
-hash = "638d39f101b35ebed39b40f2d88e01505f2b25d26d6ab1d8ab7a23d70ea087b3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/antiprotonic_nucleosynthesizer_side.png"
-hash = "c6c6a8ceaec1c8c9f90b4ae4792a1c481c60e02f90216ca1f6ac793df59fe769"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/antiprotonic_nucleosynthesizer_top.png"
-hash = "b698c1d5a02413cf1267809e37655df01b392eba101de73e4dc10b026eba8202"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chargepad.png"
-hash = "6b271190901c405ee424fe24736c8cb472cf44c59dce3f2c91d193e68e9911c0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chargepad_elements.png"
-hash = "658b09c3ec5a2769bba95c7fb6c62098952f4917dde49ef27314c7447f0ddec5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chargepad_led.png"
-hash = "f6d6410ec0119ea472b00b98852aa248f9f20a15c882d00263b4a8ffbd9a3046"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_crystallizer.png"
-hash = "1c15a1904918567e19ae891fa4840bb03e25ed14e3e6da92ae86ff4600d09d8b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_crystallizer_elements1.png"
-hash = "b50eff70c51edecf1305bcf5ba6e587612791cd88751b551eb8bd58731280b6d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_crystallizer_elements2.png"
-hash = "b97b43571929c2c1bd2be3c8a6b3aa5ae61a5b8de5b565dc88c1ffcf9fc4d912"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_dissolution_chamber_1.png"
-hash = "960eb2c1dfa497e587ca6457d382ce717ad960da4d2f1799e85ec2a0cdae2fcd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_dissolution_chamber_2.png"
-hash = "10f1947997cf9e9ba0b072687b2de70502289799635d10f9c15edc0e52d8c662"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_infuser.png"
-hash = "2b21f26c6c21fc618261693c2e5ccb8b72ebbebc0dceebda7fdc7ec234571d83"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_oxidizer.png"
-hash = "e10a28f2892e374e4481faa4b9e37607e202e1e3efa462b6d59525a3f7ca5904"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_oxidizer_elements.png"
-hash = "5e54d3aed38d6a7458ef6a05ccbabad74b4f2e1645a51dfaca6bb6be98ffaaef"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_tank.png"
-hash = "990c2c675764146441adbb6419849624a0001943b92348da598e4b909e5d416d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_tank_advanced_valve.png"
-hash = "617c6fe574b05e4a9626dae657f0c2c2a99e2364e4a57aee95ad17dfd384075b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_tank_basic_valve.png"
-hash = "39c9b94274fb335b920c580f4361c8e05c3b58adb22a4244e82e485f308fd6bc"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_tank_creative_valve.png"
-hash = "4b5b3e21d9b767b803a17c734e086e2b3290beefc1fc4e88a6c18ce0b7d2d319"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_tank_elite_valve.png"
-hash = "e74091d2b30e5ec64aaefc0d32d45ec13bc584a4ef5eea3bc97f147b4cd4d980"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_tank_ultimate_valve.png"
-hash = "062dae01d3454d59495e947bfed84552b0d8061c5ad6eade5035f21691ed81f9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_washer.png"
-hash = "b441371ce03d258c47029c8f0efd4cae48739207e49ccf38c919608b022b2cda"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/chemical_washer_elements.png"
-hash = "36ba3f3fb76cc10fa1b1ace6a73ff0f5ace7d99788a512fb2e5bebc7adde13e7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/digital_miner.png"
-hash = "cbb04779e9027ed542bc670ffe39e4153763308613146e373f49d7606e822eff"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/digital_miner_elements1.png"
-hash = "04f9e5e6c16d0f6ae205a615a5092ebf6e10b2bc2f18b4de83a349c20b408adf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/digital_miner_elements2.png"
-hash = "74872febd038774f333c324fc976b2deb8cb59884d5126ad3f9ddeaceace5bca"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/digital_miner_screen_afd_sad.png"
-hash = "eec9c3ffc764477e8f511ce382b111549b4192af91faaf591df0cca823c917d1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/digital_miner_screen_afd_text.png"
-hash = "d965312fe9ec5edf4a50ad0399f93f88472b1625eb58150fa170d6f5c0508e58"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/digital_miner_screen_blank.png"
-hash = "f2d7c45c33bcbe2074013755469d420f087e1b2c3ec5c6a257c01591e4c0f0ba"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/digital_miner_screen_cmd.png"
-hash = "1445cfcba261c05ac7dcb9b823fd377cb95230e04069b4032a1af0045df0e93b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/digital_miner_screen_hello.png"
-hash = "8ba161ba1cde12e8036653431a4acca947ff67eb333d9b31dea59ba1ac6ac950"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/digital_miner_screen_may4th.png"
-hash = "3b40c3dee8e9dfce97dc5fc1a553053d5b19b1fa8f8a42158e68a951df6b5af1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/electric_pump.png"
-hash = "9c3750518800a012d5666b3ead167e2c02f3d359bcc47dfcc6e5f567a6b4c042"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/electrolytic_separator.png"
-hash = "1c7428b4437492638117e778b733f62d5f309d38b13df62fef76bd867ee34d63"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/electrolytic_separator_parts.png"
-hash = "939c9454019daf61bafa9c7428a930c75663eaddf3e193834070ef897aebee51"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/energy_cube.png"
-hash = "49f87160a0a8cd096b817bf2c43fc26bc64ce315b8a6a8ed550694587f4b4aef"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/energy_cube_advanced_corner.png"
-hash = "204ef50746ecbcd0870913c36fc004a4312a3288baf5731454e488234123590b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/energy_cube_basic_corner.png"
-hash = "2ebce582f418304984ac00d7d8f948f751e7ba385ecceb3c7c2eeaa64482d9eb"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/energy_cube_creative_corner.png"
-hash = "3ad2233b8450abb48a1a1298a0b2ce7afcc8cdad272f52ecedc9efb25ab58e9c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/energy_cube_elite_corner.png"
-hash = "feec1e3bd65a101f8d3db1eb98dcfd6c4f018a15e0fdbaa76ad2cb4993192d9d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/energy_cube_ultimate_corner.png"
-hash = "8d071467ba367c915693c00475dfb3f87b342b30f5bd59b810292ad5ff3aa54c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/fluid_tank.png"
-hash = "e79ad5ae79d07b5ec29b85668713a693efecc9c2b7167533c64253ad06ac265c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/fluid_tank_side_off.png"
-hash = "cc6c2889c0263bd3ec0bb9e6dffb68694db53dcd624260d65c54ba6ea42088ee"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/fluid_tank_side_on.png"
-hash = "82ea56a8ea5968fa8edd0ab7125ec7bcb9451b16511c9347ba67d1b5337f4ce2"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/fluid_tank_top.png"
-hash = "cb18a01073bd98e72cb2a3c59057235c8fbdebe0fb038231cdcc3e6c8222bd44"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/fluidic_plenisher.png"
-hash = "b08a36a0177838266b097f74499e5581f315fb3b9219d59ff9572106a5629b61"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/industrial_alarm.png"
-hash = "057640a953d7277a2d980cc42d8179484fad5d5aa8b93165c4f16026c4067cc7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/isotopic_centrifuge.png"
-hash = "32263c6bf91e3ed86d74f69fb10a2adb43bae0b6482ba8587fb6fcbc35082773"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/laser.png"
-hash = "549b91e827a12822a553e38d19ced95ea094cd4bad78a058b310c4ba0efa7bca"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/laser_amplifier_side_empty.png"
-hash = "d6ec1f34f1952df1b55aec2f8d7152aad49afefee6e4bd7db5e9d4585f1908e2"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/laser_amplifier_side_full.png"
-hash = "14919b85ee2d7af3a7674ff331f7a6ba9996fc65192e478f432f3e1712994b6c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/laser_device_frame.png"
-hash = "8e8753e4fab015bd73d0edc9f1f42dc4edaf854987896ac3b8cfc3c466e76592"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/laser_tractor_beam_side_empty.png"
-hash = "0814bab05d0a4f087da3f008567eda32c1265adbdfd060c6b3066271875a4353"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/laser_tractor_beam_side_full.png"
-hash = "f358717a1c1db277ba85d4232d0086d5bbf694ce7285867a0d71f365684cda43"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/leds.png"
-hash = "fa9a0502dd5a9d5dedb31a1adb4f9f9f5d4fc2b3d417e510aeb6a4c89eac83bd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/logistical_sorter.png"
-hash = "cdb0cdb02d868d34a0dd0b1dd54acbedadb58e56c22c891b2e4c2e8299f33515"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/metallurgic_infuser.png"
-hash = "c3087605c7cd2b97974742de3401e280577d7ff4a129d0c6dd3da810a0f7c0a4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/metallurgic_infuser_elements.png"
-hash = "50fa2f6094fd7a36209545e63e8578c06ee26d9ff6ac7ad1bcc3bdbcba9f4bb1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/modification_station.png"
-hash = "f198a01e526ee3330bbe1ecb343518dbdc8fb6dbacab1a0e595a2f8fb20289b8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_logistical_transporter.png"
-hash = "64e2c763de07db7ec9de63a0651909426dd3425eb5f3477ba3b49b4b97548e35"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_logistical_transporter_vertical.png"
-hash = "7b046271068e9f54cd9ca5d45ecb6a0d68424f27d4b5dfb5d24f699dd579e617"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_mechanical_pipe.png"
-hash = "b44f3053fa77e1ff901e7018d12038cc32e06912bac32dd42dfb46a5a861823c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_mechanical_pipe_vertical.png"
-hash = "45bf50bddf6e3743157d4c0771195f582dd529db0c4ecd12fa8a96c059354bec"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_pressurized_tube.png"
-hash = "035132e366c1c6b5e153154fffcabcedc8e55137ae2fcfae86142ee0001c9158"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_pressurized_tube_vertical.png"
-hash = "dfc5a1b9ecfca742d763310d4a94ccbccaf300fec100cbc1efc50609e80e265f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_thermodynamic_conductor.png"
-hash = "f8660ecd1c192a9e99c8aaaa95ff34ddb1ac8062c72b001e489b915a3aa7d679"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_thermodynamic_conductor_vertical.png"
-hash = "d21f40056247bbcd2562ae6c53339992aa97ced3d19a62bf43867342b6fa1ed9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_universal_cable.png"
-hash = "57b90520f3bd4ad268b344d086520df931461c55add5a0e23195f1c9b82324af"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_universal_cable_vertical.png"
-hash = "082b68b54561de255c9ed25443a67c6ea3ebed2f27640c6561c9ade60ba37a6b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_logistical_transporter.png"
-hash = "62259a0df10918c6f1977304d219b19969028ddb79a953e07555ab0f6759f8eb"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_logistical_transporter_vertical.png"
-hash = "d7a3e6f8c382402d94c6beabff81bcbb4239d0af7135b3c58f14ed144d5c1e78"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_mechanical_pipe.png"
-hash = "7c78f697c62ff1908920a0d35ef24140994126452f4c7142488e7b6eaaaee80d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_mechanical_pipe_vertical.png"
-hash = "80df585307629340619ff9d5d193026262eb51dc1f0f0f93fdd95257ecbe9d5e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_pressurized_tube.png"
-hash = "ad2e548373b84731a1f6b72a2744f83a86fa5189d3c6679f19e0fbcbd6b7bb0e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_pressurized_tube_vertical.png"
-hash = "ea3403eb89eafef466c1138845ae03f29838b3220a928d2d43f6cf5a6294b9d5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_thermodynamic_conductor.png"
-hash = "dd8aed65f4524c0e2857f76130d754c634893d48737a9fe9efaa187c95008caf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_thermodynamic_conductor_vertical.png"
-hash = "e5d759674c3729494a013fd2a4ce37ba68fe90e94482e12941176f6f33067059"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_universal_cable.png"
-hash = "75574ce3615213f284b261a3f039e4f298a3f9224a45340d6fc9ac5e7d2dc37b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_universal_cable_vertical.png"
-hash = "930d41c882b60292ed6a9ff0353442e929fab30669cc4e4c121c10670501be31"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/diversion_transporter.png"
-hash = "580ac37cf9e4f324be8e9d7cc13e03e91dd1e7b1ecf094811a3d37f19814c09e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/diversion_transporter_vertical.png"
-hash = "80104d071f518a100bed5bfba0a2b465d2c5b95ddc89097da03e9ce9b5d0fcd8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_logistical_transporter.png"
-hash = "790ab90273e75a0806f8b3d12a697b2117bfcbc6a12b58dcfaf3c227e29bdba3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_logistical_transporter_vertical.png"
-hash = "d3507411483ad1fe9ac523cff57d333ea89a627c49f894a8a3f11f85ad9c701d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_mechanical_pipe.png"
-hash = "75a1c7c9080771341c36116123b944ce6c2acf4e92c0ef026abc5d07c311b78a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_mechanical_pipe_vertical.png"
-hash = "b24a7ce1d281a76e823fb6c0f0da6d2bafa18a9a029a0359a20f66cc2e4d5632"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_pressurized_tube.png"
-hash = "81cc9521c31cc3435d03e3c35e4aa224fe03ce75b0e02bcdd0086eec6c71690d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_pressurized_tube_vertical.png"
-hash = "c7bdfcba9fba2ed5834b1b8c6d7c1aff1ab1e90b186a55ffe47a95debe35b31a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_thermodynamic_conductor.png"
-hash = "0896edd2b088b6ecdbdfd7f60133985874c26ba2b4267825e71b516f1b671a65"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_thermodynamic_conductor_vertical.png"
-hash = "4f043d7415f3e9e98038096599a1eec66d127b8b0c00b18b7f3a50e2c9a87f56"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_universal_cable.png"
-hash = "b555eee5bae9df492c738aea3c0f005130d4f20869f36c0681e7fda0639b2ecf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_universal_cable_vertical.png"
-hash = "6403002aed49919cc8e4c23610278102891e1c44f0f1dcefa307a5d922fa707f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/logistical_transporter_glass_colored.png"
-hash = "91711b278a2e089b5175df20a00c37df24f07c9359af88c84fec83ac6d01d295"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/logistical_transporter_vertical_glass_colored.png"
-hash = "5cbc39c27396423e6a8ea624c2fa5d65516df787e395859a3312cdf86071447f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/advanced_logistical_transporter.png"
-hash = "832d6128af3e5f89c5c024533fd52b441db2eb765f491faeb659b8c57f9460ec"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/advanced_logistical_transporter_vertical.png"
-hash = "a873871488abf71ce1afb8c87add1195c7e9d0e9da53c3cf696edf334f5caa9a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/advanced_mechanical_pipe.png"
-hash = "e3ad867ea378cd0164b461da2099d54593cece5ea9cd274d989931799c4305d3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/advanced_mechanical_pipe_vertical.png"
-hash = "f4bbf9be8a5d2cf8057363f97e6afd1261946c91bd88f7379b99fb176f705d2f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/advanced_pressurized_tube_vertical.png"
-hash = "e5dfa71a400778a71cb365c0985c195ee134312572bef844b03f323977895910"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/advanced_thermodynamic_conductor_vertical.png"
-hash = "3583ac8fc9e359dfd6f9a2cd5b0190789792bbc72c9c234d01a609ad53d4ef1e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/advanced_universal_cable_vertical.png"
-hash = "30af6fa2c29994bb8c9c2ebbc12b3c9e8607219e8670636676969994af77e86b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/basic_logistical_transporter.png"
-hash = "f754eaceb263ff9841723318435d70a8279a75d20f72ef88e4a7a893216a63c3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/basic_logistical_transporter_vertical.png"
-hash = "f7d6788cf2af90b720de55ce8e689b5cbd53898fd08ecc5180c03b5be71b16b5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/basic_mechanical_pipe.png"
-hash = "36105c31510569f8ec6361f20ede84d4250a9504367962298b23455e5b000680"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/basic_mechanical_pipe_vertical.png"
-hash = "f589d14d4bb8acb1eebd49d99599550a19a4a534234c6443ce3a4813df2f6448"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/basic_pressurized_tube_vertical.png"
-hash = "5a1e433c0a81f0bb73824e25e4ff691880bb7affed26ee5b9428ca36b300f5bd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/basic_thermodynamic_conductor_vertical.png"
-hash = "dc425842ffd8d2c638cad2197e605255cb052e82fc597e2437d3c3eb06836092"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/basic_universal_cable_vertical.png"
-hash = "ae88b380b520022e9e3d0b6771b1be41695b53d91efb3947e575f7f20da4a301"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/diversion_transporter.png"
-hash = "b1a96ba4781bcc74423df18c10ec56ab6bc0000df138cae22073fe7034179794"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/diversion_transporter_vertical.png"
-hash = "7f751fc33f3dabe0b0365609528cdcfc3a9941752c83fb08d028a14d3f7a8c17"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/elite_logistical_transporter.png"
-hash = "f1ddde81c9fd1b7e15bfc958b5bafb102975e8f1b5a1d3319ba34655c27b1e82"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/elite_logistical_transporter_vertical.png"
-hash = "6de89d6326886630dbc6b7d9ef6fb2c69f0cfe93a8c4c006891a813738fd808c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/elite_mechanical_pipe.png"
-hash = "61dbf7657b150825ca711ecd22150d1c8e5a0b484e8d978e318708004fbf4a02"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/elite_mechanical_pipe_vertical.png"
-hash = "8a6f5fb1633cbbcc8be14e6eb4c67930048b0b5c847ab1345dca3005b01fcc84"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/elite_pressurized_tube_vertical.png"
-hash = "8c3c20faf0ddd5336c5146824b456ef8c5f10425cb7f8a7eb11b833fbaed0b46"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/elite_thermodynamic_conductor_vertical.png"
-hash = "88a01ec73eca92dfabd243d8a0d053f3ce91da83bdb5b0bb9792a3d8bbbe7cc5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/elite_universal_cable_vertical.png"
-hash = "1eeff265a42965d7dad943757e11e7422bf7a155a077e2a5dd5d055103ca8391"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/logistical_transporter_glass_colored.png"
-hash = "0985ed4911c50c4b9d1c0b1e46e6da01d6df8a58885db63f8c4afab0accc52e2"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/logistical_transporter_vertical_glass_colored.png"
-hash = "7a430c2980f9a9f3586b7ecef00cae10f5eb904aa63cc20ec775e9ceefe5d06b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/restrictive_transporter.png"
-hash = "76c35077e2634ad63ca89d206ca6000ea7684bbb97e1d916a61442f2fe3c5db1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/restrictive_transporter_vertical.png"
-hash = "c2db36e5919645867d2076306580fa6aa25c055867d3e0b20993e8e8d2956bb9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/ultimate_logistical_transporter.png"
-hash = "961ec678fc9b12d8d6fbf4a66210ba67c4c2f745fe8666fd9525a574d366fadd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/ultimate_logistical_transporter_vertical.png"
-hash = "c8e3c0e6bb68908f281e28d8b479cb28ee2fbc8ffa52cd90986d7f334d2dfe92"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/ultimate_mechanical_pipe.png"
-hash = "10d993e8a87f31a698d450e5237d9afcf35a7dda920c3b7e03ed32c8632c4e02"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/ultimate_mechanical_pipe_vertical.png"
-hash = "c5bcb830e71265c84c15b70c150ae4b08cf20fc134207da2d67e2e9543e0e628"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/ultimate_pressurized_tube_vertical.png"
-hash = "293b8af4bed4182295c5168cce8c06044827a382cee8a71119dc3006bcb2d2db"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/ultimate_thermodynamic_conductor_vertical.png"
-hash = "2866a5b30dbabed353522950015448ec426c1d19c301574f4722ecda585d16cc"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/opaque/ultimate_universal_cable_vertical.png"
-hash = "99f8cb09576135a32eaf95ca8fdd2f77adb0182ca772c495f272adea1f7bae16"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/restrictive_transporter.png"
-hash = "2a6924a53b6984d005a65c6ac37732ce18ff98db264b0a8526171c52021aa3eb"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/restrictive_transporter_vertical.png"
-hash = "c9526ea70c4a2d4666eb3317ed5d828657c7459046a454333aa89755bbb267e4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_logistical_transporter.png"
-hash = "b0a926e54a943c82c81b8861a4875583ff30c8b0c898baee7289d66758681d04"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_logistical_transporter_vertical.png"
-hash = "3f86c21b09862d4d910c736d0dbbe5cfc5965e6eabf31d8f98b9cd22e34591cf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_mechanical_pipe.png"
-hash = "ae68d99187d9a671b45fe58f1ec4761f6ee12091fa6d7e005894eb976223c6a0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_mechanical_pipe_vertical.png"
-hash = "43d87684f26224dbff6affe9b24314b6c352ed299215724fff83dfe4aa91c903"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_pressurized_tube.png"
-hash = "6a92d82afc24326a3bced0554f2b4baee888791c446f7d22ed04981b81b39d86"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_pressurized_tube_vertical.png"
-hash = "901a9d3650cee821f0e9369a604aab95d6de33451ec161c3781fe9a656efd468"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_thermodynamic_conductor.png"
-hash = "c9f49e46d72c145c213a5a047777fab1c97f45eceddf0252b09029cd759f01e4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_thermodynamic_conductor_vertical.png"
-hash = "04da86de0230065313e59bdb64834c7744185ddfb253512ae5593061e4366ea2"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_universal_cable.png"
-hash = "b5a4796fcf17ff2f722cecb4b1680075ed6f39368fc8e2f567810bad1004371e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_universal_cable_vertical.png"
-hash = "d91213a11c77fe72bab03bc589c7b60322cd995c403f149813468b124badcfb5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/personal_chest.png"
-hash = "6ca63e64d5217622da2c9ddf99be41eb715a4fc077d3faa60465d64126645f21"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/ports.png"
-hash = "a5073ab8582759f2008cadedd9cf26823b7f97889ee07b21c0c175540af051b4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/ports_large.png"
-hash = "87070a01d78367d6fe28a76562df05d50c828d8f795c35ab5b33b0ab06267eea"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/ports_large_led.png"
-hash = "8f321a920dfcd3dd86fbb54b404132ec7948dbbf2446a3533433e370a814cd05"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/ports_led.png"
-hash = "ae50149c45f0c6ce83ade02c36d92ceb641a80e6cda8250b81580783045331f0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/pressurized_reaction_chamber.png"
-hash = "4cda040439848324bd83fa2089d5218653cfafa4e834439e0d1555b91dc71097"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/pressurized_reaction_chamber_elements.png"
-hash = "d3e4773790de5ad9a5e3654c75894964df4de182b44d63e09cb2f9533a90adbf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/qio_bus.png"
-hash = "f4c634255055ca51ea78a2455e5e782bc40ddc8707289b0fb9b9414e08c15d4a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/qio_dashboard.png"
-hash = "9307b8b0d49556fbcdf338ea1b8976fb25460a50a585b4b4ad963cc7e4c7ac19"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/qio_dashboard_screen_led.png"
-hash = "b55bcd61e00b88310228b64c7a5e66b7053f8676d8d0e7eba687707efb16e117"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/quantum_entangloporter.png"
-hash = "6f1e17828ac39a0a06d940a69f24e03e25a90469f1a5a520d98d484655d291a7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/radioactive_waste_barrel.png"
-hash = "b884ffeebebebc545228dbcf3d875acfdee2ad7987069efa0f1d42424f28306b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/resistive_heater_bottom.png"
-hash = "c959412fb05add1889d955205ab40a640b62dd91f2cdb1f8795ede0bd015f549"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/resistive_heater_led.png"
-hash = "70b90f5918002f25fc560b5ffcd0c9f827e7824679651023d915417224490193"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/resistive_heater_sides.png"
-hash = "99b7706a9ed643b82bee71341754ab7d77542f56cd69c1e1fb8af98b553ca68e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/resistive_heater_sides_2.png"
-hash = "aae1c96e007785325bef32920e16fd46ded7b6b20a55374a56a065705d29772f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/resistive_heater_top.png"
-hash = "8b1bbe466eb55f203fd2ca9831a8cbf36bb210b5c37324a41c353a512a771354"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/rotary_condensentrator.png"
-hash = "9f59f77fb4390c244fcf98eec2a066f5a5ff7223cc73878894833c89577f31e3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/security_desk_base.png"
-hash = "4267eafe622ef6ea7f769394d5b66ac0c0b0fa1883b34e78dbb192a38d4725e4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/security_desk_leds.png"
-hash = "3a37f90a0bb596f8aa668e779475ba720c892de3b8dae4c51d73ad3645827eb5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/security_desk_monitor.png"
-hash = "ba1bd15a3591e40a5f843582617e7562b13c78e68e6ebb2228d72ba69e6d9214"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/seismic_vibrator_1.png"
-hash = "ec55a6c0d310ea2080d12209388af99992ae2810b89d17276ecb7eb370bc848e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/seismic_vibrator_2.png"
-hash = "89c6e1c182f56ee703b33dde0b932b9834c60be1d0ddd5ac883d8f04b557892c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/solar_neutron_activator1.png"
-hash = "850aa811e4a1a302358d0a7c6e861e49b5ce39b52ce1c2689fb11480ce5de414"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/solar_neutron_activator2.png"
-hash = "1721a167d551a56a8f3eb921d8ac2aba231f7903bf51c200f4738330722de7d9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/models/supercharged_coil.png"
-hash = "b83a2884e87c2ff10b7fdc2e7709ae426fd49dd7e62316b1f782e5fbd46502c9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/nutritional_liquifier.png"
-hash = "1c5289e39732f83531ea2448b893aa653474f3a30e31bea13de56602edf75808"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/oredictionificator/back.png"
-hash = "804cd3a03669a301fd66a2c8d489efae377390f532220ffc678365f9880f5235"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/oredictionificator/bottom.png"
-hash = "7212413b406c3f787f6343dc08f689ea88b6a3916633c22f924fe57f64f6021c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/oredictionificator/front.png"
-hash = "7f231a70ac6d5127c5f03ec2f1473f4e43f64d0124add86161180388ac4f8744"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/oredictionificator/left.png"
-hash = "d69d93b470013f1aa4ae0151d50c14533c94933a793c9772818180b7ebe107db"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/oredictionificator/right.png"
-hash = "d65265d0813a13ac74145fa3cf3810a3facf11bed2f09771bc317bcd07fdc15a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/oredictionificator/top.png"
-hash = "b73edb6dcae1c2a803ffd510b7a2ec5c23f6acedc480bafa4744f4736b0e5acf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/back.png"
-hash = "ecd942a93b99bd2cbdc20f3d99bd6ce0e8b54ffd1faa4337a9a408f2dbbb7a5c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/back_active.png"
-hash = "37d7b3feaf8f70324bba1c3d07f99d426851923f73a590f56e9e11954bd85cf7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/bottom.png"
-hash = "4ad2e1312a5c9a2570398ff3fe9bbb1ff0a8775831d0a4ec4f41deba1d54c010"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/front.png"
-hash = "78af7c368e7686a8038d8e1be257f927b83a3e02c909c38941cb73971f7b7be8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/front_active.png"
-hash = "af69b054243265b4198bcc528ce6f5694cd5ce4596cb2d6092c2811b451eab17"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/left.png"
-hash = "d8c8096748f0091496dba49fbd448d2b3be94a81456c3271c539735d894e2b00"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/left_active.png"
-hash = "b3d8f99b6e6bc47ef72422af3fc8e05ab54e24188930b00b10e6decf14a0fd92"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/right.png"
-hash = "20b3c245f75b29e823d6f8b4fd1eedda1153a3c05c7ea0530280f07daa45196d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/right_active.png"
-hash = "168957035f14733824976ff6a2873e640b33d50e0c21d511196930ce5d6a0b8f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/top.png"
-hash = "e7ded0452f326f705bf25e3b4c2a183cb6c546f143763cf59f40dfa9f556baaf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_compressor/top_active.png"
-hash = "e7ded0452f326f705bf25e3b4c2a183cb6c546f143763cf59f40dfa9f556baaf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/osmium_ore.png"
-hash = "2a3fd7d3a35f631a1d2f953322427a5c7fa44ffdfa9a9d43682942a2ec5f5576"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/overlay/energy_overlay.png"
-hash = "7fbe27c0de3444be348b51f5f41246ae51ba8169b18c0694eff866d555a90b12"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/overlay/fluids_overlay.png"
-hash = "25b6c87fd8e411e09b65c4ee13378e4f4367da2fdfb43cef3cab924da6e29118"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/overlay/gases_overlay.png"
-hash = "911c5819149b1cd6fc6c239210f95973633d192fda109c6e3690f659705fce19"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/overlay/heat_overlay.png"
-hash = "1449cf07fde91cfb3b4a7c85675de2524c8fb0182c58a6df6b2a7c8983d686bd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/overlay/infuse_types_overlay.png"
-hash = "c1463c798d0c6d9f2f2b3c9c825fb56a5029e17d2304da7370230efbf6f97b83"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/overlay/items_overlay.png"
-hash = "108bb0ec1242724dfaa7cfcc0e308c574994be66476d6130ef7dfae31717b0f4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/overlay/overlay_white.png"
-hash = "544170d235e029429e6a6cdb0898d57d6fa444d1603befd33ea8babb81d1300f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/overlay/pigments_overlay.png"
-hash = "48442980876e91affe4b3551c29654bf6e0f570c0b4a2b93d4c078dbea7b7107"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/overlay/slurries_overlay.png"
-hash = "4315b69c7ce063d5b65e47dc50181a9fe88c16b7818ef0aafbbbb9bd146e4c94"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/painting_machine/back.png"
-hash = "90887991a29bd589d59a84035a89e0b2ae9abaf05952554d2de1cb40baabfd60"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/painting_machine/bottom.png"
-hash = "ed313f0fa7da3fda13c053b795c2fd27c4784804f1814ecbce045d238177b6ea"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/painting_machine/front.png"
-hash = "fa27b46cd5187ff24d631eca87efc06cc3b056804293dd1727dad63ed4a5d108"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/painting_machine/front_active.png"
-hash = "f0719bc058e5908e400dad5bd74de6d4fd774cb812f31b61cfb9ffc2707e3ff5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/painting_machine/left.png"
-hash = "b9ec44c71e918d087f0eb7e5bc41be58bfdb3dafa17e8b68bfdef6fe37e8ce5a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/painting_machine/left_active.png"
-hash = "86fbee8334b1beeba4a5a30a15ffd03dd478fe0e5c54846ff69d76d61e82f195"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/painting_machine/right.png"
-hash = "b9ec44c71e918d087f0eb7e5bc41be58bfdb3dafa17e8b68bfdef6fe37e8ce5a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/painting_machine/right_active.png"
-hash = "86fbee8334b1beeba4a5a30a15ffd03dd478fe0e5c54846ff69d76d61e82f195"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/painting_machine/top.png"
-hash = "d8e9fbca8ca0346faaf2987b6fd3a30819d17b5681ff17df72686c865499afa8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/personal_barrel/bottom.png"
-hash = "0e1e4730da447b52d5155472e1949f6850bebf2851276d57750d4f9cecf602e4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/personal_barrel/side.png"
-hash = "0c2f4b05d239875b1d8d30a2aeaa1cc8dd8b82ccaa3b3e2b30910349419718e0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/personal_barrel/top.png"
-hash = "54efc651a3edbb9980b9927b0510dadb8ec95cba91de8c772b080f6f88136c0b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/personal_barrel/top_open.png"
-hash = "5f93344debb83e5d450bcbaec9855ca6cd39e66253e60bf6ecd2cf716bdca434"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_extractor/back.png"
-hash = "f9df7454a215d86e0a88a26c90b9ec50fba57ea2165f9cdaacdc02852e8ee91b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_extractor/bottom.png"
-hash = "aa8aeca64d1c42a3a5484e592e2d9919db4ca7f90d9a6cfdb7c3373715b072bf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_extractor/front.png"
-hash = "543b21c63bafbd82edf3e1091f86a5ff56722d1ec9a53da2e0ef33a421b2f734"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_extractor/front_active.png"
-hash = "6ecefc32d4f2c7d047dab6a7320fb6de40f00246f8c26ce6c6542d3661d6b249"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_extractor/left.png"
-hash = "e7070afa34d928648abdd329a02297bb4625e5376f873004a693bf5c6f70bd61"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_extractor/left_active.png"
-hash = "81ae6b41622e1a1a367bd6f5a9fe6a9179057cc58ea0e272ab34f45241beff78"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_extractor/right.png"
-hash = "e7070afa34d928648abdd329a02297bb4625e5376f873004a693bf5c6f70bd61"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_extractor/right_active.png"
-hash = "81ae6b41622e1a1a367bd6f5a9fe6a9179057cc58ea0e272ab34f45241beff78"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_extractor/top.png"
-hash = "a43c0e0e41a48d425d7a44fd2228b044ef257c995449d9a0af82ee2599e02eed"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_mixer/base.png"
-hash = "addaf53c3082dbcdd9ed5430844d2daff3dc8bff1f7424585550d03d955c7fe6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_mixer/base_active.png"
-hash = "4c95fb144903dc097f2f0549db4c29d04c39c084dada433bed9c12337bc15ec3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pigment_mixer/details.png"
-hash = "6dbd5c71d30fd455b4202dbf8865f510ac9286198f64caab42fcb869ea54bd68"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/back.png"
-hash = "8d874b86b5ea81ee2f30aec6b249746e05066d52e09706aab3b1da208c85cc30"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/back_active.png"
-hash = "2dda97446ff1f178b41acf4808b7fd19d57503e229d3b140e3492ddd8403264b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/back_active.png.mcmeta"
-hash = "e8b9babb57b6f525066156637d01d57d7db7aaae62a980c538a0e3e64b81ac0c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/bottom.png"
-hash = "4ad2e1312a5c9a2570398ff3fe9bbb1ff0a8775831d0a4ec4f41deba1d54c010"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/front.png"
-hash = "0b9491f51b784d2401dc15252d6733690566aea240f956e2ca9fd2c8e0080700"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/front_active.png"
-hash = "4664172a9bfbd2a30e10fd87c27325ecefb62da1b1bc232c216f8622fc94d3d6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/front_active.png.mcmeta"
-hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/left.png"
-hash = "8fd895b51161ddb5f64f26b805390a7ab0dccb3d6ec41ed5224747cb25b08fc0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/left_active.png"
-hash = "2dda97446ff1f178b41acf4808b7fd19d57503e229d3b140e3492ddd8403264b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/left_active.png.mcmeta"
-hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/right.png"
-hash = "8fd895b51161ddb5f64f26b805390a7ab0dccb3d6ec41ed5224747cb25b08fc0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/right_active.png"
-hash = "2dda97446ff1f178b41acf4808b7fd19d57503e229d3b140e3492ddd8403264b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/right_active.png.mcmeta"
-hash = "e8b9babb57b6f525066156637d01d57d7db7aaae62a980c538a0e3e64b81ac0c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/top.png"
-hash = "7bd54eb42a030ed6b9ec33fa746d2777672d698a9725f5e2c2efa5b3cccf06b2"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/top_active.png"
-hash = "c7ec2bf70a6f5592d91e254377283412f5825436eace43eabef9bc3b16a50522"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/precision_sawmill/top_active.png.mcmeta"
-hash = "beb53ffe3151d0f859f34d35ad450e1a3bbe70ecc5cd7d6cce48c65fe7e6307b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pressure_disperser.png"
-hash = "9414b081914c92347d913faa61d4ed1474094c6fd1bbe7c96d465d956b6a3b34"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/pressure_disperser.png.mcmeta"
-hash = "88ca558085ed7038700213ecd4cb437f73bb06167ee699b01fc19efe5c8099d6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/back.png"
-hash = "a59f69e2570c245f8c240791204063c26ce39fcf1b09a614dd4041dd91ade868"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/back_active.png"
-hash = "09c1e708b20a14dec100de8a3af3dfd6abf429432cbaef11f77178e5f44ab822"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/bottom.png"
-hash = "4ad2e1312a5c9a2570398ff3fe9bbb1ff0a8775831d0a4ec4f41deba1d54c010"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/front.png"
-hash = "0bc58d06140d6d08b55adf46bed728e8f6c9e8ca096c403bf83b382ef33c5731"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/front_active.png"
-hash = "7b16acc46585e556af9e5dbee6f195298a02e361a8461723e53b2368d6f9eaa9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/front_active.png.mcmeta"
-hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/left.png"
-hash = "545e8630a0037cbd3bd1eab45ecbf542221beeac56db90ef1129164522014356"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/left_active.png"
-hash = "4af357dd0e493efdee6b48b0c456cb174a73a64f04a9843362f3d9dd1dc95b52"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/right.png"
-hash = "f6dcbebe0344fab08e18118f0f6e6afeb5acf9e7f6229d0aed792ee73edaaf74"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/right_active.png"
-hash = "be7c8fc2c2648e5684257d05c454d9e3799ce104bfd7661a884735f0dee27d7c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/top.png"
-hash = "ad61d9bef9b79564d6e61dabbc03ffc6c6d5a5b53eec5604fa9e34816f9940e9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/purification_chamber/top_active.png"
-hash = "9f6c210a7dffbfeff2a60a0e92186df9083309e69b702cbb9287b04189cfa1eb"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/qio_drive_array/back.png"
-hash = "9176e24fa613eeb509edcfe9d867e5ccecbe1a8f7cf0a35ab6833ba1ac9474b6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/qio_drive_array/bottom.png"
-hash = "7cade59a13eaa020fe9eb50a62b5bb90ca99076a548c561b04beaaac4cc8bc56"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/qio_drive_array/drive_led.png"
-hash = "7c5877db37cb78466865f876f16af03db9a2360ec4c9b84268999586733ed521"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/qio_drive_array/front.png"
-hash = "426382e13cdde325179d52029ab1e016b11b83e62dcb568da08ffc77f730cf7a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/qio_drive_array/rack_glass.png"
-hash = "02338d4dfd47c37e88d09f2a39175ac4aebaff6669b34ba111eb9b66d9b4cf94"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/qio_drive_array/side.png"
-hash = "cea3c0133a9cd02fb1db367b1dcbe9a8ea5aea5f3740a99822ec200160af4db5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/qio_drive_array/top.png"
-hash = "95eac3e373d3b136d762aabd6f0d02bd4513735054c09566cb8c65eb8f355385"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/resource_block.png"
-hash = "021f5cad0daa9394849b1c2f61202e6e246b99a55b464ff99615d2f08f478bbd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/sps_casing.png"
-hash = "929c7cc24fac16a2eb14a26c9c7fa2aaf69ca1e7a6b063b08e5b5ed56ad20b42"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/sps_casing.png.mcmeta"
-hash = "b18ecfdf343c217b1427d5cc2f4aa26d3c1dcc728311e0236c237867899403fa"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/sps_port.png"
-hash = "3467f21339de204afc03629315c24e8aefbce2e94a95548fdd8629fd996ad153"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/sps_port.png.mcmeta"
-hash = "eac8404c752859d962f168f93bef23afb358efa4644c4c27ce19b35858d3ecb1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/sps_port_led.png"
-hash = "0c320df89ea2a3236d4c74a4c69ce09d5dc809943eaa6b36e5c523f36aec2a28"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/sps_port_output.png"
-hash = "44d7d963517df95e322e91cc442de1f933f05bc1cec598f50261c80ea82fe45a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/sps_port_output.png.mcmeta"
-hash = "dfc80f91e4ab47f23358881197f57331d69083e6d4a3994bc0c8787db44737a0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/sps_port_output_led.png"
-hash = "85ea9c169e34bab1065dc690bb8dd99eca46cb0fcff61dfcfda8c40446b4d836"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/steel_casing.png"
-hash = "88c0a81a7a1c759a41029352771b9f831c7af7a9df958a88514d1100a952e674"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/steel_casing.png.mcmeta"
-hash = "436f27cad584aa44da06df87aa828838a5bb907be5d9416ef6291c1f429f111c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/structural_glass.png"
-hash = "0d4e2817cad8df0a61035ccb984e8251a3e8d7cf191ae2cb26e083f089825a54"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/structural_glass.png.mcmeta"
-hash = "737ae55a2387e3b5041112df271503694e1640c296030b29279e0dd2d901cc90"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/superheating_element.png"
-hash = "67e3e967d85a149c623d408449715e220a3e360f1d8ee21f5df0da04f785ecd4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/superheating_element.png.mcmeta"
-hash = "0b1c8f3b548caf15570db801201df8efd3539cd1c17ef69fecac303319e026e9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/superheating_element_on.png"
-hash = "733c8e8b0af09c3cdce8925aa8f5042e14fd1cc2f503520bbac215e617fb10a0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/superheating_element_on.png.mcmeta"
-hash = "541881c0eda42b840b2881d6405449145e6d766064b91ed1955c9ccdb51996b9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/superheating_element_on_led.png"
-hash = "d7f67ad4cd542da0c0010d28c9ffad6ebf0c115dd6709e102d40d236c0d9ccbb"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/superheating_element_on_led.png.mcmeta"
-hash = "a5defa6ed2e2f4af740e49898ba7b94fc6578227a89a7988d3dc64e63443efc2"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/teleporter.png"
-hash = "2d0b65cb93af272d9f3a439022d16ec8410ef96ac762e35ebe036c77276203ad"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/teleporter.png.mcmeta"
-hash = "9694747d6d818c8043f2ffc9f9c24d0cd69337cadd83988f511124c2f46ec8dd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/teleporter_frame.png"
-hash = "fa3d0c757fb3bb2e69b90830f592db6021ccbbc36b1f10a07454d0fe662cbff1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/teleporter_frame.png.mcmeta"
-hash = "2ef58990c9bdf3f12bc33dc3edecc147ca485377caaa582f313a21cf6e45bd8c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/teleporter_frame_led.png"
-hash = "7360ed93ec2a93f94eda334fa112dcf68f24733a8557b9a1224639b31fa0ab57"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/teleporter_frame_led.png.mcmeta"
-hash = "f695c54c4a33eccb74f06ffff5a0307fc63aa09c2c5f7b1fadff735df04e667d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/teleporter_led.png"
-hash = "a69a0939d3c50a490b43bcd183cb939d9649370a94939963cbff20d3423db621"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/teleporter_led.png.mcmeta"
-hash = "7e912ce23eeb05fe5fb2ee7b1b54e7935d295ca85ea13ff6a6dbe2b8e7b3075b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/teleporter_portal.png"
-hash = "1c127cbc4104e12358f511ba3a2ca378c2e7dab6daef54654f0923700ef697b9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/teleporter_portal.png.mcmeta"
-hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block.png"
-hash = "6428f9af21c25aa926fff18f8f85aa5e6e0edc9d19328fa77b301a8d7132d89c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block.png.mcmeta"
-hash = "3964f941567817f7e394ed33eada32e92ac2ea24389c7f5086f767e88655712b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block_1.png"
-hash = "13cc6ea4593e7f9d58b110e88cf86900993f43a3ae806db54b43aceb6f48f75e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block_1.png.mcmeta"
-hash = "71cdd1c4fe16d0a469fc0c5681b98789d8ed3f0df63e2d857af4676aa2f7501c"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block_2.png"
-hash = "0d00318ed4a73cd2887aaf377b9824e63870473830c4c4698ddc97f5f9db4c2d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block_2.png.mcmeta"
-hash = "efdb17d1fec36bbc83530399de5f71d91211d63bdc806371efbbeba158b014f1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block_3.png"
-hash = "77fb662725b5720a72f3529b176de756c0e27ac34b9a047fa4dfc220913838a5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block_3.png.mcmeta"
-hash = "3ddc2962905daba53b83659101f28465429082454715be24d3e5719cecc587f7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block_4.png"
-hash = "da4ab3f98d67d26cb8026f0dee95ae19b2cc46e4b1f97fb4ca8134e0aa727056"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block_4.png.mcmeta"
-hash = "89b8080257d6164ffc2fab5c0d89e946d5e0fc7d62bcdb3716b25250665b49a6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block_top.png"
-hash = "6dd2cf09e13d9e894a501d519675f7f4af99814bb2614b9c80cf4830ceb6a93f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_block_top.png.mcmeta"
-hash = "e77bf0cac4f743d504b6f69e642ec7dd9c5137b7854d05564590cf9efddc5b4e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_controller.png"
-hash = "96cf67c1fa8a6d0174a295e784c2bc30bca7b604b321e73de11bbb7c325629b0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_controller.png.mcmeta"
-hash = "41f144ae3d63826de1e68e452e5548d3be85e5384348f813f4198f73324559d9"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_controller_on_led.png"
-hash = "4a12fbd90535bb0ebd24f72cc25d415062e11dccd21e9da224e5a3baa93d96ed"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_controller_on_led.png.mcmeta"
-hash = "eff5835347264c4515ac077169f265b36b54f44fc1c1a1b92d4a04d1a1c207b5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_valve.png"
-hash = "6335f477adcdd566a669ed13cb92fa86aa4742821fa1726123fa547c69bb4985"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_valve.png.mcmeta"
-hash = "7b3b3319048f4c32087379ef7017f14e14fc4aa83c61cced28e783c50346bf35"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/thermal_evaporation_valve_backup.png"
-hash = "18ecbb8542148bf310bf40cbe98413b520f4931c335d5c4d6011161b301dc162"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/tin_ore.png"
-hash = "33099d5d04ef709e3f08759c1aa785ec1ad60aa6ede780e7c305a17d46cf8bfb"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/ultimate_induction_cell.png"
-hash = "07b6f7cdb97155acd0c394da6b0b50adcc3bea7a9e5410f8d34bf207ea1e2dce"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/ultimate_induction_cell.png.mcmeta"
-hash = "5a4611cf42122e71045b845603721f2dfbc760d0dcc59885b87c641c959d15d7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/ultimate_induction_provider.png"
-hash = "384d55b909b9d868956e463119ccabbddc0ab5919bd01e050ea70aa1529be56f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/ultimate_induction_provider.png.mcmeta"
-hash = "e13c4a4c5bf631f0d18e14eafe59c0514ea573fb4a5543b0b015f581f4121e68"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/ultimate_induction_provider_glow.png"
-hash = "c137f4976df647ae30ee8fff7290cf09be79d41263ae30adfeb5ea66c95b8414"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/ultimate_induction_provider_led.png"
-hash = "3aefbc2d94b2d8a48d5d1863c89a87bb29dbdc9428bd559c5e66403326b18422"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/block/uranium_ore.png"
-hash = "29d33ffa87f2b98358cf13c2067adcc64e7416d1487b6772488ef569e4004d8b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/colormap/gui_objects.png"
-hash = "b0f44269eb5dbf08cc944408a4b32e07a2f36a2b01c00605759019b70a3b5c93"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/colormap/gui_text.png"
-hash = "2fb302a316b16dd2818427ecd9504c19c7535c822965fefd925741599339a928"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/colormap/primary.png"
-hash = "1a6e4879904f9ded15a7554912e406d7e32d3f1635147ea348ee29a22be1c9ad"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/colormap/tiers.png"
-hash = "7208177d26dc11d2b16b4a8bd5730786eb71b4148cc10e3c58dc609e5a95b726"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/advanced_induction_cell.png"
-hash = "219fe0de4abd28473e4dc013af9a66f3a26b6b0252cd74e49ee8fc12d9dc812f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/advanced_induction_provider.png"
-hash = "37ec3bb20d395b24756b55a3bda464c03a5c04249507287b80f3a2febf769cc1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/basic_induction_cell.png"
-hash = "0e3829a9bed42971601dc8a3276892e80f9a15425a20431fbea44d8ffea4d83e"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/basic_induction_provider.png"
-hash = "5af1a64e5efff67659d20a241c27ea5cbb9175d80ce4b1d5551dfb09b0662d85"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/boiler_casing.png"
-hash = "c3656a2deb42ac1e858bcde7c11e226fb50a5cce3ce773b03517bf3b2a026726"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/boiler_casing_full.png"
-hash = "32fdfecfb19aaa2a7c53c3b80a7cbf80e9ebe2914ed17fa0352e0697a6d14660"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/boiler_casing_full.png.mcmeta"
-hash = "7526bbe6b3f4b145003b1653c16660525f372d73c64ed82b687f7df920bacc0b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/boiler_casing_full_clean.png"
-hash = "a22fdff8c38e4f65fd12de2d8c8dc3202d876f4b1ac4845cb426131236319041"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/boiler_valve_input.png"
-hash = "f2c12897b0423d9ab625ac16eec5c4bd180bbd8d906ba253780da68d4ad2433b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/boiler_valve_output_coolant.png"
-hash = "ef38e79fd5c4f383af6807686afad9ff3d0504f8060c8d0ec8d91b13074cc4c2"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/boiler_valve_output_steam.png"
-hash = "1fc8d3e42dfefd363e7780c13e7ffcd7fcfbf904cd5d314aa2fe177809c28294"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/dynamic_tank.png"
-hash = "5e4a9f8d444d6af9b3ef909ce24e9b244f0267ed946a327ec3433d743bd806ff"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/dynamic_valve.png"
-hash = "6eb6bd4b0a2027a0813c9aae6f10aa65e829d82187139b8f17388f3cc8db0517"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/elite_induction_cell.png"
-hash = "b2a6f83d65bdccc8d751af0b9c1c1c808b38814599aa39ae408386198929c436"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/elite_induction_provider.png"
-hash = "aa3efc14d86afa9d9bec90100cc0d01a555c42b970f1839eb01cd87e16b6ff2f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/induction_casing.png"
-hash = "85d43564413751ab40bc482eaa4e3ab386467b49ed135b7dfaa76cf41bba2eda"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/induction_port.png"
-hash = "0da85ef8686f038a0739f1ffa2d3cd2e67f2efefd31fc680dc9885e07ddf1ac1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/induction_port_output.png"
-hash = "88227d5f870c4638c579502a58cc81296cec5198fd3e0cb987d11c72c6a6b874"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/pressure_disperser.png"
-hash = "c63e9f23f303a1886c6cde8008904d77c3b35a57a05bfd8a54133233fd8e51b2"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/sps_casing.png"
-hash = "0c779b3e6026a34c03b9615125032c2664f28286c46ec0daca69eaa876f766a7"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/sps_port.png"
-hash = "2efec6ee760726381078ea408ed24a2c63df39f197ab56e6445a89b231edd998"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/sps_port_output.png"
-hash = "fe025c75c640116ccd95c7c1610274e72b747271ab3421b74c5bf7b7223f7c90"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/steel_casing.png"
-hash = "647097215acfbb7d977ea3ecc1ecb7efb8d98a99640ebc3570295f12b0b828d4"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/structural_glass.png"
-hash = "4dd231b4bff4453ab7e4d7af05b92800a4782b22ea08d21222ff11136e25e0ce"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/superheating_element.png"
-hash = "1aab6f7d960ef70441f96e8ffa8c1ff86194df562f4996f5686bfd1f60e967fa"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/superheating_element_on.png"
-hash = "fc4a77271bc8ce296c1d202b871308531f4ee3d66493ff119c94f2f47855cecf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/superheating_element_on_led.png"
-hash = "ac8332e03e397a9d93e1fbd2b045dd6658d922cf0e22e2692f654eced25a7997"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/teleporter.png"
-hash = "0993036ff8346c426d70283bdc843cf1dbfb6cde4676f3d851caea505b682881"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/teleporter_frame.png"
-hash = "e0b755ad812b16f99fcf6377eddd5f37cc011f813585744f7fbd50d1e3416d76"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/teleporter_frame_led.png"
-hash = "ac575062f7d2788fc1d774fa7f9da1c4b056abd257bcc10dc41181136400ffd5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/teleporter_led.png"
-hash = "e27aeff5735114fd41e23aead0acca3185ccae41b573d8c36fe63bbcc1d1804a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block.png"
-hash = "7c704fb79aa0d66c608ff4bb03736c5ef2fee0d4dfb1a2f2987dae9bfa3ff454"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_1.png"
-hash = "a532329dd6543ed0b9a679b96142e9ed7bfaaf8e8913bc22461e6bf4bc72500f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_1_full.png"
-hash = "ed729791de1d140ed0d2449fd93dd5ba9f2de64a08f0256565f69e0ce2301b31"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_1_full.png.mcmeta"
-hash = "4bef9a7791fec7ae371321a2537f602401ebbc94b9b17c26a71cb34cb1ca3de3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_2.png"
-hash = "0547ea2d03a3e6699eae21159d99352006d30ad7fc3cd134b4ae8e8cbd1f3306"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_2_full.png"
-hash = "17da8749e61516b62f925c8c8ed35cc9bfb45d3592150babcb260e87de560947"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_2_full.png.mcmeta"
-hash = "4bef9a7791fec7ae371321a2537f602401ebbc94b9b17c26a71cb34cb1ca3de3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_3.png"
-hash = "8c4bf0abead0d928d02985df329cab8f9cbdf2ae60300e4774c399cc692807b6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_3_full.png"
-hash = "9c6cda986545dec39f9b7bed7a4f68c73319bc4439b58e20fcec24ae52edfebf"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_3_full.png.mcmeta"
-hash = "4bef9a7791fec7ae371321a2537f602401ebbc94b9b17c26a71cb34cb1ca3de3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_4.png"
-hash = "73479ba60ba590523fa18d5fa4b88916215ef69f74e018c63530e9b4cd1cfa40"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_full.png"
-hash = "6c0fb15dac077fa804fab397978a66c06e001fbcaeb281ae517afeffec9f1469"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_full.png.mcmeta"
-hash = "4bef9a7791fec7ae371321a2537f602401ebbc94b9b17c26a71cb34cb1ca3de3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_block_top.png"
-hash = "8ff4da0cc8e59f5a41979d075ae31e7020f013cf3fbe91dae85c012ecbe40bec"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_controller.png"
-hash = "c10379d0b21bfa2908baa5ce43559cf263f71c00533f1bff88826edbc2f7d2ee"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_controller_on_led.png"
-hash = "573e55b702921bd8ca5c3b4f3ad38e531bd8582b3570bdb61c55d4343ce90755"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_controller_on_led.png.mcmeta"
-hash = "eff5835347264c4515ac077169f265b36b54f44fc1c1a1b92d4a04d1a1c207b5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/thermal_evaporation_valve.png"
-hash = "1c07f66a5bfe9f0fa8cd0df88e84c0cbff94b11cdecd3c412111d2cc454c1755"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/ultimate_induction_cell.png"
-hash = "fc3eeab6c1f6617cd849da88cef80066730a84578ad87e570b03f27b7d8a08e6"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/ctm/ultimate_induction_provider.png"
-hash = "cbb107d9a11fb5376d6b9828ea84c123c4bf18250d5c4b9b4a6aaa5592e19b8b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/armor/blank.png"
-hash = "706967e464e06705ab9b2e37f1a5dd326ae34114c3253f11363e3319e95821e5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/armor/mekasuit_armor_body.png"
-hash = "743078a19bafc92ecc0dea45559ea67e990cc6e81cc59a89d9fee3b3cbea7eca"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/armor/mekasuit_armor_exoskeleton.png"
-hash = "ce9df935867b3beb763f616307140e81ae770567a95a4988fa5e50dcd0ad5b4f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/armor/mekasuit_armor_helmet.png"
-hash = "0e1fcbd1c5a386963170cedbf9be9bb64a704bdff03d1cd1d65e6a4f49c71937"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/armor/mekasuit_armor_modules.png"
-hash = "bbca500475755df3ebabca50979be403b952d2a9d73712318e019593b24c8355"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/armor/mekasuit_elytra.png"
-hash = "3305d459d79a34aed064dbae9c53e6130334419777c482778e7f056a9ad89e55"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/armor/mekasuit_gravitational_modulator.png"
-hash = "43e8afb90298791ddbc5b9f9feeff465d04ca75cbd6a47b7efe7c024ed16c33f"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/armor/mekasuit_player.png"
-hash = "1abebdd8986b76fa013832c242df26d8b1cd6064b2c035bcf2d2d804a1af2b45"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/armor/mekatool.png"
-hash = "b0de36335553747f156b05ce8ab60c6ac3394a8d45f171615d059ff067c4c50d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/armor/player.png"
-hash = "fd7c6ae63708cd8204b697020b4538e2bef015b0c282a44955231d27f5e42756"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/hdpe_elytra.png"
-hash = "1b3acaa03b6d4561174b7d8f524097f856b656140ae1c95711008a199659eb90"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/robit/allay.png"
-hash = "2a492773af9ad24025fd6533ffb796d42cd5a0cf2cff0b580916ab99bf5f72c8"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/robit/allay2.png"
-hash = "41006702b641cfe8ca35612471d63d6e889d05d033995ca86b2a4975d63ee19a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/robit/robit.png"
-hash = "5b16a005b1feb17278ffb45bba94a7d9d13d54471f2ce7960a54d0fd9ac30cf5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/entity/robit/robit2.png"
-hash = "985967d0dd76d8bb5f79ec1350bd48edf40ce77d5840af9312eb957a052c9628"
+file = "kubejs/assets/mekanism/sounds.json"
+hash = "0bb2182f31e143c30b3c515733b042b99f1bfd82ac5d7922297415a59841faff"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/icon/redstone_control_pulse.png"
@@ -2853,7 +397,7 @@ hash = "86dabeec569aa078aa2f074d3579bceeac841e1feaf2bdb651c3503e05259753"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/icon/redstone_control_pulse.png.mcmeta"
-hash = "ef355cab2ffe3d61e3bc45b4c0e56ccd57bf5e5f88f00611989f4b47b1c28913"
+hash = "9804678098d244bb7bb68cda658288801e5d07095398b7427f48422fd00b9def"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/infuse_type/base.png"
@@ -2861,7 +405,7 @@ hash = "236c70503956f4cf9ada415a3c79e972044c755cd493b91334fa164f00113c8a"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/infuse_type/base.png.mcmeta"
-hash = "fca6a804063f27ece29dd10c81f16597fa7515e4c2b416804a505355baf7f2f3"
+hash = "6945caf948b7e32383635a9a3407c85b1d08246048fa43ae479b460c464ff0be"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/infuse_type/bio.png"
@@ -2869,7 +413,7 @@ hash = "dee50eb295f458d46d7402e476dbab3c07ef22a2215afef3a952c1a78ac3366a"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/infuse_type/bio.png.mcmeta"
-hash = "d7f368d0b63c520779a6b46df990f57c3df5819b2b7b0b3e155d663a4485981f"
+hash = "9ae4b26e7b5b8bbc166c21d0fc535c27b178df6a9cb081ff71b1a7743dae6319"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/infuse_type/fungi.png"
@@ -2877,7 +421,7 @@ hash = "31bcdb9aa635397d332fa976479b1a1ff6c02837964c5ff077d1f191dcc0efd3"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/infuse_type/fungi.png.mcmeta"
-hash = "20b727fbec91bceb9e8e749e9950d3a36ec5e0c1e7129ea5a6899985a1dfe8b0"
+hash = "138baf2427067e8defe48571be74a9d22ab0e1c9f9d9ceea129e80048a81d343"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/advanced_control_circuit.png"
@@ -2893,7 +437,7 @@ hash = "f429d3ba51d22ec0ce28235f86013afad81e87535d2ba17f3c4332864e66d93a"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/alloy_atomic.png.mcmeta"
-hash = "8f352ab91d843da4ccce2485b1e8c09eeba7f0bf474a1c8623aad5cd553dd8f0"
+hash = "76cf0adef2ebefc44ba870a8559e3e7b81399e8d4d799ee9170a06018c038d2a"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/alloy_infused.png"
@@ -3217,7 +761,7 @@ hash = "8355e96395a75269462c8419bafc469c7adf919c1d7f632009491f1be08399db"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/enriched_refined_obsidian.png.mcmeta"
-hash = "cb986f911bcf940d6c13ea9c7849d7c978ec62194fe1ac65130172ea55897dd5"
+hash = "b1d6a65a087feb59097be1e9da86345be202340df3cf6d0eda8369c594282622"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/enriched_tin.png"
@@ -3257,7 +801,7 @@ hash = "d45065d3c382f904ded80b63c3fb76c35350720068c807b49689d08567346595"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/geiger_counter_5.png.mcmeta"
-hash = "2d92d1b4db051cf59bf96e70db0fda91cf9a18eab964b975c81d4f494b0e9b8f"
+hash = "c1165c10492e130f62d3e7fc9b25c27331a2ca9188907d2c83f6a580579341ac"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/hazmat_boots.png"
@@ -3501,7 +1045,7 @@ hash = "4830537ee9abf3cf5d827560316387607f64f21923f052a855ec87a822827422"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/network_reader.png.mcmeta"
-hash = "f1ec77533ab61dc0e0a3802e4f60d3b83e837c91ebc661dcc99b530b78a42f89"
+hash = "f48d90ed99d4106b327238de5282237a35329bd24c9043f6da3ee15918b0470d"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/nugget.png"
@@ -3545,7 +1089,7 @@ hash = "7714d94586790feb872bada6fc7aed4f728d33948b5d5bb28f798a3e5935af5b"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/pellet_antimatter.png.mcmeta"
-hash = "a7b5083994bb6c36f84284169e93b9398b4cd51c0206d236cd56578abb5ae1ac"
+hash = "5d99e599614ce51d1e842445f85e79a799745db9507de2dc957b548e0eebfc10"
 
 [[files]]
 file = "kubejs/assets/mekanism/textures/item/pellet_plutonium.png"
@@ -3700,182 +1244,6 @@ file = "kubejs/assets/mekanism/textures/item/yellow_cake_uranium.png"
 hash = "0b40e0418f2da8ae84df74756df3131bb2f20d1a7d784dedfd9a02daeb4ab423"
 
 [[files]]
-file = "kubejs/assets/mekanism/textures/liquid/energy.png"
-hash = "270777c43278c85b8279b2752b7e6e777e5a258e8e725c938066e2a4127553b0"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/energy.png.mcmeta"
-hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/heat.png"
-hash = "bb0d15b664585c9c41b0023024cc497037aa520348d4715a81ad317ced3902c5"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/heat.png.mcmeta"
-hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/liquid.png"
-hash = "0b909e55e2862cb2eb1ca6eb39b1028cac96355049ca5faf61421c54cc84f541"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/liquid.png.mcmeta"
-hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/liquid_flow.png"
-hash = "60d80cf8267331b3a847277ebb8a2b83e0d4b9206bbdc40fc2812f2a167981e3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/liquid_flow.png.mcmeta"
-hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/steam.png"
-hash = "0b909e55e2862cb2eb1ca6eb39b1028cac96355049ca5faf61421c54cc84f541"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/steam.png.mcmeta"
-hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/steam_flow.png"
-hash = "60d80cf8267331b3a847277ebb8a2b83e0d4b9206bbdc40fc2812f2a167981e3"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/liquid/steam_flow.png.mcmeta"
-hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/models/armor/hazmat_layer_1.png"
-hash = "75e814e88416a39df52118c1f425edd613e773b065f4a75460d6dafbc5dd93cd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/models/armor/hazmat_layer_2.png"
-hash = "7c573a183ac43ee127a8e85733c4d45ddd862d2a1a896f76b71e50a4d61e12fd"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/particle/laser.png"
-hash = "e891f2b28d09a3c82ce445dc247536deae66a6ef47b6cfcb5e1cdcac26e7895a"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/pigment/base.png"
-hash = "650d44f4f1f61dd144c2bc07d3cbd78fdf68e927766e5a026d0daa917947902b"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/pigment/base.png.mcmeta"
-hash = "c295ebba8b2df20ad4035fa7813a2a92302bb611306feab955c2b29c7f4a5b2d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/slurry/clean.png"
-hash = "44c30290921e3c21b1ba7e4d8ee3d9d3443b5eeb60c6a2e1795345028f1a14d1"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/slurry/clean.png.mcmeta"
-hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/slurry/dirty.png"
-hash = "d547e8de4dfc3b703cd2a848aae03fb317879c36c3a227bfa23cd244d30a1a5d"
-
-[[files]]
-file = "kubejs/assets/mekanism/textures/slurry/dirty.png.mcmeta"
-hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/glow_panel.png"
-hash = "181928d0bca2f5840c98f6a8fffaa964b54351650e98b3cc22222a9bc3a9e9be"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/models/obsidian_tnt.png"
-hash = "c2eba5fc3d414c474e57f09a1a085d76a04832ef196ae2fff3a484e7afe7fc46"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/plastic_block.png"
-hash = "25dbe4813270050d821cff32710e4f78efb48661fd1f7f8afdcb3c4e95f696f8"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/plastic_block.png.mcmeta"
-hash = "6fbc1906cf6456515991891a5275ce18eef8a6b500b999f4575a516d6aa3fe94"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/plastic_fence.png"
-hash = "f3535b05a8cc31a1ef2e68ba9af938e88a193d1ac8171b4d3f16dec6ef48deb8"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/plastic_glow_block.png"
-hash = "8081ec9e04318254a9a177718813a25fcd15313f52f1fa2e4df7f1969592a474"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/plastic_glow_block.png.mcmeta"
-hash = "4025acb96430dd39d6db9dfc6438a27e8fa4389393dc49c1d7c05c325c884663"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/plastic_road.png"
-hash = "d89eef03f5d51faa7870cc4b793144fe63094fe487949c3df3cd2098c291a868"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/plastic_road.png.mcmeta"
-hash = "c82d85a1d4aa05df7960066d8d2ad1900fb8f8723e86f480c848bc02ac7fc6f9"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/reinforced_plastic_block.png"
-hash = "196bc8c2682cf08af03bc43c09e72dc3107aea80d06047f206c29fe411fc7b79"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/reinforced_plastic_block.png.mcmeta"
-hash = "7a50b93548a49f735dd358c18c4c1232003e95150993aa9d12de1b177be29e07"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/slick_plastic_block.png"
-hash = "05d0ed9cd13e5388d28d9e6f0e4551e72bb42742be6f48499a9955617055cacf"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/slick_plastic_block.png.mcmeta"
-hash = "3e9d312263789b980567c2570f469c5cb115639c189028cdd7e5dac9bfee880c"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/transparent_plastic_block.png"
-hash = "ff743f03d669fcc111d95e756b86f2edf6a686bbe25510bbe9ac8655f4e7f703"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/block/transparent_plastic_block.png.mcmeta"
-hash = "9c0ea7b085e494939a60ed5ceaa20a4e90b945225c8b457bf001765ddafdbaed"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/ctm/plastic_block.png"
-hash = "4561c3fcdb2f4f34b718d91ef90e7ce36d0510f645a720e625d9c6518d2dc055"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/ctm/plastic_glow_block.png"
-hash = "188ecae6d2f8fbcaaf1e7f265ee2fe838638572491cb729239586996fe6f168e"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/ctm/plastic_road.png"
-hash = "bab29d92ece3385ade3677f1a29100c225af729c33c8615d10e12ef428e27019"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/ctm/reinforced_plastic_block.png"
-hash = "77100696b1c92159a98c386a664e9e0bbe1d166e677fbcf18e9b70dabe522df4"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/ctm/slick_plastic_block.png"
-hash = "e3c02d5936e24a01d94f410afeb9ee7de7f2d74e4394e1464e0e4ef7f60f4c25"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/ctm/transparent_plastic_block.png"
-hash = "66f9bdfac66433c859685f12da88d93e84e3a49be59b30d84b3501f3cf5cb052"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/entity/balloon.png"
-hash = "9ebcab7e39bc4e260b402bef27cb3605f7af2b3a4b99105d57fc4179ee4ff46b"
-
-[[files]]
-file = "kubejs/assets/mekanismadditions/textures/entity/balloon_string.png"
-hash = "66bfa0acdea4f430d8bafc2bf64da1e3b544e75716aa39b44b1cca51a9ad60ec"
-
-[[files]]
 file = "kubejs/assets/mekanismadditions/textures/gui/creative_tab.png"
 hash = "0449393357e5ad6660906281a2ff84724349475c9e30332968d0e31b3f570c3f"
 
@@ -3920,288 +1288,36 @@ file = "kubejs/assets/mekanismadditions/textures/item/walkie_talkie_ch9.png"
 hash = "5c06d2ccc33f20808edbca30d646e8a9fad511dcd00feb8a328c172056a7826c"
 
 [[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/bottom.png"
-hash = "a1925844bea9fbe0b5de546fea190fa80bccf56aaf0c04a109e95d6819599a73"
+file = "kubejs/assets/mekanismgenerators/gui/button/reactor_logic.png"
+hash = "606cddcdf6f4095e840e34eaf25d8e0dbd2e01c32c3a6509beef589851b01a04"
 
 [[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/electromagnetic_coil.png"
-hash = "794e926080710d02977030b76d719691407a4a01dec218fe645fe39aab88a2bc"
+file = "kubejs/assets/mekanismgenerators/gui/fuel.png"
+hash = "35491a0ba82ef40eba65ef7ad6cf60622d3ee5f7fe00fd1422c8f2766a7cc5fc"
 
 [[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/electromagnetic_coil.png.mcmeta"
-hash = "ba7162acfb4968be2f5a7ecd7f391f5041d0316c3c33022766e11cb21e494372"
+file = "kubejs/assets/mekanismgenerators/gui/no_sun.png"
+hash = "51fb7a2e68b0ab04d09be308ed6c84a5fa1345993334dc5fdb41db319a20d7ce"
 
 [[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/fission_reactor_casing.png"
-hash = "681d2375f6a5cc362f7b209572859ebc3e54bc4c9c61eb872d61de769bfd7d2d"
+file = "kubejs/assets/mekanismgenerators/gui/sees_sun.png"
+hash = "6abac8e78654267aa7d3edc5a1c6b9e5d88a4c1a9e9f8f49d8da0f3330e96432"
 
 [[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/fission_reactor_casing.png.mcmeta"
-hash = "6cbbb0891088be1aa99fd8894f1b854c8f8c8b17f6a190dc131a074c567593b5"
+file = "kubejs/assets/mekanismgenerators/gui/state_holder.png"
+hash = "b238099eb6341e19e70dd436969870b4e68aa19f915c80566b3291686d71ff0d"
 
 [[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/fission_reactor_logic_adapter.png"
-hash = "a88b5aa135a2e2d3b22ce7696709e5652d6a7f7173a06d02f6b1b2d173d5a7af"
+file = "kubejs/assets/mekanismgenerators/gui/wind_off.png"
+hash = "b66e903d6275c633ab4cd586e4e9fecbc0c00220b9d31c0451da4ce99edae2db"
 
 [[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/fission_reactor_logic_adapter.png.mcmeta"
-hash = "57433049cd0f274b6e3ea07d3355b6d4f6b80d5c3efd418323ccfff857c67faf"
+file = "kubejs/assets/mekanismgenerators/gui/wind_on.png"
+hash = "4208fc6310cf2982039f793b0d182792b725b78bfdefaf896122799471b48816"
 
 [[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/fission_reactor_port_input.png"
-hash = "ec8403bef7549c9f0e7bfb3031e2472d72f11d16ffea9032316b768368f195c9"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/fission_reactor_port_input.png.mcmeta"
-hash = "f2de78781efaf2a4d8ae20944766ef54ac0b4929186fb5e494e41c1ac1092fce"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/fission_reactor_port_output_coolant.png"
-hash = "c0ffe992c8b99d7448372b76e9e1d7cd509ada55f8bcb6e49187386212fd8293"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/fission_reactor_port_output_coolant.png.mcmeta"
-hash = "0122b3d983edeaf902fda16e9737b7a384ff3fa936287af4f6ae65cbbe5f95ea"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/fission_reactor_port_output_waste.png"
-hash = "17aeb97fcbf4425fe8426b48a39ca6039168021b389b66d28d52474afce6db36"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/fission_reactor_port_output_waste.png.mcmeta"
-hash = "b0dbfad170e3896b90461db6a33c63bf1a14da6f3d4c92bfc4409a3010c63512"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/laser_focus_matrix.png"
-hash = "420cb02a7c76966ff2a8414a0860e3b3232db2fb8be16e2356f1ca1e5935251f"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/laser_focus_matrix.png.mcmeta"
-hash = "f63fd6565e63500901f13b143b164d13e0261d641989cad9ca0ae92130d0c40f"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/advanced_solar_generator.png"
-hash = "e1017a3c8e8aeb1544cfca6b04cf85fda29decd244ade5b6ef3b086706cc034a"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/bio_generator1.png"
-hash = "d0d798d0553ee73424219cb8a98b993f0bc0c32e3758ef4b5fcac6d56c47c738"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/bio_generator2.png"
-hash = "ea5bbfddd02754d15ae934f5d194b3f74746f2a35ea67c60bf34e6f561871e51"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/fuel_assembly/control_rod_assembly.png"
-hash = "bd227c6dab7b141e9c8dbc0095a8948970861ec1a4e597cc1fd5afe2fc6783c1"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/fuel_assembly/control_rod_assembly_components.png"
-hash = "1a1ab5b8d680ca859e82c1b4ac07bd61d865ec1d2a644b0539f7f13ee7e173c8"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/fuel_assembly/fuel_rod_assembly_base.png"
-hash = "d1d96a98d2681ea0d34dab84989815999dc250807bf55f012f3d6bcd92505774"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/fuel_assembly/fuel_rod_assembly_rods_top.png"
-hash = "f3426f36cfc37424c080d9d7bd14e86724bd0410a5bb935d464508c9a6cd8e39"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/fuel_assembly/fuel_rod_assembly_side.png"
-hash = "d6cb73417c7f0eaed9e961f0027f944a17b6ae8c5dac333fef85170889f3a68b"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/gas_burning_generator.png"
-hash = "3f053a845be1ffd391425a837b6745f4b6e48311f5f5b81b63cdd59f551f3a49"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/heat_generator.png"
-hash = "7b7a1393ec309efdc7f83ac3dd684adf168b1f9d13d7a4ee52e3db5c1d788bb5"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/heat_generator_led.png"
-hash = "67b5e083c298a22d6d84aeaf0a3d347f3af85bfd6cf025f83783ab0f1aa2404b"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/model/solar_generator.png"
-hash = "6d2b4f8a954adf275ae254b9a1e7218cd26fb40269eb791ddf42081e87802d99"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_controller.png"
-hash = "b0aca7bcc084c23b1675db1a4a6f7b28f1c4a44be11c30c3f90e8ae790b5fbff"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_controller.png.mcmeta"
-hash = "1a8f07e541e8db7136edfc919473ebe5caf05d3a91525ad82a4fcce341d4b8af"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_controller_on.png"
-hash = "191d7ed442dd6370f62312a77f8b3ad17c5b5e1c6aa3e1f82683885e9da9bcbb"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_controller_on.png.mcmeta"
-hash = "21e74e9bf33dc3ab15b756c5d3aba5711ed0bf3789ddb7feb9ffc228692038d6"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_frame.png"
-hash = "79f5e4b4c72a80da0cb12184eb8ef496c6fd38777df271f37195635d437bc4ce"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_frame.png.mcmeta"
-hash = "0429cfebf540aadd7a32f4c27242cd2f25023a90afa5e2b71e038c5bedaea02e"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_glass.png"
-hash = "836899758caee8d2738fd182ffc3129fe08505c5c7c51453f205b9239b3ec9e9"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_glass.png.mcmeta"
-hash = "cd703e2fddb64a8b77c6fe9c859889a7a3617d29915889451f634ecd5edc2f60"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_logic_adapter.png"
-hash = "e4c5523cf1431b54e1f1ecee15d184b10c9bf8a56da72653dc32701c4b27f2e9"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_logic_adapter.png.mcmeta"
-hash = "c311ea1d6f77adf30f326fd1e62f24b7fd1cc566122d3118e2ac65cc8d6e67d0"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_port.png"
-hash = "62a46d91497912284440cb1655ab45999f9872d765ac4ccfed0635d2e9ed039d"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_port.png.mcmeta"
-hash = "af133fc950aca9043fbe65e813650cd3334395b1c3c056f632b61036529a38d4"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_port_output.png"
-hash = "9d62499f881fb3b8109f6d2acc741063a552db34e8cf6e9f6fa4fc4a3b65360e"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/reactor_port_output.png.mcmeta"
-hash = "d1278abc67bc6e7fc60b8b3e198bc08ed05fe2ce9e43b50055dda820ce3c07f6"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/rotational_complex_side.png"
-hash = "e7553fcc17d5d1977519901eb180db7ae92c8370420b1aa2a46912fe77a89e2a"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/rotational_complex_top.png"
-hash = "175c8c28b900eecb00410b76f4b0c4c6e771698b3e789914d54d09df4dbe49bb"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/saturating_condenser.png"
-hash = "5d616cb043a8c68676fe0da482294c3a795d92c2f5fbfad964ee4a6cbec2268e"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/saturating_condenser.png.mcmeta"
-hash = "465f8d9558f18b628598b4dc201f608e68f0075ec3b438e31366a769ed5704ad"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/turbine_casing.png"
-hash = "979e5e2e2380e71fb0685e3e3f6f28098efeb3c3a8e2118e881b4ee48388e4a8"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/turbine_casing.png.mcmeta"
-hash = "e629300b1bb4caa3916c6bd6a4dc925d8f24df7e884f56a2a437579a628ba58b"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/turbine_rotor.png"
-hash = "5d97f14b387cbb8683dd600f4c0bd55faea57b072aa8fdd6a755031847373188"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/turbine_valve.png"
-hash = "240d1b010bc13bc480492ff25d26c3b235f74fde4b6214640d2c2d995ec2e83a"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/turbine_valve.png.mcmeta"
-hash = "14c9d7c9d6e3b1f3581549a7ef866c3ecf9a0295cd0148607b6479d9337a5148"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/turbine_vent.png"
-hash = "f15222e8939f054abebd81f3f27a91d2aa83525a79a652374155ffc204e0e9ee"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/block/turbine_vent.png.mcmeta"
-hash = "41278ec85bd2ba559e59b5016e856bd4f787f0cf33bb9dfc096411d705b88d6e"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/colormap/gui_objects.png"
-hash = "6a3892e2418ee256db96d2812bd2fbfb4aec1d57edff08fd0212f149351a1d4b"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/electromagnetic_coil.png"
-hash = "e9093cafd8cc7243153b019580248d916ed80c3271ca9a44f050b3c96e441175"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/fission_reactor_casing.png"
-hash = "af40c8e2d031c602f4954102bf8d1be41f08017c511b55fbbda9da0767a6e449"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/fission_reactor_logic_adapter.png"
-hash = "32ecfbfefc86c5eaa37930e4ba2e7fdf8f309d6bab66939315feb166895b87c2"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/fission_reactor_port_input.png"
-hash = "e672e5d8fd2b60bc6366a14d867126ccaaa7e90101591ee029393554281d2e89"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/fission_reactor_port_output_coolant.png"
-hash = "f67610ac1776584ea46969a0509c50284404eebf74516cde93b3e19351d7e626"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/fission_reactor_port_output_waste.png"
-hash = "4f646ee6e9ee08e770cbeee0c74d00d41d739532780e4aad5a0e19c0c889c4c7"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/laser_focus_matrix.png"
-hash = "d463ddf59293f85047c663e0be4f33b7265e10da0d63fe7a36db9eaa3b27990b"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/reactor_controller.png"
-hash = "8d9ed579a8b93924bec978f76641cb79936fea21ca121ea087668b6f3a240288"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/reactor_controller_on.png"
-hash = "1f31435c1ba974dda2299753871b21afabced513fa1f9e7468ea0eb10e7c778d"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/reactor_frame.png"
-hash = "61a958e3f4198cc2f565974c680408eb2cca730f2b9dd96b970250420de7cb84"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/reactor_glass.png"
-hash = "f7c3b9d22df3cd77ac8a1e82530378afc6fcdd6dc0f04256a45bf3adcef018cf"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/reactor_logic_adapter.png"
-hash = "1f89131be4186faef4585c24a6f85264829a15a6fa1c89d35534b60f584b81e2"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/reactor_port.png"
-hash = "6ba717e74cc3d11304fcdebb1046d688e1902dc3715ed0c99926a6f4617b9866"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/reactor_port_output.png"
-hash = "3681085fdf8596638868d0398c355072f464dcd40df3fd3f55ab95a2a0d10b6d"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/saturating_condenser.png"
-hash = "458881d1f561bb6cc770d9ed3f3e41074f280c7523a33a2a5d224a2717c531f5"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/turbine_casing.png"
-hash = "fce5b3a8619943b174f2b02d6c187ff4652debb85344522147823678c33a4e19"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/turbine_valve.png"
-hash = "9c075290864f51e5dee7d54126b76e9356401c63e9a562883ab8bc7d569c8aa5"
-
-[[files]]
-file = "kubejs/assets/mekanismgenerators/textures/ctm/turbine_vent.png"
-hash = "6800fe9d95ecb3e02f5b1832473bdc7a5c3ea617060131d07a54b64c615e4240"
+file = "kubejs/assets/mekanismgenerators/sounds.json"
+hash = "e1fef5e118bbfd3a8513247bce4a6800e8366a1bf591db6b4890e9bc4867f9f9"
 
 [[files]]
 file = "kubejs/assets/mekanismgenerators/textures/gui/creative_tab.png"
@@ -4226,6 +1342,274 @@ hash = "ec08820552298aed4cd527be4a17ff8de4cde5bfd6c981598e439a318fdd786a"
 [[files]]
 file = "kubejs/assets/mekanismgenerators/textures/item/turbine_blade.png"
 hash = "7f8ef1a56b9f453c8e55e49682686d2693259ab69384e8934add4f34be812882"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/gui/creative_tab.png"
+hash = "d0c4dadf20bcc1776cbf21ba5d079d54d0b4eacda100045a893f892a11cb5171"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/bronze/axe.png"
+hash = "3643403c3b47fff56eb45ad98f42cfab706d4d44bdab63aaecd3f7b152107e70"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/bronze/boots.png"
+hash = "41073790fab55e7b0e15f90420fbdb6780d132b9f52b1532e44a4586f15901f4"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/bronze/chestplate.png"
+hash = "76c9f77976c46f90804b9e3c8fc569424c1852a9e1c7cd5aba1ed7798811bfcb"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/bronze/helmet.png"
+hash = "c74f93f37223f697e0086c2c8db28ec7702f57081845d365bff1aae82d436652"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/bronze/hoe.png"
+hash = "52317ea4aa71c5e3f3ee2745e4a63bdd5d4d71bdd4d11e706451e0412795af51"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/bronze/leggings.png"
+hash = "e2261af8aac164ecb430a85831e188461e1c939da79bba52b4666c9dc84b2ab2"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/bronze/paxel.png"
+hash = "54c1c7208c2da2c7beb417f5c50a476a1a228725c50498cd58c1dad9a61fbb19"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/bronze/pickaxe.png"
+hash = "b6a44eb8be3849ef6311a657212ddf2a8ceac7a31ff89ad34dfcc75736b8dee8"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/bronze/shovel.png"
+hash = "27353ec6c3bacc793537555e4eeb65b8f3e4fa32f786a3d1cc6a418e496f4617"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/bronze/sword.png"
+hash = "36ae23c8c525b6ac004f777e52cec8699018263c7b6f54224b3103c4d783fd51"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/diamond_paxel.png"
+hash = "098b540abb9ed3fdc4431ce9eccb2f058dde0fbe6c6ca2ed68dfbbec71d7fa92"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/gold_paxel.png"
+hash = "f982c250e3f19b761bd212e1578b31206d1acbc4391cdd69e5f5a07bf2178f42"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/iron_paxel.png"
+hash = "0c297df2c63b0dba8260e2bfc93f55b3c6d82fd503fd266ff743bc1337f6e7fb"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/lapis_lazuli/axe.png"
+hash = "12de34e411cb8a629f2d5932a7ab54333aff8a95bdedc332258d5d0e046831fd"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/lapis_lazuli/boots.png"
+hash = "f1e5ae0038c1e06147f86e36722740b08db5cb1d2db6851ac163b28ffffd866f"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/lapis_lazuli/chestplate.png"
+hash = "fcdadb0cd947a7e6f715f5cf9a5e3487ff1dd5770c85cee05813d0f5074ea498"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/lapis_lazuli/helmet.png"
+hash = "dfdb4b5c631d6e83a6c644f91d46f649e759850e67a983929ae18b8a715f77fc"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/lapis_lazuli/hoe.png"
+hash = "1ba8a63844f13ae1e0ea628740c7a86bc5f52c1732eff9dce1f05bc9432935f3"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/lapis_lazuli/leggings.png"
+hash = "ad037033892f7c38793b335340604214fdc529aa25c77430a99b1d274a80408b"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/lapis_lazuli/paxel.png"
+hash = "9a622c6075da3a700cbfa4ac133fb308c8593d601547de2e1694227e4ee2c986"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/lapis_lazuli/pickaxe.png"
+hash = "cce57fbcb1d049165b9da98fad42e6f3463a9ee2eb4c7a72d94252494d00d80c"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/lapis_lazuli/shovel.png"
+hash = "764954d31630ccd76c82f8714f281d37b83b95bb7cff6e06171ff45758593ace"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/lapis_lazuli/sword.png"
+hash = "5941bdf308cdcbb579773db0105d30c356b690618f3153c52be363035f615721"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/netherite_paxel.png"
+hash = "a44200c13682cce3adc7a437df4f8d6e44c49352ea6ac8dd1f9d8e408a900c0a"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/osmium/axe.png"
+hash = "6d2c241a1ce973468acdd12bda0a23154035b8b34695209690d5f943f552d9eb"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/osmium/boots.png"
+hash = "3654ce0b74c3efc068ab71beacd0aabf281975a0663c37881a6fa59d849c03e2"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/osmium/chestplate.png"
+hash = "56d33140e282358456e92315f84dac44247df501b080b939b7d5f12793dccabf"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/osmium/helmet.png"
+hash = "bd057af688d440ed3016d4521bd2b2d82afad076ed1ecbe6cc24bb87cf0eea9c"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/osmium/hoe.png"
+hash = "174a5829f7a69d9e89f1e03c5429424dd2ea48587e4b1c6f99d720ad7ddefc02"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/osmium/leggings.png"
+hash = "07cdc10c95da15d67d83ce863732f5ac86d1e2f5e8eeb25523025e2d658bfbd9"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/osmium/paxel.png"
+hash = "4ccfadf24b36f98461aa236f257fa1afad9561711a9ffccdda4bc56e5620aa9d"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/osmium/pickaxe.png"
+hash = "f05e7c824b6c48d59c03b9c2868fc57bb77bc21ceb16757e82a3babad120657f"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/osmium/shovel.png"
+hash = "c27e61366800454946608e0d96dfc6440d50a6180260fe616d6f5d7e0b55380a"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/osmium/sword.png"
+hash = "92b01d0b915a4a203232d573569d3cfeacbc09e19b307fe2348b9072b8f7c85d"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_glowstone/axe.png"
+hash = "939e7743ee66d0f083e23e49e8f772cf7b56e93ee7604bf1a5cdcc012a14a8bb"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_glowstone/boots.png"
+hash = "4d9adaf8b8518c90ad421495d73cc558e98f8ccc4aa383b6d7cdfab445e03c8c"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_glowstone/chestplate.png"
+hash = "ed1d15c1a2b98ea19f1651dd99491abab0375a3c09e164e1852d6d596f4434ee"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_glowstone/helmet.png"
+hash = "cc59fb839e6ce603f3b6a8c45da57f7c9cd801e9be97fc6cc663a78068e1d823"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_glowstone/hoe.png"
+hash = "56e3d57ec328444e3281e7afe60fb54645230ec408bacd1fffeebe27412e54f7"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_glowstone/leggings.png"
+hash = "b6328484aca1cdb8e23e2b23d28c956b9da51b709d0435d892c97ec08f0ef6e4"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_glowstone/paxel.png"
+hash = "e2e3c693309b92d488f5f452609a74b661467ff32d6deea776228c3b6c9d1412"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_glowstone/pickaxe.png"
+hash = "c6043b1066b8ea792a5b03bd24ee15befedc84918d05107dfa9f0027b847440a"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_glowstone/shovel.png"
+hash = "915fa1e128288051f894a9716409e486073bdfb8e538a3cc7981218444d0e9ff"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_glowstone/sword.png"
+hash = "39b70d9dda7718f25fb8461b4c9f8dc785013edb6fa835a1470286411f02dde7"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_obsidian/axe.png"
+hash = "90379da258b7164718d69b79193e4a3a7afec6c39a9d6131e1d2f2ffa41d27e3"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_obsidian/boots.png"
+hash = "252c9ddfb2cbc6c1a77a935a108253f3811923afe7bb4c7d9bfcbd63f4af4669"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_obsidian/chestplate.png"
+hash = "f13d9a357f5cfb2262288d6fae4dd849e2b9db9076d5f16ce62b597869273a01"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_obsidian/helmet.png"
+hash = "284d5083bc47146edd683a25248928e9bb73947159c9e3fe626491bf637bd021"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_obsidian/hoe.png"
+hash = "9dcc422afe47c290f833ce6a4eb8dd09eba6d2e83de938a85d09f99931c04e19"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_obsidian/leggings.png"
+hash = "4944ae3dc482727b6a20ab9e81b7af650994c61eaa484fb278357a33d8ed8f91"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_obsidian/paxel.png"
+hash = "8c3d6a36f124727f097d0903d44f311b11e31650fe59b9237b0f7c6b333cf1df"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_obsidian/pickaxe.png"
+hash = "f772fdd28ff494ba7ebda4d5e5b659d6bfec841540b055f518731c7880d1eb60"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_obsidian/shovel.png"
+hash = "1c0dff5373377008559e855fe5899ce93c909fb1e218e1f0f2147f2803309561"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/refined_obsidian/sword.png"
+hash = "5222c483d49ccd6bae2ce80fb564ab0af34bd562c960cbe60b9432f0ce469e05"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/steel/axe.png"
+hash = "f69d6acd9bb37677dbf1cf100f3ae3ae24b60fc08d44402cfb1b87f108657375"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/steel/boots.png"
+hash = "b43c325dcf72c15929ffc2173bc76e7bb8061b73e26a2f81823c164c64f8f29e"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/steel/chestplate.png"
+hash = "2fc22dbe53a0aff5bb2bc227b080232ae1e8ca0acaec5133fb9b6712343ba3a3"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/steel/helmet.png"
+hash = "036b70a14103d50d7478acc9e01e1a9759bcb265f8ce31b1fbf7a53f42ba04a8"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/steel/hoe.png"
+hash = "f8ac335077046fdb773150febd25c2607379ceffb9b584c914320d6d1a339297"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/steel/leggings.png"
+hash = "09da2d52dd85df823a9d6febeeabb2f722630c60cdc85bdfb91d2c8b25e080ad"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/steel/paxel.png"
+hash = "fa3ffa4a7cba9bce78d5095605a220ac555d6292f819b49dec3ac8a2e948f1f9"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/steel/pickaxe.png"
+hash = "8708e412d20bae5cc1082c9cb9ec75ee4a16c0c9038d431987c8ebc352f4bf39"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/steel/shovel.png"
+hash = "a73f3b56db7974e5f32533ac536936194b2147f516152702fbc24f81d8dd6fba"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/steel/sword.png"
+hash = "c725d36756af349c22359f6be983da6cacc843201599cd930aa80a0adf5e9d9c"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/stone_paxel.png"
+hash = "02b8ce464a36fccfcd89b222a3a00d469bd9071005cae9f4ab2c6d92b0cd4566"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/textures/item/wood_paxel.png"
+hash = "ab0cc10c069e2fc7eef65ca6ce30b5fcfd4dbad008b467619944a3163015e718"
 
 [[files]]
 file = "kubejs/assets/waystones/models/block/mossy_waystone_bottom.json"
@@ -4524,8 +1908,12 @@ file = "kubejs/client_scripts/ponder.js"
 hash = "ad28900e7ad90f51204450b0c0eba8c378a7d9c7de9d6829177789d91a68cf18"
 
 [[files]]
+file = "kubejs/client_scripts/rei.js"
+hash = "627c404c7d1c1197e0fb2b21328ca9478b8874ac2c2d41fbf1436fdff12dd306"
+
+[[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "0ea89a9aa35ad900b56d9e3a53187ed16ee648880a257413698955a6aba7c684"
+hash = "ee5bb09a24526c17dc32889f5ff82f4ab947a432177e7a96495773beba7dfe5f"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -4538,10 +1926,6 @@ hash = "225830cfae9ec5ddb984a95ab4ca3dd2acfaef901de212f036b99bf8993a2cca"
 [[files]]
 file = "kubejs/server_scripts/0_tags.js"
 hash = "172360cba7fb147ba8e61251540e4e8a531a4a95a86c917e0be3c484db2ce8db"
-
-[[files]]
-file = "kubejs/server_scripts/recipes.js"
-hash = "3846dfcfdbafb0ea899b6a497b30bebbe74ef6eaf2dc00994e385f0ac2cb1539"
 
 [[files]]
 file = "kubejs/startup_scripts/0_globals.js"
@@ -5302,6 +2686,11 @@ hash = "8036b6395c91194b453dd99221066cd03c7d728b9c9bd861461f63fa582b1e79"
 metafile = true
 
 [[files]]
+file = "mods/literal-sky-block.pw.toml"
+hash = "ce98eb3156593793c70864caf95dc77acaf5fb2885f05b7541418fa1a75227b9"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "9116ead38df9119fa9d8103c214482aedab1505554865cac1b3bd385019076bd"
 metafile = true
@@ -5354,6 +2743,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "3cf8b32aacef32f066de71330c7c2fbba058115dd2d6bd181e468508fa56499c"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "d90b48ea447681cc04482810a0a77c1f2f4b21831abd2bebac81a0628c908e0c"
 metafile = true
 
 [[files]]
@@ -5414,11 +2808,6 @@ metafile = true
 [[files]]
 file = "mods/more-buckets.pw.toml"
 hash = "ed98ba366145b90d1c9c76c7a7b117b915d072a7e67cd294d5bcc1310887fa8d"
-metafile = true
-
-[[files]]
-file = "mods/more-storage-drawers.pw.toml"
-hash = "22ce13d18ed05951fcbc99a68601432f86e6ed19ef3ce545b0b93f737fbc4f27"
 metafile = true
 
 [[files]]
@@ -5579,6 +2968,16 @@ metafile = true
 [[files]]
 file = "mods/respiteful.pw.toml"
 hash = "a4a2a06521f7309c6d5074a40907c7d6c4b3e3e0661f7fb22ed5c3b6e923624e"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "6d39e20b8e9184c1952fa66793c28cb81d2bd6829960d4c82ea0a11dab2b964f"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "2c96d8c8638b2bfc1c0eb129c643f18111d0d05376cb0f0ab88a8cc39c692738"
 metafile = true
 
 [[files]]

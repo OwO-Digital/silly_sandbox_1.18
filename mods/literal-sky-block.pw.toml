@@ -1,0 +1,13 @@
+name = "Literal Sky Block"
+filename = "literal-sky-block-1802.1.4-build.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "485aa2e2455570744274a8d6dc12ed61de3b12aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4407618
+project-id = 569938
