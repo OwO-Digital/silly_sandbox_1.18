@@ -6,6 +6,7 @@ onEvent('item.tooltip', tooltip => {
 	tooltip.add('bhc:green_heart', Text.of('Obtained from the Ender Dragon').green())
 	tooltip.add('bhc:blue_heart', Text.of('Obtained from Evokers').blue())
 
+
 	// Waystones
 	tooltip.addAdvanced('waystones:warp_plate', (item, advanced, text) => {
 		text.add([Text.of('Place the warp plate\'s ').gray(), Text.of('attuned shard').lightPurple(), Text.of(' into another warp plate to connect them.').gray()])
@@ -48,5 +49,28 @@ onEvent('item.tooltip', tooltip => {
 		let name = text.get(0)
 		text.remove(0)
 		text.add(0, name.lightPurple())
+	})
+
+
+	// Mystical Agriculture
+
+	const mystical_colours = {
+		inferium: (x) => x.green(),
+		prudentium: (x) => x.darkGreen(),
+		tertium: (x) => x.gold(),
+		imperium: (x) => x.darkBlue(),
+		supremium: (x) => x.red(),
+		insanium: (x) => x.darkPurple(),
+	}
+	tooltip.addAdvanced([/mystical.*/, /matc:.*/], (item, advanced, text) => {
+		let name = text.get(0).string.toLowerCase()
+
+		for (const [level, colour] of Object.entries(mystical_colours)) {
+			if (name.includes(level)) {
+				let original = text.get(0)
+				text.remove(0)
+				text.add(0, colour(original))
+			}
+		}
 	})
 })
