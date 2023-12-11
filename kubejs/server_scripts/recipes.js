@@ -64,6 +64,7 @@ onEvent('recipes', event => {
     jetpacks(event)
     andesiteMachine(event)
     wireless(event)
+    waystones(event)
     misc(event)
     extendedMechanicalCrafting(event)
 })
@@ -616,6 +617,65 @@ function wireless(event) {
         O: 'enderchests:ender_pouch',
         C: F('#chests/wooden')
     })
+}
+
+function waystones(event) {
+    event.remove({ output: 'waystones:warp_dust' })
+    event.remove({ output: 'waystones:warp_stone' })
+
+    event.shapeless('2x waystones:warp_dust', [F('#dusts/ender_pearl'), 'fluxnetworks:flux_dust'])
+    event.shaped('waystones:warp_stone', [
+        ' D ',
+        'DAD',
+        ' D '
+    ], {
+        D: 'waystones:warp_dust',
+        A: MC('amethyst_shard')
+    })
+
+    event.remove({ output: 'waystones:waystone' })
+    event.remove({ output: 'waystones:mossy_waystone' })
+    event.remove({ output: 'waystones:sandy_waystone' })
+
+    event.shaped('waystones:waystone', [
+        ' S ',
+        'DBD'
+    ], {
+        S: 'waystones:warp_stone',
+        D: 'waystones:warp_dust',
+        B: MC('smooth_stone')
+    })
+    event.shaped('waystones:sandy_waystone', [
+        ' S ',
+        'DBD'
+    ], {
+        S: 'waystones:warp_stone',
+        D: 'waystones:warp_dust',
+        B: MC('smooth_sandstone')
+    })
+    event.shapeless('waystones:mossy_waystone', [
+        'waystones:waystone',
+        [MC('vine'), MC('moss_block')]
+    ])
+
+    event.remove({ output: 'waystones:sharestone' })
+    event.shapeless('waystones:sharestone', [MC('water_bucket'), '#waystones:dyed_sharestone'])
+        .replaceIngredient({ item: Item.of(MC('water_bucket')) }, MC('bucket'))
+    event.shapeless('waystones:sharestone', 'waystones:waystone')
+    event.shapeless('waystones:waystone', 'waystones:sharestone')
+
+    event.remove({ output: 'waystones:warp_plate' })
+    event.shapeless('waystones:warp_plate', [MC('stone_pressure_plate'), 'waystones:warp_stone'])
+
+    event.remove({ output: 'waystones:portstone' })
+    event.shapeless('waystones:portstone', [MC('smooth_stone'), 'waystones:warp_stone'])
+
+    event.remove({ output: 'waystones:return_scroll' })
+    event.remove({ output: 'waystones:bound_scroll' })
+    event.remove({ output: 'waystones:warp_scroll' })
+    event.shapeless('waystones:return_scroll', ['ars_nouveau:blank_parchment', 'waystones:warp_dust'])
+    event.shapeless('waystones:bound_scroll', ['ars_nouveau:blank_parchment', 'waystones:warp_dust', 'waystones:warp_dust'])
+    event.shapeless('waystones:warp_scroll', ['ars_nouveau:blank_parchment', 'waystones:warp_stone'])
 }
 
 function misc(event) {
