@@ -2323,6 +2323,11 @@ hash = "39d0f6e6545a27706197adfed3caf5960947cc27eb644ea8ae9bcb0dd8a5d3de"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "1bc7f4f832f7ead230624d139cad156d1b8c2d43f7e11ce419bd82aed5fc4c85"
+metafile = true
+
+[[files]]
 file = "mods/drawerfps.pw.toml"
 hash = "38ed3d936bd90687546b5e9edce39aaf06f6aead9cdea62b4ee15392d6c855ec"
 metafile = true
