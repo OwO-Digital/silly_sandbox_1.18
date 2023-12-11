@@ -4525,7 +4525,7 @@ hash = "ad28900e7ad90f51204450b0c0eba8c378a7d9c7de9d6829177789d91a68cf18"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "009132420f80d8e32a30a6ba79ed4942b1c6da090ebeecdafb1ef41c7b4944b1"
+hash = "0ea89a9aa35ad900b56d9e3a53187ed16ee648880a257413698955a6aba7c684"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -4541,7 +4541,7 @@ hash = "172360cba7fb147ba8e61251540e4e8a531a4a95a86c917e0be3c484db2ce8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "789a1e15011a583a24fd4b898c3f5d23d84b66e355c91a14cf9a86fd4b00781b"
+hash = "3846dfcfdbafb0ea899b6a497b30bebbe74ef6eaf2dc00994e385f0ac2cb1539"
 
 [[files]]
 file = "kubejs/startup_scripts/0_globals.js"
