@@ -1,5 +1,10 @@
 // priority: 0
 
+settings.logAddedRecipes = true
+settings.logRemovedRecipes = true
+settings.logSkippedRecipes = false
+settings.logErroringRecipes = true
+
 // Based on Create: Above and Beyond scripts
 
 // Mod shortcuts
@@ -718,6 +723,44 @@ function misc(event) {
     ], {
         L: MC('#logs')
     })
+
+    event.remove({ output: 'reliquary:emperor_chalice' })
+    event.shaped('reliquary:emperor_chalice', [
+        'GSG',
+        ' G '
+    ], {
+        G: F('#ingots/gold'),
+        S: 'bloodmagic:watersigil'
+    })
+
+    event.remove({ id: /reliquary:alkahestry.*/ })
+
+    event.replaceInput({ id: 'reliquary:fertile_essence' }, MC('green_dye'), TE('phytogro'))
+
+    event.remove({ output: 'reliquary:wraith_node' })
+    event.remove({ output: 'reliquary:fortune_coin' })
+
+    event.shaped('reliquary:fortune_coin', [
+        ' G ',
+        'GMG',
+        ' G '
+    ], {
+        G: F('#ingots/gold'),
+        M: 'simplemagnets:advancedmagnet'
+    })
+
+    event.remove({ output: 'tiab:time_in_a_bottle' })
+    event.shaped('reliquary:fortune_coin', [
+        ' S ',
+        'SCS',
+        ' B '
+    ], {
+        S: 'ars_nouveau:source_gem_block',
+        C: MC('clock'),
+        B: MC('glass_bottle')
+    })
+
+    event.remove({ output: 'utilitix:linked_crystal' })
 }
 
 function redstone_circuits(event) {

@@ -1,0 +1,13 @@
+name = "Observable"
+filename = "observable-2.2.3-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYRu7qmG/versions/2.2.3-forge/observable-2.2.3-forge.jar"
+hash-format = "sha1"
+hash = "78fcd467158ac2d1dffe6e31abda24ad5664f723"
+
+[update]
+[update.modrinth]
+mod-id = "VYRu7qmG"
+version = "AGjJcbYQ"

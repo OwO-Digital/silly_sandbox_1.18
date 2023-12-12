@@ -1,0 +1,13 @@
+name = "Showcase Item"
+filename = "showcaseitem-1.18.2-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P5Jjjezm/versions/1c7RPeoe/showcaseitem-1.18.2-1.0.jar"
+hash-format = "sha1"
+hash = "20efd6207263802c1d8f3213a66bba71c19fee7a"
+
+[update]
+[update.modrinth]
+mod-id = "P5Jjjezm"
+version = "1c7RPeoe"
