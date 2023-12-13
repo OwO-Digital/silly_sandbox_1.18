@@ -221,4 +221,125 @@ onEvent("ponder.registry", event => {
         scene.markAsFinished()
     })
 
+
+    event.create([
+        "mekanism:induction_port",
+        "mekanism:basic_induction_cell",
+        "mekanism:basic_induction_provider",
+        "mekanism:advanced_induction_cell",
+        "mekanism:advanced_induction_provider",
+        "mekanism:elite_induction_cell",
+        "mekanism:elite_induction_provider",
+        "mekanism:ultimate_induction_cell",
+        "mekanism:ultimate_induction_provider",
+    ]).scene("induction_matrix", "Induction matrix", "kubejs:induction_matrix", (scene, util) => {
+        scene.showBasePlate()
+        scene.showStructure()
+
+
+        scene.text(60, "This is an induction matrix", [3, 4, 3])
+        scene.idle(70)
+        scene.text(80, "Think of it as a large battery that can store thousands of GFE", [3, 4, 3])
+        scene.idle(90)
+
+        scene.world.hideSection([1, 1, 1, 4, 3, 4], Facing.UP)
+        scene.idle(15)
+        scene.world.setBlocks([1, 1, 1, 4, 3, 4], "minecraft:air", false);
+
+        // pillars
+        scene.world.setBlocks([1, 1, 1, 1, 3, 1], 'mekanism:induction_casing', false)
+        scene.world.setBlocks([1, 1, 4, 1, 3, 4], 'mekanism:induction_casing', false)
+        scene.world.setBlocks([4, 1, 1, 4, 3, 1], 'mekanism:induction_casing', false)
+        scene.world.setBlocks([4, 1, 4, 4, 3, 4], 'mekanism:induction_casing', false)
+        // bottom square
+        scene.world.setBlocks([1, 1, 1, 4, 1, 1], 'mekanism:induction_casing', false)
+        scene.world.setBlocks([1, 1, 1, 1, 1, 4], 'mekanism:induction_casing', false)
+        scene.world.setBlocks([4, 1, 4, 4, 1, 1], 'mekanism:induction_casing', false)
+        scene.world.setBlocks([4, 1, 4, 1, 1, 4], 'mekanism:induction_casing', false)
+        // top square
+        scene.world.setBlocks([1, 3, 1, 4, 3, 1], 'mekanism:induction_casing', false)
+        scene.world.setBlocks([1, 3, 1, 1, 3, 4], 'mekanism:induction_casing', false)
+        scene.world.setBlocks([4, 3, 4, 4, 3, 1], 'mekanism:induction_casing', false)
+        scene.world.setBlocks([4, 3, 4, 1, 3, 4], 'mekanism:induction_casing', false)
+
+        scene.world.showSection([1, 1, 1, 4, 3, 4], Facing.DOWN)
+        scene.addKeyframe()
+        scene.idle(20)
+
+        scene.text(70, "The base structure has to be built out of induction casings", [1, 2.5, 4.5])
+        scene.idle(80)
+
+        scene.world.setBlocks([2, 1, 2, 3, 1, 3], 'mekanism:induction_casing', true)
+        scene.world.setBlocks([4, 2, 2, 4, 2, 3], 'mekanism:structural_glass', true)
+        scene.world.setBlocks([1, 2, 2, 1, 2, 3], 'mekanism:structural_glass', true)
+        scene.world.setBlocks([3, 2, 1, 2, 2, 1], 'mekanism:structural_glass', true)
+        scene.world.setBlocks([3, 2, 4, 2, 2, 4], 'mekanism:structural_glass', true)
+        scene.world.setBlocks([2, 3, 2, 3, 3, 3], 'mekanism:structural_glass', true)
+
+        scene.idle(10)
+        scene.text(70, "The walls may however be built out of structural glass aswell", [1, 2.5, 3])
+        scene.idle(80)
+
+        scene.addKeyframe()
+        scene.world.hideSection([1, 3, 1, 4, 3, 4], Facing.UP)
+        scene.idle(10)
+
+        scene.text(40, "For the structure to work...", [3, 3, 3])
+        scene.idle(50)
+
+        scene.world.setBlock([2, 2, 2], "mekanism:basic_induction_cell", true)
+        scene.text(60, "you need at least one induction cell and...", [2.5, 2.5, 2.5])
+        scene.idle(70)
+
+        scene.world.setBlock([3, 2, 3], "mekanism:basic_induction_provider", true)
+        scene.text(50, "at least one induction provider", [3.5, 2.5, 3.5])
+        scene.idle(70)
+
+        scene.text(40, "Empty blocks are allowed", [2.5, 2.5, 3.5])
+        scene.idle(50)
+
+        scene.addKeyframe()
+        scene.idle(10)
+
+        const tiers = [
+            'advanced',
+            'elite',
+            'ultimate',
+            'basic'
+        ]
+        const time_per_tier = 20
+
+        scene.text(time_per_tier * tiers.length, "You can use any tier you want, but higher is better", [3, 3, 3])
+        scene.idle(time_per_tier)
+        tiers.forEach(tier => {
+            scene.world.setBlock([2, 2, 2], `mekanism:${tier}_induction_cell`, false)
+            scene.world.setBlock([3, 2, 3], `mekanism:${tier}_induction_provider`, false)
+            scene.idle(time_per_tier)
+        })
+
+        scene.addKeyframe()
+        scene.world.showSection([1, 3, 1, 4, 3, 4], Facing.DOWN)
+        scene.idle(20)
+
+        scene.world.setBlock([2, 2, 1], 'mekanism:induction_port', true)
+        scene.text(50, "Use induction ports for input and output", [2.5, 2.5, 1]).placeNearTarget()
+        scene.idle(60)
+
+        scene.text(70, "The mode must be set with a configurator", [2.5, 2.5, 1]).placeNearTarget()
+        scene.showControls(70, [2.5, 3, 1], "down")
+            .rightClick()
+            .whileSneaking()
+            .withItem('mekanism:configurator')
+
+        const toggle = [
+            true,
+            false,
+            true
+        ]
+        toggle.forEach(state => {
+            scene.idle(20)
+            scene.world.modifyBlock([2, 2, 1], (curState) => curState.with("active", state), false);
+        })
+    })
+
 })
