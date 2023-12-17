@@ -1,0 +1,13 @@
+name = "Item Collectors"
+filename = "itemcollectors-1.1.8-forge-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y9vDr4Th/versions/OsQboxNh/itemcollectors-1.1.8-forge-mc1.18.jar"
+hash-format = "sha1"
+hash = "8ee8b64f70c8c74143e71f68bc349b13c7a6605c"
+
+[update]
+[update.modrinth]
+mod-id = "y9vDr4Th"
+version = "OsQboxNh"

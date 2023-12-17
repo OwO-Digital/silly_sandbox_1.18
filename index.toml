@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "839d124af188d929d706a797ab81d96d6c15eddf3687c4b947a21da65bd54ca5"
+hash = "da5479e17b595673cf87f04e05cd41d0f3bad52152e691e932157d2cbf370e4e"
 
 [[files]]
 file = "config/defaultoptions/extra/config/justzoom/config.txt"
@@ -71,6 +71,1262 @@ hash = "80136b8f719a38913a6141952948aa4b19f1e5511adfb9fe145f6675825af795"
 [[files]]
 file = "config/ironjetpacks/jetpacks/wood.json"
 hash = "b068e8d5879dbf88f5f51fd1bf720ec8866f87c74daecfd8a2742527f654c85d"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/cable.json"
+hash = "dd1f0222661fdc4ed5b30d35fd9febbae1b51a8e4ecc15a469c61773833d5ffb"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/computer_advanced.json"
+hash = "77b7688c3356e8b485798d52b40d5f8ca9aa79ef01409ef169cad2595a4a0762"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/computer_command.json"
+hash = "da89ebc0dee45fb4f777b4f0968bcef918d5d188762ff94261b5109d12b6252a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/computer_normal.json"
+hash = "aecaeeb80dfa4625652c9c7d622f75bccc87ae69c80a41935b413255c8be163d"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/disk_drive.json"
+hash = "66305cadd28e921ff2551bc5e285260152252c6f2e1236f0626eebf7fda15668"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/monitor_advanced.json"
+hash = "5da074f8b74b7419fefce26e9ff9d248807a6db15e5f2d9914430d976425b8b2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/monitor_normal.json"
+hash = "9c16e40515a448faff3dfda9729dc6f71e6bb913074028a86ffe7b31c665ba90"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/printer.json"
+hash = "2a2de0e9fd6d22f9aca5dfa9bc58b2b3d3eab7935530d0ef4336bca1d3716d86"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/speaker.json"
+hash = "82e543f09d037df3c779b514cdf96d518d5388b269256e1570a870df8ddbc876"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/turtle_advanced.json"
+hash = "07f06442e49ebb2c6c671c47048d5ee97a15789c8c4baa1dfd32403a8ed8db48"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/turtle_normal.json"
+hash = "4f7d01d3df115102a5724d9b364e8633dfe60c6486ba05b8b59b9a8dd76cf12e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/turtle_normal_expanded.json"
+hash = "adea837f09ba714a6d8b2eb9429a7cda3824a2ca8b8160fde5ef5117fb07a7aa"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/wired_modem_full.json"
+hash = "ed5264d1d9f7e878aeca3bcab3868b4b1512c2a4715eb9e33696dc50c409af55"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/wireless_modem_advanced.json"
+hash = "fa05e5fabfa2de2aababed869c715ffdaa3145b2d0194ced671ea766703b3bf8"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/blockstates/wireless_modem_normal.json"
+hash = "35faf48dae476b2688dd31f1bfb6439969116e05c33104e5474745e2f80b92df"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/da_dk.json"
+hash = "af71bdb49f5dca744acb822d4b5b7e6e2506aeed399df325a719f25c5d0464a5"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/de_de.json"
+hash = "f75677d9279b177fc6e230db88c51106a3d31cfd086c836bf9fa09d58649c411"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/en_us.json"
+hash = "5327325de5cdb1abf58ea483e8c8091b2ba4124467ad80cff93856d3408a62cd"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/es_es.json"
+hash = "4c352af9a255649ee1e0a80f4c2ee17f5ea72e8f1b32dbb6934bd0183810c594"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/fr_fr.json"
+hash = "aa5d99dc7eb03f6ed0c4a7c85544ce5140b1a8620991fc94d05e8c7440632191"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/it_it.json"
+hash = "db6cb7da60204fb7c2dbdb1b8ca0e9210e2b781aed038cabc91096fd22a0ed33"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/ja_jp.json"
+hash = "6c76cac5424a7952631c18c839ba0a9a6b82da8185679ebda0495accdb9aeace"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/ko_kr.json"
+hash = "f66af27f0b9a027ffed9f8e8a8d6fc318defbf54c825eb910821cca5a3efc0f5"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/nl_nl.json"
+hash = "cdae7522f02a9a706d2d7967d9713eadc151f222414b53f4a03e757d4754cbc1"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/pl_pl.json"
+hash = "d4a20239138f35d85506207ea0a939c31ec93807db28b42cf866bfb86e5e537f"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/pt_br.json"
+hash = "5adee4017059d6a9c95273975ff725559c782a43c8c032876062fd4dbc9b3833"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/ru.json"
+hash = "a3932fed563824ae4bf4583533995be436360cf49faca4bb03992c1b52384559"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/ru_ru.json"
+hash = "a9bba0e66eaed6c55b20aa03025aa6bc617cb2a2e76ad250293c229054107968"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/sv_se.json"
+hash = "db9cbbbddffa4eb847133e1237635ac8fbfe7811ee677f39a5bb20096ff6432d"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/vi.json"
+hash = "0da5986f24d01878e5b24f9bf727fb02dc5f9d2613a4499a9f5af0531ee2fffe"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/vi_vn.json"
+hash = "4d4c39b967870325b081c9dffc5427f37a3676825213fe02558e27a48148f369"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/lang/zh_cn.json"
+hash = "e4e1c2bf6960522d28f2f1b27cefeea8e59ddaa969518adb9caaa4c66b346b85"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/cable_arm.json"
+hash = "5cd39610ba66022b3079926bb76c2f6bc53d976d667894c02b3fc2ca91a38547"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/cable_core_any.json"
+hash = "a4529cb13d58e97ace61e68b69eddb24a2ed20ad5b4262fb8288029ffb15e7a6"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/cable_core_facing.json"
+hash = "ea57637a440337b0c146577c11ebb940376ad1f5739faa1218ccbfad83a7026c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/cable_item.json"
+hash = "835243b4decba5091d135017400b0707b2889d277eb6415f667ecf5eb562c90f"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/computer_advanced_blinking.json"
+hash = "cbf4f67b57a199a1dc85ed5fe07742cfb22c2368e226d7f28e7c8a7282e11f59"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/computer_advanced_off.json"
+hash = "d4f9fdd3015a4aa0c5c36f40ded20e460a7385229c1a7ba5bac340fe04b0275a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/computer_advanced_on.json"
+hash = "ea08074ad529f0fb3b199b8a562375dc269c9c217d8b05b2d8465c316e4ef9a3"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/computer_command_blinking.json"
+hash = "f3c9ec4119b618d420907164abbb2da3c38e95727bd7646c378db83d32b7bc5c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/computer_command_off.json"
+hash = "57a44756c9b98317b2c3f3772e084962d7bfd3c96c03380a9e2f8fc5a6643742"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/computer_command_on.json"
+hash = "11908d496f6f9501a3dbd27fe1ca286235f22c2c7634587500c355105f1287b0"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/computer_normal_blinking.json"
+hash = "5b6e122c247138d6fa42b6b8cff4ab312638bcbf1a3640d173065f3b7be242b4"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/computer_normal_off.json"
+hash = "dd36d46092036b520abf1588fd70afb04230d97b0f8def17d2a925b34f763784"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/computer_normal_on.json"
+hash = "ab631281ef0c672ab4db1174fb8961a839fb0d00702bae898cee6b5854c94be4"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/disk_drive_empty.json"
+hash = "500585fa7bac8c70f7011bb147ef399aedbb00f5995010cfff1252a0248ed03c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/disk_drive_full.json"
+hash = "7036b8a9bdebda994f7d4f2a37199153ff6821ff377b286606c9f5177766c250"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/disk_drive_invalid.json"
+hash = "11122ac3a375d4252f4ed9f7383320855d4d38897a5f78b4041b427f64879d5f"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/modem.json"
+hash = "561f37eccf8deec6d98e62477950799e7b52833b5f7056ae232ff68af6142e0d"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced.json"
+hash = "f27beece72e52d8ba109305c5d9f816596e07142816c4fbabc30a0e87125b31c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_d.json"
+hash = "913591f2255b8f0eb45faf2ce694e7b2459949c04db314559587d3509c2f4160"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_item.json"
+hash = "440a16f1ed8c8160017e3ef7a43389d080b24bdc41991bd68fc3cd92959b1142"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_l.json"
+hash = "4a5d5722223806f60f8072de57ea36874802adf800853cab7621280b1a5aff61"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_ld.json"
+hash = "e27903627d5edb31e79fe3ab8b7f56f9cc99bb2a97d72336d97958e89324477d"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_lr.json"
+hash = "1fb2e4844971c3f2728a65af6b57ed8c53ccc11f7b5e2d4d1830ce56cd818658"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_lrd.json"
+hash = "50356cc5787b6a455f866f0f34bd3120e099ce0354cfee8dacfcfa986469a275"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_lru.json"
+hash = "2949ca891281c033bc0c832b3064e80097a7b8ca3625733ddc6f36373ea95f57"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_lrud.json"
+hash = "3197f954bc82fa890b1b330534317ce20d9c114a12f26e2f876c68513d0dccb3"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_lu.json"
+hash = "cfd91be586f2411807f82d20f4366c5dda510799729389b56c579083c372a072"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_lud.json"
+hash = "96efd52cedcb7b4669114c006b94fefc4f76ee4e9ef705ebce8de2fd11d9ac67"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_r.json"
+hash = "c155ef755caf8ff82158a8afb2530fc843dff3cd277c0163e642ba1bcfe20ad0"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_rd.json"
+hash = "739903336d8336ef148062c1e565cdc99e6d49fc5ba83382dc55df756af483c0"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_ru.json"
+hash = "0f95be6cd726f4f5cf28f032f9272dd7898b901a1e98408274d2383cf68d06ab"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_rud.json"
+hash = "4335d4ab1e2014f58e46cf0c6de8a83449a42ca47bdd65b0f16472a89fbcd511"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_u.json"
+hash = "0a661c9ec78bcd710606c59ebe8e3b50c6ac9060be7b47daf50512d101ab017c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_advanced_ud.json"
+hash = "7460337d84825608892509561fbfbc0d046812234cb053167c58557ca0ca6194"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_base.json"
+hash = "ca6618b374179fb1a91d16fcd72df8a6ae8b9ab1f255cbf5a3117f3fa023b0da"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal.json"
+hash = "7bd1a8c00f81ac56f166ff537072d290b4d973b4a1c640f6fa111032a9f1f40d"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_d.json"
+hash = "8a7a3e0c4e94e9c8ceedc54ef1c261038a71d994616dbeec1751a6080a422880"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_item.json"
+hash = "703664b41ca87340a51075deca8e603d951d2bb08736c46fb193dd664e444cc7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_l.json"
+hash = "92bc0ac50938cfe8419412e5d8194216545da128f1723f493bfb38c01d57d513"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_ld.json"
+hash = "fdcb43e509d709b4b974556351a3088660a74dd2e09ada41a4b1a3f38ba9f763"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_lr.json"
+hash = "1df8ef04cadd6d5c273b61944f7975fdf209ebb69d4af20ac9278534beee9b36"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_lrd.json"
+hash = "b9f047c79d8f67d9bd840165529e58bb5114db1e925443c7a1ab5a6889bfd2a8"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_lru.json"
+hash = "94dc4de013327307557808814a5714bff3cbc731c7c8328c26ee0dc32148a94b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_lrud.json"
+hash = "0295107c10c93d3d9c589a37647307896429ef51516451624aeeea77ddef77fe"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_lu.json"
+hash = "ea32065d260d603bb6d3ddbb411bd2306ee4b5d1a70332ee57ba95331f544b92"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_lud.json"
+hash = "3cef25aab7e316ffc4334f4742fe3f1a3f330384dd077d1684f92d73900eede8"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_r.json"
+hash = "6f09ca1bdb132ff21ef415b2f848c92fb514ffe594a47b81e824a9b29e6d5665"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_rd.json"
+hash = "dd7fca673bbed2c7f4588d105a710b431c66b00f3c44808643dca388fb579640"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_ru.json"
+hash = "82792154772397b3dd8207fa1168e1e159dd971ed3eb6be776c9e64d468922d2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_rud.json"
+hash = "ea655096aeadddfa9052cc11abab15ad1eebaad91f7caee5070b4ebf87b87473"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_u.json"
+hash = "9305a197afe25136a4f3fd67b8efd1f8d61c0113aec53ec3713f46db2f459017"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/monitor_normal_ud.json"
+hash = "8ee1f6539ea6b5d853b3e455311fed684dc0e8c0bf4744018969ac202437e9a2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/printer_both_full.json"
+hash = "a261f10363c4c06b938b4b63096409930b1a14ef9c23360f419cc1e19f5b6a88"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/printer_bottom_full.json"
+hash = "39a8b5e287b9d4b23b103d0eaede0aa9ec69e965450f4cc53f7be38d646c3d96"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/printer_empty.json"
+hash = "3c6c1b771ef6cc0ab02be5743c1b66057b8dafcfe2820b71e4c8b492e5de81c8"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/printer_top_full.json"
+hash = "72e3533d141a457c81150291df7be52914fb16dfb77faf8a8a4549ac78a4fba5"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/speaker.json"
+hash = "6c1cf672aca60c7697c8511e712ac4a4221523feeecf5ee1f623e6f804c9fe93"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/turtle_advanced.json"
+hash = "6a0bad0a19360d35dc41519c953b40a1b9de80b55785f006285ad854b278a390"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/turtle_base.json"
+hash = "d972431bfcacb5822b596591b1a910ff72791c3df60ec6fc8f4afb2c8b63225f"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/turtle_colour.json"
+hash = "9f517f0de7774adda15169845db81d4de343f43148e53056eb989230dd1e75cf"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/turtle_elf_overlay.json"
+hash = "fa8dafb05038fe5bfdbfc7320f6c22b8133b66933fedd37a028b78914b7861a9"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/turtle_normal.json"
+hash = "4765e565d68278658f3a85a17437017dd71df166c363c17ffc2600c547f51546"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/turtle_normal_overlay.json"
+hash = "287fb6e42264f2b0469ba79ec13543e8f6aef78ad98cbe38c4735282a2ee4897"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/turtle_upgrade_base_left.json"
+hash = "8905a974efc181d2c9e14c8280becbbda575a831661e851482032f0cb47b0579"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/turtle_upgrade_base_right.json"
+hash = "55b04ff60f50c968768aeca7035f7f040b1f58accefd48932b17d0a1c807e856"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wired_modem_full_off.json"
+hash = "5f0b507be76148dc5970611160359da2d8b108d263541ccce071bd049a16dd6b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wired_modem_full_off_peripheral.json"
+hash = "7fa4c22df5de602d9df7ef5e9720e1a345357314e9cf1595d3b00a5490cfb2be"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wired_modem_full_on.json"
+hash = "e8ccf34c764f22813bc460859a001840cb763bc9c532a95471deb8b79c85fb07"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wired_modem_full_on_peripheral.json"
+hash = "2086edbbd0d8a52d325b2a71477dddc55f80990ceca054a95fdcbea91b1fabcb"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wired_modem_off.json"
+hash = "ba12101926bf09ba66fa3054c6c3377db672a98f58beefa9909a57cc5d35d42a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wired_modem_off_peripheral.json"
+hash = "19da48ffc22d2d0f877b9eb50d874a0af5fef88185e86fa92d32d8fd3ad9f555"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wired_modem_on.json"
+hash = "15ff6de63e4050874ac220bf9a24c1f685f9d72e1f37ded0bff745c252d01708"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wired_modem_on_peripheral.json"
+hash = "48a68d8976ac0b9d757958ab17886c808e2f8c8a142b962eb01f98c5704fbdc1"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wireless_modem_advanced_off.json"
+hash = "ce4ffdfa8fd363816def3a6a45db97b85b332947f22215b4343d77e0a865076a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wireless_modem_advanced_on.json"
+hash = "a7db24eaaba2e6d41a0536bf0e723417a70a1641a1c3a922d97046ead60913fa"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wireless_modem_normal_off.json"
+hash = "4f0b879b2549aa03fffca4a9d603ad9b052df194ab19d39446fd95b8eab32997"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/block/wireless_modem_normal_on.json"
+hash = "4fc9709c0d712636d7273476de02e41fe1a10b294d97779477a97842ec8ca6cb"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/cable.json"
+hash = "835243b4decba5091d135017400b0707b2889d277eb6415f667ecf5eb562c90f"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/computer_advanced.json"
+hash = "6a5d0dc69969cf1ce2741775248dc065c9d13a49704c3d2d41fcee4781c9f078"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/computer_command.json"
+hash = "a4167871e23c092bc3f4e3c769e1f2637152e216640344a611a8959b1ec74cf6"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/computer_normal.json"
+hash = "8ff84b457cf259e364ad05f83be842d9b0b644038c64ca6e1eabac22a2ca06ad"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/disk.json"
+hash = "a2f183aa71378fafb150b9bdb471576043b9ce4c956a38964c5981c5f8c250d2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/disk_drive.json"
+hash = "4e3526d00063449d5320e506def2f067295c621e161443773976108380f8fcb5"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/monitor_advanced.json"
+hash = "665b8d9e1d0f1594733be060590fe4db54d263143b736bb6433e64a02c14c54e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/monitor_normal.json"
+hash = "6f93faac712f147e8f66a05846d7fc4729cafcf062d9b9ab503b9ad1c295d26b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/pocket_computer_advanced.json"
+hash = "b32e7baec192e1a7cefdbc8ae66f42e653e3febb9081abccb272d4955c5bf522"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/pocket_computer_advanced_blinking.json"
+hash = "11d68b8cf1c782c61e2f72e7ffee31b2a4b0b2536a45024274bb7c0c4c2176c6"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/pocket_computer_advanced_on.json"
+hash = "8824ba6b36979f424581abb10456d0b8db9a9bdae5162c1523d6c938d1ffd16e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/pocket_computer_colour.json"
+hash = "4853f10647689371e5abc87100d56be5c59d21d32a79b3a706a4feb8032dfb7e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/pocket_computer_colour_blinking.json"
+hash = "f6ef5cc79d5479f89da717c6ba550512abcd2c735a535f2f5b2ae53d7e03821c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/pocket_computer_colour_on.json"
+hash = "1b25940f8d79f79cc6e7bd5c7a5e7d6d8c7f85726bc2568191be9f62cddc65ea"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/pocket_computer_normal.json"
+hash = "fd4d09bc9ebee155d0d450dbf7f75b4eab9083969634fce15d167a93a872230c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/pocket_computer_normal_blinking.json"
+hash = "23d674e7eb86a2e87619e612c84aa8414a0c3606279e9a7926e492c907b96290"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/pocket_computer_normal_on.json"
+hash = "72ab37a4ab5cf283c5972e3025511aa5327b5c1ef5ecad5a63874c5a8a5a0305"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/printed_book.json"
+hash = "19ec593552521e8042856981af96b9c44831f62e218a59b83b20f1bab43a3b73"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/printed_page.json"
+hash = "065c4c530b96875b0566d5c54fbc8e22ae27ea60889a0f288690af61d517f6ba"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/printed_pages.json"
+hash = "2c9d09d674c911b947ebc43b4999dbc559a3b4eb744f85226127d8126ab21a45"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/printer.json"
+hash = "12bf223fd4b4280ac24786c48009fc671d55177cffdee59ce3d9ddc912bbd497"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/speaker.json"
+hash = "9deda97371ed40f6cf04d38f493f1b63f272f58385f646cf9ba609153c6430c0"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/treasure_disk.json"
+hash = "a2f183aa71378fafb150b9bdb471576043b9ce4c956a38964c5981c5f8c250d2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_advanced.json"
+hash = "45bc44c1e97c1c3591a6bd87af44f7d444e4957717aae28e75d5bbca605497fb"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_colour.json"
+hash = "163e85ce68128a6ae7770263449974856300f81568139429d034c67035d546dd"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_crafting_table_left.json"
+hash = "752bd0c5c037850d86d81a2bc1c2666ef7bbb5fd82c34d21055c65b8989d8af7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_crafting_table_right.json"
+hash = "d6b0bf35a1a4ba63a793c13e0bbd974f8c7dd60f842722e2dd3680c2b9ac5995"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_elf_overlay.json"
+hash = "2e4b136c13bb499bb12abbdc883d7d5ade438d6d329ec10d29ef3763d3c310a0"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_modem_advanced_off_left.json"
+hash = "9a5257eb06e6006dacf4f0d0966bffd3f17a1b36febce43bfd3a2daf0c6fec72"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_modem_advanced_off_right.json"
+hash = "ce6da000ec9bd3420c4dc73be8ab4184065a1fbf75ab5f90aa5f79f30b403cff"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_modem_advanced_on_left.json"
+hash = "54600561904b13d01563f89a9db78f4359c12466fe0155dc2bfeef95efcc04fa"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_modem_advanced_on_right.json"
+hash = "1f4a27e4f32404b3abacc68cc899f014beb6bbd8477b7e64f79c6015fc8dd07f"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_modem_normal_off_left.json"
+hash = "f75e5bfc5332c6f28495df085afb8d2281ce782d9f0014c450fcd91659635794"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_modem_normal_off_right.json"
+hash = "dd19a5c57e0d0953cee4cb44fc56e0db191544ecd55d3f7ab965114733ef1e22"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_modem_normal_on_left.json"
+hash = "6ef7ee4cb74202f14293a6691231482a5c03faa8623823b959502b3aa12f342d"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_modem_normal_on_right.json"
+hash = "756011b34c634bef2ed7b0c76c1b44b36da32a8339184fbeff40b060760de538"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_normal.json"
+hash = "49da8692cadede3e6fcfa5ab52373baf5594f38e9704460eecb5f4edc33b77cc"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_speaker_upgrade_left.json"
+hash = "2cecca415afc7a3bc362e0d776e639575c8a6ac39bf395b21e54733109c55f4b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/turtle_speaker_upgrade_right.json"
+hash = "6361b13093e0e08496cf0146a842045b09a5752c7e7d90937b15b85bb1a9dd1b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/wired_modem.json"
+hash = "8d729be3285f3350df6b769ad87498e64b4892664b9e537e57ca8bbf9ec1bf32"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/wired_modem_full.json"
+hash = "ca7d142f75aa635065d39f90bdc5d7ebe2af742e6305e55c0634d4f01f61f40e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/wireless_modem_advanced.json"
+hash = "3747c40a5cd1b7d779307405e4a725f2dc1b3bc81c4ead7e23541e69e3d9ee87"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/models/item/wireless_modem_normal.json"
+hash = "80a1f722f0ab3bc157a2eb9ecbbb7be742b51cc1935547d08a6b29fe11b111ff"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/pack.png"
+hash = "22b64e8d9599b0e657fe2e5d9d805c32b4ec727584b108949862690820eeead8"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/sounds.json"
+hash = "e2773a5d33adf85f32e1f83da6372a94bfeb3412ef94e0d02ff12b7d815f97f3"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/sounds/empty.ogg"
+hash = "6e52acea96711cd4613b40d2ceb4f663babc0a9f5d010a748a8ad9a83f6226aa"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/cable_core.png"
+hash = "e6b0b8ab053c5421f918bfc77a61b6fa9a3c9c570bc16f1ade09c879d943decf"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/cable_side.png"
+hash = "cde4a272c396bd2d4c3f6394d67e3616281baf4dca743b0271c29b3378050ac8"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_advanced_front.png"
+hash = "e2dadf1198e2f0ec02aca798d746da217d4c1d412ebe7c764a4d826b32c0a0b6"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_advanced_front_blink.png"
+hash = "8b3af7d0079061d232f21d2d1e2fac0a651b458220e361da8c4debc602680e2e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_advanced_front_blink.png.mcmeta"
+hash = "cedb1e67aa152a161a26b225b5787021757e12d0ba0f5a2964632095cd801d19"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_advanced_front_on.png"
+hash = "92ef55eff278cbcbb578381743c0b5a5ab6168ea29fdb975c30c1558ac1f19f6"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_advanced_side.png"
+hash = "70634823240d34de23f7e2870c668ddca743bd3235ced65babdd72de16af5ff7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_advanced_top.png"
+hash = "b5c90b1bafd03da4491f5dcb08b9bf2ac0d6e50ccac5102506c9ee0a2df306e3"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_command_front.png"
+hash = "6bf62fbba654289ef3d6dfddf596e06f5564b8356be53f0d226b4243fb025986"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_command_front_blink.png"
+hash = "d070cbbc87305685aa160693005ad869d6b973d51be8fc7f62a0f1001ff7ddd5"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_command_front_blink.png.mcmeta"
+hash = "cedb1e67aa152a161a26b225b5787021757e12d0ba0f5a2964632095cd801d19"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_command_front_on.png"
+hash = "16474a7153d509fce1407c0915610749e7edc8b031bf9b10bfa5c8b6a541b7a7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_command_side.png"
+hash = "732b36f02174033566b952e1df3fab6606f5d3b13a3beee930539ff496eaf3aa"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_command_top.png"
+hash = "cf32bbcc75f30ea56e4abd6e936757be4178dd5c3174b3d3f6689c3503d46f3c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_normal_front.png"
+hash = "03fafe86fb3a749ec47d774539ad5c0a2190b71e42ec9b8cd8beb43c30d43b4a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_normal_front_blink.png"
+hash = "51324f401a64748c73d3f01a8f64f53ba0f0faec3a951d4552cfac5fadd63782"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_normal_front_blink.png.mcmeta"
+hash = "cedb1e67aa152a161a26b225b5787021757e12d0ba0f5a2964632095cd801d19"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_normal_front_on.png"
+hash = "dcf7af86136a12d8799f03a1442211f1e2f2c001db5d71faa02845f1bab8980a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_normal_side.png"
+hash = "d72b50ce139ee3662e1830b0cb83e7705dc7f337e1d4744337ce4f6f7ccfe6c7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/computer_normal_top.png"
+hash = "2a489ac614407c67063d2873a1736fb1d8b37a6f9d103b3d9a457b8f2d93742b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/disk_drive_front.png"
+hash = "8da36937ba7765a411da077bf33df4c22bdbb8b03e2903b8a263fab425a009fc"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/disk_drive_front_accepted.png"
+hash = "dfab07eb28f614a076b5301d50d98d7926142212ca0eec52dc56b896a7b31ec9"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/disk_drive_front_rejected.png"
+hash = "cd797b67563717ff286eb5651891beca60cd089374e664576dbcd385b1aef075"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/disk_drive_side.png"
+hash = "d72b50ce139ee3662e1830b0cb83e7705dc7f337e1d4744337ce4f6f7ccfe6c7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/disk_drive_top.png"
+hash = "2a489ac614407c67063d2873a1736fb1d8b37a6f9d103b3d9a457b8f2d93742b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/modem_back.png"
+hash = "0aff8ecd257de8bfd31f499842a16b0d7feb8ce1ec9b53b3e9b49ca7b89e2b8c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_0.png"
+hash = "ca185b74a446d5724116eda2a67380ea6ed83493d5ff2f84eead625c6f510e9c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_1.png"
+hash = "535c04111a904a906c7a42bf39d5f007badb9cb9d6125fce14b2aac92256ea80"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_15.png"
+hash = "ff2ae78cf48c97591d369c596b569785f3b53ba22b571c561de5ca91fced2f0b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_16.png"
+hash = "00955533ed18392fa0e9558913026bcd03b601296bc01f1794e8790a756a9ba2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_17.png"
+hash = "b7d958e0caf7245f3c3f063d8c0e678a00f094c9e005735489d81821dfe84da4"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_18.png"
+hash = "c8ababec324cd486bbfdba5cc0babd024862810eaccb0f7c6eecc187028ca3f2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_19.png"
+hash = "6cc25a7ee140fded8317fa080820663b1708fc252e847479e85709838878ba4e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_2.png"
+hash = "71f58c2bf9eea10390d738ae4dac4c44182d1c0ce2822ff638cb3383b3ae2add"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_20.png"
+hash = "3af10a89b7a11cec9946dce5285ff8fa4a30b62ed3b732153a8170a7a5bba7ba"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_21.png"
+hash = "cec492604febbeb14e3ceeb3bf34e7e6316e3c235d7c72e59224dc3348077430"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_22.png"
+hash = "4f14f8cd9f48868a4aeecb86b6665010249af31637dfd2a6ecc7e7bdaf66d944"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_23.png"
+hash = "aa602592d657761a6efb60e13b373c0560f6790943ddebdadfb3fdd20984ee3d"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_24.png"
+hash = "609406ec0c7f102f33466d7ffc0bb53788fbf368d8b7c3fd6d8e91277a3e47e9"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_25.png"
+hash = "97853d729914eee0e22dbe05a3015cda59b5425c3ca786bd0ed0ef764451180f"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_26.png"
+hash = "9d79f0869060107415438a9421ce8ac60d995948a57d9fba71c31989256bf5ee"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_27.png"
+hash = "50b068e07b4bf235705c19b77da49fdbbc7e98ddc0a46f1c6659cca98c963904"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_28.png"
+hash = "687f7d9289c339fefe546da94ec9c4e8355d1fb7f1aa73aa63146b1ca27b54b8"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_29.png"
+hash = "3eef7e454a98a742c7572bf2ec1e217598a3dfc2a3cce7d72f4e1afacae792d9"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_3.png"
+hash = "13830a8b34b9fd39ecee6cea46a8d2c68e75f8996480ff2db0cd42910a4c303a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_30.png"
+hash = "7b217eda6201c6c77293c8d32162f9ee15e838c8cf57e643f04d82f2a9d84b67"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_31.png"
+hash = "d5b18339e5135d86ecbb347fab5c8aaf4c41255ff5937872fb80340ec36c15c0"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_32.png"
+hash = "051e2bbb3b51c32a2f228b326baf1fa8ac463587ad7b26bb601ae3be8aa4a4a7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_33.png"
+hash = "3c4ce8d74c6401fa7a81a323b1402d8939fabae413c4a8c800eeb525f1585b94"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_34.png"
+hash = "c7360250ad6ab9c895a6b0c56926616e5fdff17398e1ccdb286228fb9378710d"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_35.png"
+hash = "7062dfdc6aac08770491fb48f22cbfb007bb60e778330a80841b726c0d420d36"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_36.png"
+hash = "53769f375490f01f4e545c2b4e31fd86001b9d6fd906c07d75bee956c40a8c16"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_37.png"
+hash = "04e311d29b0dfcfd3660b4fb61c8d651217fc42e078917cb4be18f40818f46d7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_38.png"
+hash = "244223034b009949d25eb08d2106133f3854434f020de793f002d73cf3489404"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_39.png"
+hash = "73b09833625bfe9d6910e2f2f71dcc7ad6b9b2f9d5c7e15ee9a4dceaf01db93f"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_4.png"
+hash = "051e2bbb3b51c32a2f228b326baf1fa8ac463587ad7b26bb601ae3be8aa4a4a7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_40.png"
+hash = "1a41f11b82497b642ae809f30a4013fe62fe4ba9c1ebb569015a39bb6dbb679a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_41.png"
+hash = "75ee47511c6573bc3f471938853d6ae466754da8f949a62c0e7b1f626cd41dc1"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_42.png"
+hash = "335452e55167dda5a6da4661c30bb7a9669b30333c29c8cae0a9dfeb3b71b074"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_43.png"
+hash = "c1e003b0049bf9fe12a8ab1ad5b610e322defceb67cd67f4a94c166ade895f62"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_44.png"
+hash = "25a5bdc2c67200df48b7a27b246aa1a4a8afe0d2ad68f9628dbc2097dd24907c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_45.png"
+hash = "11b6400fff4afea472be7c8105dfc7bc9c277c16cf53a088e5d20973e6c1b47f"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_46.png"
+hash = "827a998824eebdced1d47f7bf4da1250c6a0c37a7fd015f8f75ce6cfeb3934e0"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_47.png"
+hash = "621e5880fe7e0aa32048cc08233b94884868770738ed2a69984b7b8412b71298"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_5.png"
+hash = "7e4dcd5247fc21ab0f4d7536e8123a3f72a1c43705d97c91831d5992999545d6"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_6.png"
+hash = "04e311d29b0dfcfd3660b4fb61c8d651217fc42e078917cb4be18f40818f46d7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_advanced_7.png"
+hash = "9d6d5c76964f31cd4673f11152e9ab669bb0a851b5eb9da4737056a917825cfd"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_0.png"
+hash = "3cc951a6d14dff202fbdefcf64af43276b895d593fe061b12087812bd050f051"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_1.png"
+hash = "3fa86af86dd80ae321f02842b0524748fc360bf196a60f022d2781ef85b21f42"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_15.png"
+hash = "4c6a9d2fc2836786d44cfa23917232010aac407959f12fc0ff416d2d1f774af7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_16.png"
+hash = "84c03c557c88538b7bb0e38efccadfac4f47707634f99a02c2f4f9a97fdaba0a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_17.png"
+hash = "48e362cb29638e9d2e89a84f2dcbc3791a1cc2f03e17639d754bc2c1238e2c5e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_18.png"
+hash = "80583acc26f32a97f7ba5546f0d35e7399a02a8c5a3f993b0045aeca057e64f8"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_19.png"
+hash = "110893a09eaea4dc65ea065b9cbf8189153514e3caaf9940879c0e38f5ff148b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_2.png"
+hash = "04cfd1da4f9abbddd591c8a7db0d6de779f38cc184bee56a8f986242f1ba9393"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_20.png"
+hash = "244c9eb0fdcf648bbda2332efb0ded2f96a9aebd16ac4ba4daa7e3d8e07857c2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_21.png"
+hash = "eedd60917451416d8e2080587cae864fee81febe209b3fbdd74136fd57c10819"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_22.png"
+hash = "79da392831193958432480e3cd99c9785dffe772daa3a2df11ff411502f4f474"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_23.png"
+hash = "27ac07a21df10c1f6931278ac865a3ae9da35f7c4e834baf1220db0b56f0740b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_24.png"
+hash = "b4d749dfa8a526fe8f967076f0d38b39e90f65dca502bc9abb4cf1fe3890415e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_25.png"
+hash = "ad6aba3ea10febeef170b86af5ccadcc188b8c83814f34b687608146123c22d0"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_26.png"
+hash = "29346a0d226393f4149220f3d99441434e0963588f0860e405e780b9922571ba"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_27.png"
+hash = "50b068e07b4bf235705c19b77da49fdbbc7e98ddc0a46f1c6659cca98c963904"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_28.png"
+hash = "d9c0686b9301f12f49675f6e7cef39922760ca42109d8e243b9a77e2d76d902c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_29.png"
+hash = "109b387e96cc8131b8b0e1c7cf8a632642586997d097c581c0df433bc6f07790"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_3.png"
+hash = "bbc21fd7b25cee448694fabb93e7561526103003bb969959de9bb8b72a91cc53"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_30.png"
+hash = "293289643c40ccca80b361ddd089105bc58a72b8383636336ade497e22d2991e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_31.png"
+hash = "43d385d321fd8d6642639446eee0070e24aa024200509d576aaa307fdd8efb03"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_32.png"
+hash = "410430520d900016c9bb614b53caf5e5312ae88948fa1fc9c9c2f8aa8758b1c4"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_33.png"
+hash = "8a809d082bf3f44c0c1ffebf6816ed1f8bab5648f2919e88fc92fbb3763e1cf7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_34.png"
+hash = "a18ed936e706d11ff4ed999d6e98c00027e50777c0ba47c39f0344fe53d30c71"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_35.png"
+hash = "ba7abf585185dd4afe03195e99c7a6d921d294e2b4352c977801be2392aea2ad"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_36.png"
+hash = "19b12b4361a34b9fb017a373ce0e3e6c7d57350ca73effd7aaadaf44b47501a2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_37.png"
+hash = "7bf879939276c8700cccaedad98b11b259c941ebde37877ddc149f15b3170a02"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_38.png"
+hash = "bdae03025ca14e9ccc4fa584c6545d26921474db1c63180936d9abc53882f10c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_39.png"
+hash = "474c4d018a70f4a92e27b8b3994682d6808de3a676a822e4d787687ff9a969a5"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_4.png"
+hash = "410430520d900016c9bb614b53caf5e5312ae88948fa1fc9c9c2f8aa8758b1c4"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_40.png"
+hash = "caba8a0e8eb67c45eeb80838665b34d1573053bf820a338321435e9dcfc483da"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_41.png"
+hash = "f45139281dc113afd09ef1c7dae7d86bc78e97e2af12aa6b5f5d1fca1e562a58"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_42.png"
+hash = "3cb83ca3e48bd181a1d349cc2c08c6c36318cef2921d14056a34c9bc0ce0371b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_43.png"
+hash = "c5e16625ffd39488bb6bfa8966a85ce554d4bc9748537601301545197a4c442a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_44.png"
+hash = "df3fa80d32caab369544a70613182944770b43c4a2d120010846f5fe949c48d6"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_45.png"
+hash = "5158e7ecd2aec34271d62f590708abf74e0015f97a5d0da3ad61e81a7a813c57"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_46.png"
+hash = "54e2eb105519b1e11b882596d16d09a3ec31a37cbbb0cd491193e5370bfe38ee"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_47.png"
+hash = "85a08c9538726d1cf62ab3a14d913d76dbf10e7d8597ba44b1c3cd2f8bc5b5aa"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_5.png"
+hash = "bdae03025ca14e9ccc4fa584c6545d26921474db1c63180936d9abc53882f10c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_6.png"
+hash = "7bf879939276c8700cccaedad98b11b259c941ebde37877ddc149f15b3170a02"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/monitor_normal_7.png"
+hash = "19b12b4361a34b9fb017a373ce0e3e6c7d57350ca73effd7aaadaf44b47501a2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/printer_front_both_trays.png"
+hash = "fa2fa79e6b50a7beea3f1420f6a26d42962107b8ecc36106beebfd4f16583431"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/printer_front_bottom_tray.png"
+hash = "8b64b07c17c7e7807e6ff5f016b8f18aae652d4ea4e67874c1b1af7133df902d"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/printer_front_empty.png"
+hash = "3fc0241469a7800dce468aa5f27a2d4b95a1a817ca385b33d1636a53ef26a044"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/printer_front_top_tray.png"
+hash = "3e2882779a7c90e29b772638f71dab1b1a6e45b5ec0d8a0745aa330c05f9abae"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/printer_side.png"
+hash = "d72b50ce139ee3662e1830b0cb83e7705dc7f337e1d4744337ce4f6f7ccfe6c7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/printer_top.png"
+hash = "2a489ac614407c67063d2873a1736fb1d8b37a6f9d103b3d9a457b8f2d93742b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/speaker_front.png"
+hash = "6622d57f32681838956c3e7dcb764ce2c49dc40a21b55734a227949ae0fc4a08"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/speaker_side.png"
+hash = "d72b50ce139ee3662e1830b0cb83e7705dc7f337e1d4744337ce4f6f7ccfe6c7"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/speaker_top.png"
+hash = "2a489ac614407c67063d2873a1736fb1d8b37a6f9d103b3d9a457b8f2d93742b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/turtle_advanced.png"
+hash = "23c5e1274ed9e94ce1367dae22425b00972ef7978d495056626b854046955406"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/turtle_colour.png"
+hash = "b7193c09a0fd387ba98949687e771ce5f51857b5ab9e95ee6ed1b3d4f815d12c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/turtle_crafty_face.png"
+hash = "3920082eda4c6653177920033ab580fc8feb227dec6f8b2775c5057ad66618b2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/turtle_elf_overlay.png"
+hash = "3ac4c28b50b30682790b9f4812e5bd3a56911d9671503c1eebd512d3a1f38dd4"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/turtle_normal.png"
+hash = "e524f1f6daae6a1446aa06e2bb4b8180e604a14137651ccf2eccb646b5812418"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/turtle_speaker_face.png"
+hash = "a35b6ce300e5a48349cf2b7aed447eef5953249cfa94f481e608eb00f07e4088"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/wired_modem_face.png"
+hash = "15e9173f2852edf30efdf76c47459bfc98290b3fa081234719204898ff5f019c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/wired_modem_face_on.png"
+hash = "0321a14d79a49072be71444db48ba977a1f3dfed9e34aa2776e989e0c4c46fa2"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/wired_modem_face_peripheral.png"
+hash = "e08995a40b0ec020e8543f6173b3ca237820f0dc0996f7e7ee29e7cb1f810071"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/wired_modem_face_peripheral_on.png"
+hash = "50bc09272ed05c74e02f7a1a8ffd09a6da5bea499fc33e215ec5e8ed30039cbc"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/wireless_modem_advanced_face.png"
+hash = "2d329dd4b1ea5d3de23774880d5bdc130f2e91a76f8a8319b2b75e5569226290"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/wireless_modem_advanced_face_on.png"
+hash = "ce0b671516a1afbd8224f7725f5a1fa3e1d09572c9ad13b50624378af520f6aa"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/wireless_modem_normal_face.png"
+hash = "eb5f44f0a0b2d6119a8d81d818502a2ae4648ad0e819a01b28bbd4072e3e92ce"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/block/wireless_modem_normal_face_on.png"
+hash = "942b8f07b00ff85f733e4a7568acbde6771863d63008e1b746aa840e1e35a986"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/blank_screen.png"
+hash = "62e9fd1e7177d36e0046de9616f3ba8b679d86b4b120173f3861ce8e3bedf6e3"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/buttons.png"
+hash = "3c106cbdafddeae3456c9550be4dfffe7b295fa408c377be628e1be328e31a6a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/corners_advanced.png"
+hash = "689ead27a1f49ea9136668e6e335b0d7e6761927a1c2061150739cf8534d26cd"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/corners_colour.png"
+hash = "6bb8829744f86fa6a4d71889a94eed42ef6cfd31240216493b363018f5e91d83"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/corners_command.png"
+hash = "793f1fb091c727f386cb54607a0b95a3d1997e56236be6760149dc36c541124a"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/corners_normal.png"
+hash = "f1e06dd517cf9442c9f55b3a2be282003701a7cb6b15b5712bff14748db8b3b8"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/disk_drive.png"
+hash = "ab180a679a2b20c6a85263fc2776763a0be9af12b7734ffaf15f6b7c04c510fd"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/printer.png"
+hash = "074a9fc129f238a532912df2f18914347a06d8d65769d96ca0fa9e6ad704fdf9"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/printout.png"
+hash = "de5a6a91866c54f2d4f5b402c937e9db98ed8d87db291adb286938aaa3e45297"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/term_background.png"
+hash = "b19befcf2df0821467fa69f1da9cea7f938c3a81c99742dcfce7c31c6ca21e1f"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/term_font.png"
+hash = "00b7505aa0ac2f4492a9e5ec9aba896e7289e5f574e8ef0860ccaa7c544dd91b"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/turtle_advanced.png"
+hash = "e7a6234f05d9c6bd65a7aecf4bc75c49f0905d59c1eae4fafa48e9223136e30e"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/gui/turtle_normal.png"
+hash = "e036269949cbbf96802e4c15bd46bbf41a10b6de1fc233eefd824d5e3c08bcaa"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/disk_colour.png"
+hash = "9dbad0a199a201771af6d985c5d57670639bb4bc6e86cbc0701eed50e2421f95"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/disk_frame.png"
+hash = "42d7e85fc810515794b9527d97f5d582c72f1c8f920c044275c9ae5ce2bdaf4c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/pocket_computer_advanced.png"
+hash = "83e3ab8f8ad58c3b5e93f81409e5e5beab42e2146bdaf1ba6d1ebf873d6ebf20"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/pocket_computer_blink.png"
+hash = "515eba10c8a3d98e76dd66fb0f7567669cf402b4f7ee082512fe467b0e2cf203"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/pocket_computer_blink.png.mcmeta"
+hash = "cedb1e67aa152a161a26b225b5787021757e12d0ba0f5a2964632095cd801d19"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/pocket_computer_colour.png"
+hash = "9fa30d43d97c91b362dedba8ad70562410a7214f4ffe33c73c820bd009255725"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/pocket_computer_frame.png"
+hash = "b9e4d90f6237fc514fd1c14a4eed9a944a9db9f6d1ec374d828df34c7de26bdb"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/pocket_computer_light.png"
+hash = "4aea97c1c8363b236af0ddca384a56273cc842c6135e61ef2dceaf8bc83586e9"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/pocket_computer_normal.png"
+hash = "12380254e90bf2da15e8f80c39693c58b59cb1fede06cc8c6857edd8fc0903e0"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/pocket_computer_on.png"
+hash = "06ceb64e0081becb98a5b1b46e7e5a2249c6acadd8806a77dbdd371c0804b6f9"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/printed_book.png"
+hash = "cc65474148b5fc499010e449eb841783d5385a6973908d8db17a03dde5c65f8c"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/printed_page.png"
+hash = "ac72ae5ed3a5a59b083d94138e140912268e207c67c9d5166122ee7bd65af730"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/assets/computercraft/textures/item/printed_pages.png"
+hash = "ffe650cb85573816d010333ffb5746930585bc9b19334b47915fd0adac5b8081"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/pack.mcmeta"
+hash = "7c58e85a16cf97610d70cc87f781ec3cbb179334f8405a132e74c42401433981"
+
+[[files]]
+file = "config/openloader/resources/cc_restitched/pack.png"
+hash = "22b64e8d9599b0e657fe2e5d9d805c32b4ec727584b108949862690820eeead8"
 
 [[files]]
 file = "config/openloader/resources/immersive-engineering-d-hammer.pw.toml"
@@ -1921,7 +3177,7 @@ hash = "172360cba7fb147ba8e61251540e4e8a531a4a95a86c917e0be3c484db2ce8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "5feca91c5aff88e28a3b212768dcd799be07926f185251b44f52ebe2c0d5cdc0"
+hash = "ad45dd92050ca8185e439bdc7e18e1ad508fe2196dabceab2bfa090faf9dda41"
 
 [[files]]
 file = "kubejs/startup_scripts/0_globals.js"
@@ -2003,7 +3259,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0112d33ef55ca337e21a5d71bb570ef8a72eb408f68ad1c9b7f58835cf579980"
+hash = "4864451af376b26104b421900f69a0bea7c462edc2e47e359a341dbc457f3508"
 metafile = true
 
 [[files]]
@@ -2069,6 +3325,11 @@ metafile = true
 [[files]]
 file = "mods/betterwaystonesmenu.pw.toml"
 hash = "82dacd554d80980cdbf37c208eb58a971609a2d8362d24888a77e93c37ecdebf"
+metafile = true
+
+[[files]]
+file = "mods/biggerreactors.pw.toml"
+hash = "3a8df3d71bfa5d5c5f0b42155f4ae59e26640e79f52d3ef6cfc1ce82383b5d80"
 metafile = true
 
 [[files]]
@@ -2174,11 +3435,6 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "a976020b14b54af93fce4c3a6ee46dd63847d43c0b94ea458d04fabe1c1b8534"
-metafile = true
-
-[[files]]
-file = "mods/cofh-core.pw.toml"
-hash = "4bead8d6c5c8980ab13895e7378c508f7ad9d51c80163fbb202776551f8a3384"
 metafile = true
 
 [[files]]
@@ -2402,6 +3658,11 @@ hash = "25c38e89ea1dd160b55fa2cea69ea79499f8836a358fe8b5b48e181c465d053c"
 metafile = true
 
 [[files]]
+file = "mods/evenmoreinstruments.pw.toml"
+hash = "7b9b5c62ca3ce97602b7f448593e3bf3039c5154998797955af38513d3064f65"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "5027be50907a984836fdb8f9329421519ddfd8201a76f8afbfb172da8425b940"
 metafile = true
@@ -2419,11 +3680,6 @@ metafile = true
 [[files]]
 file = "mods/ex-nihilo-sequentia-mekanism-addon.pw.toml"
 hash = "2d8e575a386f6fc43e66bfeac162461ba0900c9f5d8ce7bc03bbfdba6cf86319"
-metafile = true
-
-[[files]]
-file = "mods/ex-nihilo-sequentia-thermal-addon.pw.toml"
-hash = "c1de1b449ce2aebf9c5f4056716c48c7b6c8ac5466e1ab196ba8ae6fe44b3d89"
 metafile = true
 
 [[files]]
@@ -2527,6 +3783,11 @@ hash = "345c513e6f9a7fe31fa382c5ad34ba9447ffeac4e261c4dd9bb0a49d1cc23dd7"
 metafile = true
 
 [[files]]
+file = "mods/genshin-instruments.pw.toml"
+hash = "43232940486c804dbd4e9f95c709dd0c7e891fc25faa3c1c4b79e54e8b8b3fc4"
+metafile = true
+
+[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "edf611fc10f5bc529b59065a6374ed225beb3b26d0164f5eaa11d598f97c4b3e"
 metafile = true
@@ -2612,6 +3873,11 @@ hash = "e8085863c3eef68de62627eb1d19b59d1218d3662ee3abfeb5e49935dac7aa25"
 metafile = true
 
 [[files]]
+file = "mods/item-collectors.pw.toml"
+hash = "ca53f5d87e95a01501322e281193223369abdc16f041608988f9252ec4ade31d"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "b8cdd3ab0510e2992c905e46bda90f9c21e6706b0e6b0b86d5a5d2b05a2ab626"
 metafile = true
@@ -2659,11 +3925,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs-mekanism.pw.toml"
 hash = "3be10aca1353ea4c9a6a76380ef56ff96982d8542f7db9dbf91288ea83359785"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-thermal.pw.toml"
-hash = "9451b4e570967d07f358f651ba77e6dea088681467068d1687e01dd3e2afa28c"
 metafile = true
 
 [[files]]
@@ -2897,11 +4158,6 @@ hash = "853ff79779d13ed88c9c08e8479cee401da7dd7507f1713fb45039581ccbc3cd"
 metafile = true
 
 [[files]]
-file = "mods/oh-my-gourd.pw.toml"
-hash = "16bab0ada5dbeb08461133fb506f348a05f09d8143421e24289e87692a86f386"
-metafile = true
-
-[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "f2909639ba570c117f5ab5fdd21f05fb424691dca447c502e48fb558cacd48a7"
 metafile = true
@@ -2949,6 +4205,11 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "b2177ee1f915ce56915f353857dfd6f5c69c7634d7c485f163df9d1e9a5a2af5"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "a38c05b0049bc0fe98ced48a657678b27f1d006d1496212c51cc889cb05a30e0"
 metafile = true
 
 [[files]]
@@ -3164,31 +4425,6 @@ metafile = true
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "e0383310de26522b69832c910765574e85a5837a4872bf5e58e9a91c08df1a36"
-metafile = true
-
-[[files]]
-file = "mods/thermal-dynamics.pw.toml"
-hash = "f1d1bee4ade8c850069defd4d7e610ded910a464c9b7302221fb4e6345db7243"
-metafile = true
-
-[[files]]
-file = "mods/thermal-expansion.pw.toml"
-hash = "2f2ce142e3ad20f13b2447f89932bc4461c7faedce5d77e15e3b71179eef6188"
-metafile = true
-
-[[files]]
-file = "mods/thermal-foundation.pw.toml"
-hash = "1da61469128f1c46641816f3695bbc9557b5e1940d6452a7eed6fdc75adde607"
-metafile = true
-
-[[files]]
-file = "mods/thermal-innovation.pw.toml"
-hash = "f4e116fd3b821d13c368e5454a44796fb3267c22291b5347ec6396dfdec35e6d"
-metafile = true
-
-[[files]]
-file = "mods/thermal-integration.pw.toml"
-hash = "9cd5ef09863f43a56ba56a1a3ce74f653148f9678173d16c366860bccfbadb4e"
 metafile = true
 
 [[files]]
