@@ -245,8 +245,8 @@ function craftingIngredientsUnify(event) {
     event.replaceInput({}, 'thermal:rf_coil', MEK('basic_control_circuit'))
     event.remove({ output: 'thermal:rf_coil' })
 
-    event.replaceInput({}, IE('sawblade'), 'thermal:saw_blade')
-    event.remove({ output: IE('sawblade') })
+    //event.replaceInput({}, IE('sawblade'), 'thermal:saw_blade')
+    //event.remove({ output: IE('sawblade') })
 }
 
 function extendedCraftingSetup(event) {
@@ -441,7 +441,7 @@ function andesiteMachine(event) {
         'S',
         'C'
     ], {
-        S: 'thermal:saw_blade',
+        S: IE('sawblade'),
         C: CR("andesite_casing")
     })
 
