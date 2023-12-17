@@ -2,14 +2,14 @@
   "modPriorities": [
     "minecraft",
     "kubejs",
+    "biggerreactors",
     "ae2",
     "create",
     "create_dd",
     "createaddition",
     "tconstruct",
     "immersiveengineering",
-    "mekanism",
-    "thermal"
+    "mekanism"
   ],
   "stoneStrata": [
     "stone",
