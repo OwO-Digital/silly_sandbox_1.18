@@ -735,7 +735,7 @@ function misc(event) {
 
     event.remove({ id: /reliquary:alkahestry.*/ })
 
-    event.replaceInput({ id: 'reliquary:fertile_essence' }, MC('green_dye'), TE('phytogro'))
+    event.replaceInput({ id: 'reliquary:fertile_essence' }, MC('green_dye'), 'mysticalagriculture:fertilized_essence')
 
     event.remove({ output: 'reliquary:wraith_node' })
     event.remove({ output: 'reliquary:fortune_coin' })
@@ -750,7 +750,7 @@ function misc(event) {
     })
 
     event.remove({ output: 'tiab:time_in_a_bottle' })
-    event.shaped('reliquary:fortune_coin', [
+    event.shaped('tiab:time_in_a_bottle', [
         ' S ',
         'SCS',
         ' B '

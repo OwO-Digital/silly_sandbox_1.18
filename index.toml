@@ -3177,7 +3177,7 @@ hash = "172360cba7fb147ba8e61251540e4e8a531a4a95a86c917e0be3c484db2ce8db"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "ad45dd92050ca8185e439bdc7e18e1ad508fe2196dabceab2bfa090faf9dda41"
+hash = "edc6d1d2c1c3447ce2e5148e3f978429a5b48b908cd70b72e8f3a441abf19849"
 
 [[files]]
 file = "kubejs/startup_scripts/0_globals.js"
@@ -3254,7 +3254,7 @@ metafile = true
 
 [[files]]
 file = "mods/architects-palette.pw.toml"
-hash = "fa907377a77cfabd9b70b6e61bdcdd19d124bd86d7d3fb234c884ae03cd72683"
+hash = "1fa8b11d677fde0d611d88d044e3ae06413a85bdbe9dba7bed597775bc2bcfef"
 metafile = true
 
 [[files]]
@@ -3374,7 +3374,7 @@ metafile = true
 
 [[files]]
 file = "mods/cb-multipart.pw.toml"
-hash = "caf5e99683ec2717b4e1feeb120f96db119a6eea1d5f1d7aca9ea04079f8e447"
+hash = "74a98b93cf07e7571f9aac6b0af7b43ddfc1ab055969568ad9114792a154af4e"
 metafile = true
 
 [[files]]
@@ -3504,7 +3504,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "1d5fe1d15804be3c9e4bca586f0740e9bff6ad09b17afe80626730dc1ee881f5"
+hash = "315d472e9c8da1c376a695816991b7d02c5f54a03ab148de2d2fda112abe046b"
 metafile = true
 
 [[files]]
@@ -4139,7 +4139,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
@@ -4224,27 +4224,27 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "6e4195ff96f69d80bb92b04f558c413ff56dd3304386143e112e920b979b8c60"
+hash = "f23543d763d527b6c1efb1a6f7083334fc42519eb298291b402603f3a499a531"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "bcfbc0616d2f18c25bba3be9d2374ee9239aab6e7a98ef61381c4708d9607ec2"
+hash = "d493ab5312e7d723226e46924c8b31a7c9787e7f968ee37552c4aa0f9e914cfd"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "be44f626c9521c59a33b26d1c6166da790159749dd02eca7442f1d5bc1beac94"
+hash = "901d67919999e4af126b684c5eaf460ebe2465fd993acf035f75cc3fbcb14fb5"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "8ddb4de9d147bef769f80d41345fbd054cdc6bb1e58067421d3e3c94d1662278"
+hash = "579f599057aa9e706a96bda8df93a5970be8c5daddce2fc165ad74588e378fab"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "decb7360914fd9bddc088c4fb126657fcba0f8ebc4f7886f898ac0ec6baa2ce3"
+hash = "d796e7a03133551ae29b042e8ff423d0af57603298a81f5dcad469bcecb7fb8d"
 metafile = true
 
 [[files]]
@@ -4324,7 +4324,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "ee439f52a7b0ebe024c54f05c461250dbb8e17991981c6636921ed659e96485d"
+hash = "bc674efbb580778df5539360a2872cba945e3776985e13380432ce0e45e49e7a"
 metafile = true
 
 [[files]]
