@@ -3748,6 +3748,11 @@ hash = "56f04c5afb59f692b6ff25f781a74d1f61505fd72d4ef647861f07c4e6780189"
 metafile = true
 
 [[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "0e17c4b8c614c0f32d8b1e059b913954d400afa96392b52eb0ece962b1eb3472"
+metafile = true
+
+[[files]]
 file = "mods/framed-compacting-drawers.pw.toml"
 hash = "16e390584c446fdfea4b64dd1249e39dc46f6b7d7c5aea6aa2ab991d91c4c2fc"
 metafile = true
